@@ -4,3 +4,5 @@ description: A little light. Every day. / Jeden Tag ein Türchen.
 baseurl: /tuerchenzeit
 url: https://deckerweb.github.io
 show_downloads: false
+kramdown:
+  smart_quotes: [39, 39, 34, 34]
