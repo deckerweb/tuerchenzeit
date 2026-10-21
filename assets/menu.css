@@ -1,0 +1,2 @@
+#menu-posts-ttz_calendar .wp-submenu li:has(>a[href="edit.php?post_type=ttz_door"]){border-top:1px solid #ffffff26;padding-top:7px;margin-top:7px}
+#menu-posts-ttz_calendar .wp-submenu li:has(>a[href$="page=ttz-guide"]){border-top:1px solid #ffffff26;padding-top:7px;margin-top:7px}

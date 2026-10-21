@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 300 300"><title>Türchenzeit — 01 · Licht hinter der Tür</title><defs><clipPath id="round"><rect width="300" height="300" rx="52"/></clipPath></defs><g clip-path="url(#round)"><rect width="300" height="300" fill="#193e33"/><g transform="translate(24 30) scale(.84)"><path d="M59 258V102a91 91 0 0 1 182 0v156" fill="#f1dca3"/><path d="M49 264V103a101 101 0 0 1 202 0v161" fill="none" stroke="#d7b776" stroke-width="7"/>
+  <path d="M70 255V105a80 80 0 0 1 104-76V275Z" fill="#193e33" stroke="#d7b776" stroke-width="5"/>
+  <path d="M89 116V82q28-31 64-31v95M89 161v69l64 18v-86" fill="none" stroke="#d7b776" stroke-opacity=".48" stroke-width="3"/>
+  <circle cx="151" cy="158" r="5" fill="#d7b776"/><rect x="204" y="182" width="10" height="57" rx="3" fill="#193e33"/><path d="M209 174 C194 164 214 156 209 148 C228 163 220 170 209 174Z" fill="#d7b776"/><path d="M32 274h236" stroke="#d7b776" stroke-width="6" stroke-linecap="round"/>
+  <polygon points="227.00,79.00 216.76,81.76 214.00,92.00 211.24,81.76 201.00,79.00 211.24,76.24 214.00,66.00 216.76,76.24" fill="#d7b776"/></g></g></svg>

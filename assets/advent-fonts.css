@@ -1,0 +1,9 @@
+/* SIL OFL 1.1; local faces are fetched only when selected text uses them. */
+@font-face{font-family:"TTZ Source Serif 4";font-style:normal;font-weight:200 900;font-display:swap;src:url(fonts/source-serif-4-roman.woff2) format("woff2")}
+@font-face{font-family:"TTZ Source Serif 4";font-style:italic;font-weight:200 900;font-display:swap;src:url(fonts/source-serif-4-italic.woff2) format("woff2")}
+@font-face{font-family:"TTZ Inter";font-style:normal;font-weight:100 900;font-display:swap;src:url(fonts/inter-variable.woff2) format("woff2")}
+@font-face{font-family:"TTZ Inter";font-style:oblique 0deg 10deg;font-weight:100 900;font-display:swap;src:url(fonts/inter-variable.woff2) format("woff2")}
+.has-ttz-source-serif-font-family{font-family:"TTZ Source Serif 4",Georgia,serif!important;font-optical-sizing:auto}
+.has-ttz-inter-font-family{font-family:"TTZ Inter",system-ui,sans-serif!important}
+
+:root,.editor-styles-wrapper{--wp--preset--font-family--ttz-source-serif:"TTZ Source Serif 4",Georgia,serif;--wp--preset--font-family--ttz-inter:"TTZ Inter",system-ui,sans-serif}

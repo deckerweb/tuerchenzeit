@@ -1,0 +1,20 @@
+<!doctype html><html lang="de"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Türchenzeit · Import</title><link rel="stylesheet" href="assets/import-guide.css"><main><h1>Tagessätze mit Bildern importieren</h1><p><a target="_blank" rel="noopener" href="IMPORT-en.html">English</a></p><p>Unter <strong>Türchenzeit → Hilfe &amp; Inspiration</strong> eine JSON-Datei oder ein ZIP auswählen und <strong>Als neue Entwürfe importieren</strong> anklicken. Das ZIP enthält <code>calendar.json</code> direkt im Hauptverzeichnis und die Bilder im Ordner <code>media/</code>. Keinen zusätzlichen übergeordneten Ordner einpacken. Der Kalendereditor exportiert weiterhin JSON; für ein übertragbares ZIP die zugehörigen Bilder hinzufügen.</p><p>JPEG, PNG, WebP und GIF werden unterstützt. SVG wird nicht unterstützt. Grenzen: 20 MB pro ZIP, 50 MB entpackt, 100 Bilder, je Bild 5 MB und 20 Millionen Pixel (keine Kante über 10.000 Pixel). Upload-Grenzen von WordPress/PHP sowie die erlaubten Medientypen der Website können diese Grenzen verringern. Der Server benötigt die PHP-ZIP-Erweiterung.</p><p>Das JSON verwendet das bestehende Türchenzeit-Format. Ein minimales Beispiel mit einem Türchen:</p><pre><code>{
+  &quot;format&quot;: &quot;tuerchenzeit&quot;,
+  &quot;schema&quot;: 1,
+  &quot;title&quot;: &quot;Advent&quot;,
+  &quot;settings&quot;: { &quot;year&quot;: 2026, &quot;theme&quot;: &quot;evergreen&quot; },
+  &quot;doors&quot;: [
+    { &quot;day&quot;: 1, &quot;source&quot;: &quot;own&quot;, &quot;content&quot;: &quot;day-1&quot;, &quot;mode&quot;: &quot;dialog&quot;, &quot;image&quot;: &quot;media/light.jpg&quot; }
+  ],
+  &quot;contents&quot;: {
+    &quot;day-1&quot;: {
+      &quot;title&quot;: &quot;A light of hope&quot;,
+      &quot;content&quot;: &quot;&lt;!-- wp:image --&gt;&lt;figure class=\&quot;wp-block-image\&quot;&gt;&lt;img src=\&quot;media/light.jpg\&quot; alt=\&quot;A warm light\&quot;/&gt;&lt;/figure&gt;&lt;!-- /wp:image --&gt;&lt;!-- wp:paragraph --&gt;&lt;p&gt;A moment of hope.&lt;/p&gt;&lt;!-- /wp:paragraph --&gt;&quot;,
+      &quot;image&quot;: &quot;media/light.jpg&quot;
+    }
+  },
+  &quot;media&quot;: [
+    { &quot;file&quot;: &quot;media/light.jpg&quot;, &quot;alt&quot;: &quot;A warm light&quot;, &quot;url&quot;: &quot;https://old.example/light.jpg&quot; }
+  ]
+}
+</code></pre><p>Für einen kompletten Tagessatz <code>doors</code> mit den eindeutigen Tagen 1–24 und <code>contents</code> mit den zugehörigen Inhalten ergänzen. Classic-HTML und Standardblöcke des Block-Editors (Gutenberg) werden unterstützt. Bilddateinamen dürfen nur Buchstaben, Zahlen, Punkte, Bindestriche und Unterstriche enthalten; die Dateiendung kleinschreiben. Die optionale Liste <code>media</code> enthält den Alternativtext für die Mediathek und eine alte URL zum Ersetzen. Verweise können den Paketpfad oder diese alte URL verwenden. Verwendete Bildvarianten, etwa verkleinerte Bilder mit eigener URL, separat eintragen und beilegen. Es werden keine externen Dateien heruntergeladen.</p><p>Jedes enthaltene Bild wird pro ZIP-Import einmal übernommen. Passende Türchenbilder, Beitragsbilder und eingebettete URLs werden auf die neuen lokalen Medien-URLs umgestellt. Native Bildblöcke erhalten auch die neue Anhang-ID. Bestehende Inhalte werden nicht überschrieben; ein erneuter Import erzeugt einen weiteren unabhängigen Satz samt neuen Bildern. Neue Kalender und eigene Türcheninhalte sind Entwürfe und sollten vor dem Veröffentlichen geprüft werden. Der Originalschutz startet ausgeschaltet. Vorhandene Beiträge/Seiten werden nur über lokale URLs zugeordnet und nicht in das Paket kopiert.</p><p>Bei Fehlern werden die während dieses Imports angelegten Bilder entfernt; falls die Inhaltserstellung scheitert, werden bereits angelegte Inhaltsentwürfe in den Papierkorb verschoben. Vorhandene Medien und Inhalte bleiben erhalten. Öffentliche Medien-URLs werden durch die Öffnungszeit der Türchen nicht geschützt.</p></main></html>

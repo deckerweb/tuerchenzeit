@@ -1,0 +1,1247 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "%d of 24 doors ready"
+msgstr ""
+
+msgid "24 daily doors with dedicated private content or linked posts and pages."
+msgstr ""
+
+msgid "24 small moments begin with your contents."
+msgstr ""
+
+msgid "A Bible verse"
+msgstr ""
+
+msgid "A chosen Bible passage gives each door its own message."
+msgstr ""
+
+msgid "A favorite recipe, and the memory that makes it special."
+msgstr ""
+
+msgid "A few words just for you"
+msgstr ""
+
+msgid "A line or a thought to carry into the day."
+msgstr ""
+
+msgid "A little anticipation: {tuerchen} opens on {datum} at {uhrzeit}."
+msgstr ""
+
+msgid "A little film for Advent"
+msgstr ""
+
+msgid "A little light. Every day."
+msgstr ""
+
+msgid "A little surprise for {tuerchen} is still being prepared."
+msgstr ""
+
+msgid "A melody for Advent"
+msgstr ""
+
+msgid "A memory from the Erzgebirge"
+msgstr ""
+
+msgid "A moment of anticipation"
+msgstr ""
+
+msgid "A moment of hope"
+msgstr ""
+
+msgid "A moment to pause. Add your thoughts for this day here."
+msgstr ""
+
+msgid "A name with a little Christmas warmth"
+msgstr ""
+
+msgid "A picture story"
+msgstr ""
+
+msgid "A project by David Decker – DECKERWEB · Inspiration"
+msgstr ""
+
+msgid "A quiet close to the day"
+msgstr ""
+
+msgid "A reflection"
+msgstr ""
+
+msgid "A simple idea for a quiet December afternoon."
+msgstr ""
+
+msgid "A small Advent website often needs only this one page, plus your legal and privacy information. If you create your daily contents under Own door content, you do not need additional blog posts or content pages. This keeps your website lean and easy to manage."
+msgstr ""
+
+msgid "A small act of kindness"
+msgstr ""
+
+msgid "A small gesture can make someone’s day. What could you give today?"
+msgstr ""
+
+msgid "A song"
+msgstr ""
+
+msgid "A story for today"
+msgstr ""
+
+msgid "A taste of Advent"
+msgstr ""
+
+msgid "A thoughtfully designed Advent calendar for WordPress, with 24 daily doors, your own content, and an optional Advent landing page."
+msgstr ""
+
+msgid "A verse that accompanies you today."
+msgstr ""
+
+msgid "About Daily Scripture"
+msgstr ""
+
+msgid "Accent color"
+msgstr ""
+
+msgid "Action not allowed."
+msgstr ""
+
+msgid "Activate plugin"
+msgstr ""
+
+msgid "Add a calendar, choose its year and design, then assign content to the 24 doors."
+msgstr ""
+
+msgid "Add a photo of the finished piece in the image block."
+msgstr ""
+
+msgid "Add calendar"
+msgstr ""
+
+msgid "Add door content"
+msgstr ""
+
+msgid "Add editable header, footer and content patterns in the Block Editor."
+msgstr ""
+
+msgid "Add the ingredients and quantities here."
+msgstr ""
+
+msgid "Add the next steps, baking time and temperature."
+msgstr ""
+
+msgid "Add your YouTube link in the video block."
+msgstr ""
+
+msgid "Add your personal message here."
+msgstr ""
+
+msgid "Adjust popup colors, buttons and notices in your calendar."
+msgstr ""
+
+msgid "Administrator preview"
+msgstr ""
+
+msgid "Advent means arrival. We await Jesus Christ, our Savior."
+msgstr ""
+
+msgid "All calendars"
+msgstr ""
+
+msgid "All doors are ready."
+msgstr ""
+
+msgid "All doors open worldwide at the same moment: midnight in the WordPress timezone %s. A visitor’s local date and time can differ."
+msgstr ""
+
+msgid "All public content types"
+msgstr ""
+
+msgid "An Advent calendar for WordPress"
+msgstr ""
+
+msgid "An editable standalone Advent landing page, optional header/footer patterns and local fonts."
+msgstr ""
+
+msgid "Arrival"
+msgstr ""
+
+msgid "Assign all 24 doors and publish their contents."
+msgstr ""
+
+msgid "Assign content"
+msgstr ""
+
+msgid "Assigned doors"
+msgstr ""
+
+msgid "Assignment removed. Save the calendar to keep this change."
+msgstr ""
+
+msgid "At least two characters"
+msgstr ""
+
+msgid "Available"
+msgstr ""
+
+msgid "Available JSON upload"
+msgstr ""
+
+msgid "Available ZIP upload"
+msgstr ""
+
+msgid "Available upload: JSON up to %1$s; ZIP up to %2$s."
+msgstr ""
+
+msgid "Bible reference and translation"
+msgstr ""
+
+msgid "Block Editor (Gutenberg)"
+msgstr ""
+
+msgid "Bold"
+msgstr ""
+
+msgid "Brighter together"
+msgstr ""
+
+msgid "Button background"
+msgstr ""
+
+msgid "Button border"
+msgstr ""
+
+msgid "Button corners"
+msgstr ""
+
+msgid "Button style"
+msgstr ""
+
+msgid "Button text"
+msgstr ""
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Calendar diagnostics. Door readiness is shown in the calendar editor."
+msgstr ""
+
+msgid "Calendar not published yet."
+msgstr ""
+
+msgid "Calendar published."
+msgstr ""
+
+msgid "Calendar settings"
+msgstr ""
+
+msgid "Calendar unavailable."
+msgstr ""
+
+msgid "Calendar year"
+msgstr ""
+
+msgid "Calendars"
+msgstr ""
+
+msgid "Call someone who would enjoy hearing from you."
+msgstr ""
+
+msgid "Can I create a Christian Advent calendar?"
+msgstr ""
+
+msgid "Can visitors find door content in the WordPress search?"
+msgstr ""
+
+msgid "Changelog"
+msgstr ""
+
+msgid "Check publication:"
+msgstr ""
+
+msgid "Check readiness, simulate a December date, then publish the calendar and insert its shortcode or prepare a landing page."
+msgstr ""
+
+msgid "Cheerful memories and little Christmas episodes."
+msgstr ""
+
+msgid "Choose a JSON file up to 2 MB or a ZIP up to 20 MB."
+msgstr ""
+
+msgid "Choose a card to assign content. Search results appear directly below the search field. Assignments are saved with the calendar."
+msgstr ""
+
+msgid "Choose a file. New drafts are created for review; existing contents stay as they are. A ZIP can also bring the images."
+msgstr ""
+
+msgid "Choose accent color"
+msgstr ""
+
+msgid "Choose content"
+msgstr ""
+
+msgid "Choose content for door %d"
+msgstr ""
+
+msgid "Choose door image"
+msgstr ""
+
+msgid "Christmas closing message (paragraphs, bold and italic)"
+msgstr ""
+
+msgid "Christmas songs that stay with you"
+msgstr ""
+
+msgid "Classic editor"
+msgstr ""
+
+msgid "Clear visited-door markers"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Content assigned. Save the calendar to keep this change."
+msgstr ""
+
+msgid "Content editor"
+msgstr ""
+
+msgid "Content source"
+msgstr ""
+
+msgid "Content type"
+msgstr ""
+
+msgid "Content unavailable"
+msgstr ""
+
+msgid "Copied."
+msgstr ""
+
+msgid "Copy shortcode"
+msgstr ""
+
+msgid "Could not access the update filesystem."
+msgstr ""
+
+msgid "Could not create the update download file."
+msgstr ""
+
+msgid "Could not prepare the GitHub release package."
+msgstr ""
+
+msgid "Countdown and opening time"
+msgstr ""
+
+msgid "Countdown only"
+msgstr ""
+
+msgid "Countdown text"
+msgstr ""
+
+msgid "Craft ideas for cozy winter days."
+msgstr ""
+
+msgid "Create and assign own content"
+msgstr ""
+
+msgid "Create and publish your own door content, or use existing published entries."
+msgstr ""
+
+msgid "Creative December hours"
+msgstr ""
+
+msgid "Current website time"
+msgstr ""
+
+msgid "Days"
+msgstr ""
+
+msgid "Dear reader,"
+msgstr ""
+
+msgid "December 24"
+msgstr ""
+
+msgid "December 24 popup background (optional)"
+msgstr ""
+
+msgid "Describe the first preparation step."
+msgstr ""
+
+msgid "Describe the first step."
+msgstr ""
+
+msgid "Design"
+msgstr ""
+
+msgid "Design & inspiration"
+msgstr ""
+
+msgid "Design default"
+msgstr ""
+
+msgid "Display and embedding"
+msgstr ""
+
+msgid "Documentation"
+msgstr ""
+
+msgid "Does my calendar have to look like a German Christmas scene?"
+msgstr ""
+
+msgid "Door"
+msgstr ""
+
+msgid "Door %d"
+msgstr ""
+
+msgid "Door content"
+msgstr ""
+
+msgid "Door image"
+msgstr ""
+
+msgid "Door readiness"
+msgstr ""
+
+msgid "Draft — not public yet."
+msgstr ""
+
+msgid "Draft — publish this content"
+msgstr ""
+
+msgid "Edit Advent website"
+msgstr ""
+
+msgid "Edit assigned content"
+msgstr ""
+
+msgid "Edit calendar"
+msgstr ""
+
+msgid "Edit door content"
+msgstr ""
+
+msgid "Edit prepared next edition"
+msgstr ""
+
+msgid "Editable Advent content made only with standard WordPress blocks."
+msgstr ""
+
+msgid "Editor for all own door content on this website"
+msgstr ""
+
+msgid "Embed calendar"
+msgstr ""
+
+msgid "Enter a title for the new content."
+msgstr ""
+
+msgid "Evergreen"
+msgstr ""
+
+msgid "Example preview: door 4"
+msgstr ""
+
+msgid "Existing entry"
+msgstr ""
+
+msgid "Expecting Jesus Christ. Following the light of hope."
+msgstr ""
+
+msgid "Explain the next steps in a few clear sentences."
+msgstr ""
+
+msgid "Export a calendar from its editor as JSON. Import creates a new draft calendar and independent drafts for own contents. Existing originals are matched only by local URL; unresolved references stay empty. JSON reuses images already in the local media library. A ZIP can include calendar.json and raster images in media/; bundled images are added to the media library and content references are updated. SVG is not supported. Other embedded image URLs remain unchanged. Original protection starts disabled and annual switch links are not imported."
+msgstr ""
+
+msgid "Export and import"
+msgstr ""
+
+msgid "Export calendar JSON"
+msgstr ""
+
+msgid "Familiar melodies and new discoveries to listen to and sing along with."
+msgstr ""
+
+msgid "Favorite cookies and winter dishes from Grandma’s recipe books."
+msgstr ""
+
+msgid "Featured image"
+msgstr ""
+
+msgid "File formats and import details"
+msgstr ""
+
+msgid "Fill your calendar"
+msgstr ""
+
+msgid "Filled"
+msgstr ""
+
+msgid "Find editable header, footer and daily content patterns under Patterns → Türchenzeit. Landing pages and own content receive extra design colors while keeping the theme palette. Shared own content offers the colors of its assigned calendars."
+msgstr ""
+
+msgid "For other shortcodes, assign a post, page or suitable public content type and select Go to entry. The full page uses the normal WordPress output, provided the relevant plugin and template support those shortcodes. Choosing another content type alone does not change the popup rules."
+msgstr ""
+
+msgid "Full content button label"
+msgstr ""
+
+msgid "Gentle fade"
+msgstr ""
+
+msgid "Get started"
+msgstr ""
+
+msgid "GitHub release does not contain the plugin main file."
+msgstr ""
+
+msgid "Go through unfinished doors"
+msgstr ""
+
+msgid "Go to entry"
+msgstr ""
+
+msgid "Go to today’s door"
+msgstr ""
+
+msgid "God, thank you for the light in this day. Be close to those who feel alone. Give us peace for the night and hope for tomorrow. Amen."
+msgstr ""
+
+msgid "Headers and footers are optional. The included patterns give you a ready-made starting point for your own colors, text, and logo. You can also add navigation to the header, for example to further information or contact details."
+msgstr ""
+
+msgid "Help & inspiration"
+msgstr ""
+
+msgid "Hide checklist"
+msgstr ""
+
+msgid "Hours"
+msgstr ""
+
+msgid "Ideas for 24 meaningful moments"
+msgstr ""
+
+msgid "If an original is assigned more than once, the earliest opening in any published protecting calendar wins. Draft calendars do not lock anything. Removing an assignment, disabling protection, or unpublishing its last protecting calendar removes that lock. Reusing an already opened original does not lock it again."
+msgstr ""
+
+msgid "Images"
+msgstr ""
+
+msgid "Import a day set"
+msgstr ""
+
+msgid "Import as new drafts"
+msgstr ""
+
+msgid "Import: %d references or images need reassignment. Review all doors before publishing."
+msgstr ""
+
+msgid "In a calendar popup"
+msgstr ""
+
+msgid "In your own door contents and standalone Advent landing pages, select a text block and open Typography → Font (font family). Choose Türchenzeit · Source Serif 4 or Türchenzeit · Inter. If the control is hidden, enable Font from the Typography options menu. Choose Default to return to the inherited theme font."
+msgstr ""
+
+msgid "Ingredients"
+msgstr ""
+
+msgid "Inspired by Christmas in Germany’s Ore Mountains."
+msgstr ""
+
+msgid "Inspired by the Ore Mountains, a region in southeastern Germany known for its Christmas woodcraft and warmly lit windows. Its candle arches and carved decorations helped shape Türchenzeit’s quiet, welcoming atmosphere."
+msgstr ""
+
+msgid "Install plugin now"
+msgstr ""
+
+msgid "Introduce your chosen song and what it means to you."
+msgstr ""
+
+msgid "Invalid GitHub repository URL."
+msgstr ""
+
+msgid "Invalid ZIP. Include calendar.json and JPEG, PNG, WebP or GIF images in media/. Maximum: 20 MB compressed, 50 MB unpacked, 100 images, 5 MB per image. SVG is not supported."
+msgstr ""
+
+msgid "Invalid authentication provider."
+msgstr ""
+
+msgid "Invalid calendar file. Use a Türchenzeit JSON export (maximum 2 MB)."
+msgstr ""
+
+msgid "It is a German name combining Türchen, a little door, with Zeit, meaning time or season. It evokes the familiar ritual of opening a little Advent calendar door each day. We keep the German name in English, too. The calendar runs from December 1 to 24, with room for whatever you would like to share behind each door."
+msgstr ""
+
+msgid "Italic"
+msgstr ""
+
+msgid "JSON and ZIP imports for day sets, including raster images."
+msgstr ""
+
+msgid "Keep admin-ajax.php calendar requests outside page/CDN caches; responses send no-store headers. The calendar shell contains no locked door content or locked door images."
+msgstr ""
+
+msgid "Let Advent begin"
+msgstr ""
+
+msgid "List the materials here."
+msgstr ""
+
+msgid "Load YouTube video"
+msgstr ""
+
+msgid "Loading calendar…"
+msgstr ""
+
+msgid "Loading the video connects to YouTube. Your IP address is transmitted to the provider."
+msgstr ""
+
+msgid "Made with love for Advent."
+msgstr ""
+
+msgid "Make it your own"
+msgstr ""
+
+msgid "Make something with love"
+msgstr ""
+
+msgid "Messages for closed or empty doors"
+msgstr ""
+
+msgid "Minutes"
+msgstr ""
+
+msgid "Missing doors:"
+msgstr ""
+
+msgid "Mix the door numbers in a stable order"
+msgstr ""
+
+msgid "More about colors and patterns"
+msgstr ""
+
+msgid "Network activation lets you run independent Advent websites for different topics: recipes, music, reflections, or a local community project. Each website keeps its own calendars, contents, landing pages, settings, and WordPress timezone. Türchenzeit is also available on websites added later. Authorized administrators configure each website separately; network activation creates no pages or calendars automatically."
+msgstr ""
+
+msgid "New door content"
+msgstr ""
+
+msgid "New:"
+msgstr ""
+
+msgid "No content assigned"
+msgstr ""
+
+msgid "No content available."
+msgstr ""
+
+msgid "No matching content found."
+msgstr ""
+
+msgid "No plugin is installed automatically. Without Daily Scripture, use the native verse-and-reflection pattern. Other shortcodes are not executed by Türchenzeit."
+msgstr ""
+
+msgid "No unsaved changes."
+msgstr ""
+
+msgid "No. The regional inspiration shapes the warmth of the included designs. Your content, colors, and page patterns are yours to change. Add the calendar to your current website or give it an Advent landing page of its own."
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Not assigned"
+msgstr ""
+
+msgid "Not available — check publication"
+msgstr ""
+
+msgid "Not yet unlocked"
+msgstr ""
+
+msgid "Notice for locked or unavailable doors"
+msgstr ""
+
+msgid "Offer a neighbor a little practical help."
+msgstr ""
+
+msgid "Offer optional visited-door markers on this browser"
+msgstr ""
+
+msgid "On the full entry page"
+msgstr ""
+
+msgid "On this page"
+msgstr ""
+
+msgid "One network, many Advent websites"
+msgstr ""
+
+msgid "One opening time for every visitor"
+msgstr ""
+
+msgid "One small moment each day. Choose what suits your visitors."
+msgstr ""
+
+msgid "Only saved on this browser, after enabling this option. No account, tracking or transmission."
+msgstr ""
+
+msgid "Open Daily Scripture"
+msgstr ""
+
+msgid "Open date preview"
+msgstr ""
+
+msgid "Open documentation in a new tab"
+msgstr ""
+
+msgid "Open door"
+msgstr ""
+
+msgid "Open existing entry"
+msgstr ""
+
+msgid "Open the date preview and check your doors."
+msgstr ""
+
+msgid "Open your calendar and choose Export calendar JSON. The file contains settings, assignments and own texts."
+msgstr ""
+
+msgid "Opening animation"
+msgstr ""
+
+msgid "Opening time: midnight in the WordPress timezone (%s). Past doors remain available."
+msgstr ""
+
+msgid "Opening times follow the WordPress timezone worldwide."
+msgstr ""
+
+msgid "Optional companion"
+msgstr ""
+
+msgid "Optional full-width band. Replace the existing section and edit colors and text with the standard block controls."
+msgstr ""
+
+msgid "Optional local fonts"
+msgstr ""
+
+msgid "Optional original-content protection, click-to-load YouTube videos and Daily Scripture integration."
+msgstr ""
+
+msgid "Optional overrides for this calendar. Empty color and opacity fields use the design defaults. Text on popup backgrounds is adjusted automatically."
+msgstr ""
+
+msgid "Optional recommendation: Daily Scripture can provide local Bible passages. Its Bible Passage block or the daily_scripture_passage shortcode works inside own doors when the plugin is active. Install the desired Bible edition in Daily Scripture first. A chosen passage stays tied to that door; a daily verse would change with the current date."
+msgstr ""
+
+msgid "Or create new content with the title entered above and assign it to this door."
+msgstr ""
+
+msgid "Original protection affects every linked entry in this published calendar. The earliest opening across protecting calendars wins. Purge existing caches when enabling it. See Help & inspiration for cache and media boundaries."
+msgstr ""
+
+msgid "Original-content protection is off by default. When enabled in a published calendar, linked originals are hidden until their opening, including direct URLs, standard searches, feeds, sitemaps and Core REST routes. Administrators with editing permission can still inspect them."
+msgstr ""
+
+msgid "Outline"
+msgstr ""
+
+msgid "Overlay color"
+msgstr ""
+
+msgid "Overlay opacity (%)"
+msgstr ""
+
+msgid "Own door content"
+msgstr ""
+
+msgid "Own door content is excluded from the standard WordPress search and has no public single-entry page. Visitors see it through an opened calendar door. Linked posts and pages remain searchable unless original-content protection is enabled in a published calendar; this also hides them from the standard WordPress search until their opening."
+msgstr ""
+
+msgid "Own door contents and calendar popups do not execute general shortcodes. Daily Scripture is a supported exception: its fixed Bible passage shortcode can show one verse or a longer passage when the plugin and Bible edition are available."
+msgstr ""
+
+msgid "PHP ZIP extension"
+msgstr ""
+
+msgid "Paragraphs, bold and italic only. Placeholders use the WordPress timezone. Unknown placeholders remain unchanged."
+msgstr ""
+
+msgid "Pill"
+msgstr ""
+
+msgid "Please enable JavaScript to open the calendar and display the countdown."
+msgstr ""
+
+msgid "Plugin version"
+msgstr ""
+
+msgid "Popup and button appearance"
+msgstr ""
+
+msgid "Popup background"
+msgstr ""
+
+msgid "Popup colors, the full-content button and notice messages are configured per calendar. Use {tuerchen}, {tag}, {datum} and {uhrzeit} in notices. Opening times always follow the WordPress timezone, even for worldwide visitors."
+msgstr ""
+
+msgid "Practical questions"
+msgstr ""
+
+msgid "Preparation"
+msgstr ""
+
+msgid "Preparation checklist"
+msgstr ""
+
+msgid "Prepare a complete editable Block Editor (Gutenberg) landing page, or create next year’s edition without changing the current contents."
+msgstr ""
+
+msgid "Prepare landing page"
+msgstr ""
+
+msgid "Prepare next year"
+msgstr ""
+
+msgid "Prepare the contents"
+msgstr ""
+
+msgid "Preview Advent website"
+msgstr ""
+
+msgid "Preview and readiness use saved settings. Save changes first. The simulated date never changes public opening times."
+msgstr ""
+
+msgid "Preview in a dialog"
+msgstr ""
+
+msgid "Preview requires a logged-in administrator and includes your own drafts. Visitors always see the real opening dates and only published contents."
+msgstr ""
+
+msgid "Preview: all assigned doors are available to administrators."
+msgstr ""
+
+msgid "Privacy policy"
+msgstr ""
+
+msgid "Private date preview: %1$s (%2$s). Public opening times remain unchanged."
+msgstr ""
+
+msgid "Private mode must be boolean."
+msgstr ""
+
+msgid "Protect linked original content until opening"
+msgstr ""
+
+msgid "Protect original content deliberately"
+msgstr ""
+
+msgid "Public media files in uploads, already indexed copies and external caches are not access-protected. Upload confidential files through a dedicated protected-media solution. The plugin preserves original post statuses and contents."
+msgstr ""
+
+msgid "Publish calendar"
+msgstr ""
+
+msgid "Publish the calendar and insert it into your page."
+msgstr ""
+
+msgid "Publish the calendar and your Advent website."
+msgstr ""
+
+msgid "Readiness check"
+msgstr ""
+
+msgid "Readiness checks, a private date preview and independent annual editions."
+msgstr ""
+
+msgid "Ready"
+msgstr ""
+
+msgid "Recipes with memories"
+msgstr ""
+
+msgid "Reliable openings and page caches"
+msgstr ""
+
+msgid "Remember opened doors on this browser"
+msgstr ""
+
+msgid "Remove assignment"
+msgstr ""
+
+msgid "Remove image"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Sample content only. Changes appear here before saving; the public calendar stays unchanged."
+msgstr ""
+
+msgid "Save a calendar"
+msgstr ""
+
+msgid "Save calendar"
+msgstr ""
+
+msgid "Save changes"
+msgstr ""
+
+msgid "Schematic live preview"
+msgstr ""
+
+msgid "Search by title"
+msgstr ""
+
+msgid "Search failed. Please try again."
+msgstr ""
+
+msgid "Season, privacy and original content"
+msgstr ""
+
+msgid "Seconds"
+msgstr ""
+
+msgid "See the release on GitHub."
+msgstr ""
+
+msgid "Select and copy the shortcode manually."
+msgstr ""
+
+msgid "Selected YouTube videos with music, stories, or memorable encounters."
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Shortcodes: popup or full page?"
+msgstr ""
+
+msgid "Show Bible passage instructions"
+msgstr ""
+
+msgid "Show a button for today’s door"
+msgstr ""
+
+msgid "Show a greeting from December 25 onward"
+msgstr ""
+
+msgid "Show countdown above the calendar"
+msgstr ""
+
+msgid "Show preparation checklist"
+msgstr ""
+
+msgid "Simulated date in the WordPress timezone"
+msgstr ""
+
+msgid "Single-site and Multisite support, with independent settings for each website."
+msgstr ""
+
+msgid "Six Advent designs, accent colors, adjustable dialogs, buttons and notices."
+msgstr ""
+
+msgid "Skip to content"
+msgstr ""
+
+msgid "Small door movement"
+msgstr ""
+
+msgid "Small popup"
+msgstr ""
+
+msgid "Softly rounded"
+msgstr ""
+
+msgid "Song, performer and source"
+msgstr ""
+
+msgid "Square"
+msgstr ""
+
+msgid "Star mail"
+msgstr ""
+
+msgid "Star of Bethlehem"
+msgstr ""
+
+msgid "Start with a ready-made design, then choose your accent color."
+msgstr ""
+
+msgid "Start your Advent website with a ready-made page. Make the text, colors, and images your own in the block editor (Gutenberg). Optional header and footer patterns give the page a complete setting. You can also add just the calendar to an existing page."
+msgstr ""
+
+msgid "Step by step"
+msgstr ""
+
+msgid "Stories of kindness, volunteering, and people caring for one another."
+msgstr ""
+
+msgid "Stories to make you smile"
+msgstr ""
+
+msgid "Switch to the next edition at this WordPress local time"
+msgstr ""
+
+msgid "Take a complete day set with you, or start with a prepared calendar."
+msgstr ""
+
+msgid "Take a moment to pause. A new surprise awaits you here every day in December."
+msgstr ""
+
+msgid "Test one locked original in a private browser window, including search and REST, then verify an opening around midnight in the WordPress timezone. Custom search indexes, headless APIs and third-party feeds need their own integration checks."
+msgstr ""
+
+msgid "Text above the calendar"
+msgstr ""
+
+msgid "Thank you for sharing this Advent season. Merry Christmas!"
+msgstr ""
+
+msgid "The 24 doors"
+msgstr ""
+
+msgid "The Bible passage could not be loaded."
+msgstr ""
+
+msgid "The Erzgebirge, known in English as the Ore Mountains, is a mountain region along the German–Czech border. David comes from the German side, where Christmas woodcraft and illuminated window decorations are deeply rooted traditions. You do not need to know the region to enjoy the plugin; it is the source of its warm, unhurried Advent atmosphere."
+msgstr ""
+
+msgid "The calendar could not be loaded. Check your connection and try again."
+msgstr ""
+
+msgid "The calendar year differs from the current year. Check that this is intentional."
+msgstr ""
+
+msgid "The checklist preference could not be saved. Please try again."
+msgstr ""
+
+msgid "The content could not be created."
+msgstr ""
+
+msgid "The editor choice applies to this website. Existing contents are preserved. Blocks can be kept together in the Classic editor, but should be edited with Block Editor (Gutenberg)."
+msgstr ""
+
+msgid "The first door opens in"
+msgstr ""
+
+msgid "The maximum calendar year has been reached."
+msgstr ""
+
+msgid "The plugin must be installed in a stable slug directory."
+msgstr ""
+
+msgid "The popup is intended for manageable daily contents. Other shortcodes may require complete layouts, forms, scripts or styles that cannot generally be guaranteed in a popup loaded after the page. Daily Scripture is a deliberately integrated exception."
+msgstr ""
+
+msgid "The prepared landing page is a normal WordPress page. You can edit it in the block editor (Gutenberg) and set it as your website’s static homepage under Settings → Reading."
+msgstr ""
+
+msgid "The preview has expired. Please reload the page."
+msgstr ""
+
+msgid "The private update could not be authorized. Check the repository credentials and refresh updates."
+msgstr ""
+
+msgid "The private update download failed. Check credentials and try again."
+msgstr ""
+
+msgid "The switch only happens after the next calendar is published. An empty date disables the switch. Publish the copied own contents separately when they are ready."
+msgstr ""
+
+msgid "The two fonts are optional and supplied locally under the SIL Open Font License. No Font Library installation or external font service is needed. Theme typography stays unchanged until you choose a font. Browsers download font files only for text that uses them. Plugin font choices require Türchenzeit to remain active."
+msgstr ""
+
+msgid "The update package could not be verified. The installed version has been preserved."
+msgstr ""
+
+msgid "There is no need to do everything. One thoughtful gesture is enough."
+msgstr ""
+
+msgid "These button settings apply to all linked entries opened in a popup. Check the text contrast after changing button colors."
+msgstr ""
+
+msgid "This Advent website is already assigned."
+msgstr ""
+
+msgid "This checklist is a reminder, not an automatic publication check. Its visibility is saved for your user and this calendar."
+msgstr ""
+
+msgid "This content is not available yet."
+msgstr ""
+
+msgid "This door is not available yet."
+msgstr ""
+
+msgid "Tips for your Advent website"
+msgstr ""
+
+msgid "Today I would like to share a memory, a thank-you, or a little hope with you."
+msgstr ""
+
+msgid "Try again"
+msgstr ""
+
+msgid "Türchenzeit brings 24 little moments of Advent to your WordPress website. Combine dedicated daily content with existing posts or pages, choose a design, and let a new door open each day. You can also create a fully editable Advent landing page, ready to return with fresh content each year. The German name evokes the season of opening little Advent calendar doors. Part of the Inspiration series, Türchenzeit draws on the Christmas warmth of Germany’s Ore Mountains."
+msgstr ""
+
+msgid "Türchenzeit is a German name that evokes the season of opening little Advent calendar doors: one new door each day, from December 1 to 24."
+msgstr ""
+
+msgid "Türchenzeit is a personal project by David Decker, who comes from the Erzgebirge, or Ore Mountains, in southeastern Germany. The region has a rich tradition of Christmas woodcraft: carved figures, wooden Christmas pyramids, and Schwibbögen, the candle arches that light up windows during the festive season. That sense of light, craftsmanship, and welcome is the inspiration behind the plugin’s atmosphere."
+msgstr ""
+
+msgid "Türchenzeit requires a newer shared deckerweb Updater. Please update the other deckerweb plugins."
+msgstr ""
+
+msgid "Türchenzeit standalone landing page"
+msgstr ""
+
+msgid "Türchenzeit · Accent"
+msgstr ""
+
+msgid "Türchenzeit · Bethlehem gold"
+msgstr ""
+
+msgid "Türchenzeit · Design background"
+msgstr ""
+
+msgid "Türchenzeit · Forest green"
+msgstr ""
+
+msgid "Türchenzeit · Warm cream"
+msgstr ""
+
+msgid "Türchenzeit · Winter night"
+msgstr ""
+
+msgid "Türchenzeit: Grandma’s recipe book"
+msgstr ""
+
+msgid "Türchenzeit: a small act of kindness"
+msgstr ""
+
+msgid "Türchenzeit: a song for today"
+msgstr ""
+
+msgid "Türchenzeit: an Advent letter"
+msgstr ""
+
+msgid "Türchenzeit: create new door content"
+msgstr ""
+
+msgid "Türchenzeit: creative December hours"
+msgstr ""
+
+msgid "Türchenzeit: daily reflection"
+msgstr ""
+
+msgid "Türchenzeit: evening prayer and blessing"
+msgstr ""
+
+msgid "Türchenzeit: full-width footer"
+msgstr ""
+
+msgid "Türchenzeit: full-width header"
+msgstr ""
+
+msgid "Türchenzeit: picture story"
+msgstr ""
+
+msgid "Türchenzeit: verse and reflection"
+msgstr ""
+
+msgid "Türchenzeit: video story"
+msgstr ""
+
+msgid "Unavailable: ZIP import needs this extension. JSON import and calendars remain available."
+msgstr ""
+
+msgid "Unsaved changes."
+msgstr ""
+
+msgid "View Advent website"
+msgstr ""
+
+msgid "View full entry"
+msgstr ""
+
+msgid "Village lights"
+msgstr ""
+
+msgid "Watch on YouTube"
+msgstr ""
+
+msgid "Welcome to Türchenzeit. Create 24 little moments for the Christmas season, with a calendar on your existing website or an Advent landing page of its own. Start here for a simple setup, inspiration, and a little room to make it yours."
+msgstr ""
+
+msgid "What am I grateful for today? Whom would I like to remember in prayer?"
+msgstr ""
+
+msgid "What are the Ore Mountains?"
+msgstr ""
+
+msgid "What does “Türchenzeit” mean?"
+msgstr ""
+
+msgid "What you need"
+msgstr ""
+
+msgid "When enabling original-content protection, purge existing page, CDN and REST caches and exclude the affected original URLs from full-page caching. Cached responses served before WordPress runs cannot be protected by a plugin."
+msgstr ""
+
+msgid "Winter glow"
+msgstr ""
+
+msgid "With warm Advent wishes,"
+msgstr ""
+
+msgid "WordPress timezone"
+msgstr ""
+
+msgid "Words to brighten your day"
+msgstr ""
+
+msgid "Write a few kind words to someone."
+msgstr ""
+
+msgid "Year and appearance"
+msgstr ""
+
+msgid "Year: %1$d · Timezone: %2$s · Missing assignments: %3$d · Unavailable contents: %4$d"
+msgstr ""
+
+msgid "Yes. Advent means arrival. For Christians, it is a season of expectation and preparation for Christmas, the celebration of the birth of Jesus Christ, the Savior. The Star of Bethlehem and Arrival designs reflect that meaning. Share Bible passages, reflections, or daily devotions, or choose another design for a calendar with a theme of your own."
+msgstr ""
+
+msgid "You are not allowed to access door content."
+msgstr ""
+
+msgid "You are not allowed to import images."
+msgstr ""
+
+msgid "You are not allowed to transfer this calendar."
+msgstr ""
+
+msgid "YouTube video"
+msgstr ""
+
+msgid "Your Advent website"
+msgstr ""
+
+msgid "Your calendars at a glance."
+msgstr ""
+
+msgid "Your first calendar"
+msgstr ""
+
+msgid "Your name"
+msgstr ""
+
+msgid "ZIP format and image instructions"
+msgstr ""
+
+msgid "ZIP import requires the PHP ZIP extension on your server."
+msgstr ""

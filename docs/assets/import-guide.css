@@ -1,0 +1,5 @@
+body{margin:0;background:#f4f0e6;color:#253f34;font:17px/1.75 system-ui,sans-serif}main{max-width:880px;margin:40px auto;padding:32px;background:#fffdf7;border:1px solid #ded7c7;border-radius:14px}h1{font:38px/1.2 Georgia,serif}a{color:#235b4e}pre{overflow:auto;background:#eaf0e7;padding:20px;border-radius:8px;font-size:13px;line-height:1.6}code{overflow-wrap:anywhere}a:focus-visible{outline:3px solid #9c702c;outline-offset:3px}@media(max-width:600px){main{margin:12px;padding:20px}h1{font-size:30px}}
+h2{font-family:Georgia,serif;font-size:28px}h3{font-size:19px}li{margin-bottom:8px}
+.ttz-inline-code{background:transparent;padding:0}
+
+.ttz-doc-banner{display:block;width:100%;height:auto;border-radius:9px;margin:0 0 25px}.ttz-doc-license{font-size:13px;color:#626b60}

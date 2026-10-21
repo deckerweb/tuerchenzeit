@@ -1,0 +1,12 @@
+Optional local font files
+
+Source Serif 4 (Roman and Italic variable WOFF2): Adobe, SIL OFL 1.1.
+Upstream: https://github.com/adobe-fonts/source-serif
+Inter (variable WOFF2, weight and slant axes): The Inter Project Authors, SIL OFL 1.1.
+Upstream: https://github.com/rsms/inter
+
+Source font files distributed with the official Twenty Twenty-Three 1.7 theme:
+https://themes.svn.wordpress.org/twentytwentythree/1.7/assets/fonts/
+Inter was converted from the supplied variable TTF to WOFF2 without subsetting.
+The complete supplied font licenses are included in this directory.
+Font outlines and internal family names are unchanged. TTZ-prefixed CSS aliases avoid collisions with theme fonts. No theme PHP or JavaScript is included.

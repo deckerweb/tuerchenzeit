@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {background-color:#173d30;background-image:linear-gradient(120deg,#173d30,#235b4e);}
+.main-content h1,.main-content h2,.main-content h3,.main-content h4,.main-content h5,.main-content h6 {color:#235b4e;font-weight:700;}
+.main-content img{max-width:100%;border-radius:12px;}
+.main-content a{color:#235b4e;}

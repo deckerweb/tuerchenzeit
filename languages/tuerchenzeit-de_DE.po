@@ -1,0 +1,1247 @@
+msgid ""
+msgstr "Project-Id-Version: Türchenzeit 1.0.0\nLanguage: de_DE\nContent-Type: text/plain; charset=UTF-8\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "%d of 24 doors ready"
+msgstr "%d von 24 Türchen bereit"
+
+msgid "24 daily doors with dedicated private content or linked posts and pages."
+msgstr "24 tägliche Türchen mit eigenen geschützten Inhalten oder verknüpften Beiträgen und Seiten."
+
+msgid "24 small moments begin with your contents."
+msgstr "24 kleine Momente beginnen mit deinen Inhalten."
+
+msgid "A Bible verse"
+msgstr "Ein Bibelvers"
+
+msgid "A chosen Bible passage gives each door its own message."
+msgstr "Ein ausgewählter Bibeltext gibt jedem Türchen seine eigene Botschaft."
+
+msgid "A favorite recipe, and the memory that makes it special."
+msgstr "Ein Lieblingsrezept – und die Erinnerung, die es besonders macht."
+
+msgid "A few words just for you"
+msgstr "Ein paar Worte nur für dich"
+
+msgid "A line or a thought to carry into the day."
+msgstr "Eine Zeile oder ein Gedanke, der durch den Tag begleitet."
+
+msgid "A little anticipation: {tuerchen} opens on {datum} at {uhrzeit}."
+msgstr "Vorfreude gehört dazu: {tuerchen} öffnet sich am {datum} um {uhrzeit} Uhr."
+
+msgid "A little film for Advent"
+msgstr "Ein kleiner Film zum Advent"
+
+msgid "A little light. Every day."
+msgstr "Jeden Tag ein Türchen."
+
+msgid "A little surprise for {tuerchen} is still being prepared."
+msgstr "Für {tuerchen} ist noch eine kleine Überraschung in Vorbereitung."
+
+msgid "A melody for Advent"
+msgstr "Eine Melodie für den Advent"
+
+msgid "A memory from the Erzgebirge"
+msgstr "Eine Erinnerung aus dem Erzgebirge"
+
+msgid "A moment of anticipation"
+msgstr "Ein Moment voller Vorfreude"
+
+msgid "A moment of hope"
+msgstr "Ein Moment der Hoffnung"
+
+msgid "A moment to pause. Add your thoughts for this day here."
+msgstr "Ein Moment zum Innehalten. Hier ist Platz für Gedanken zu diesem Tag."
+
+msgid "A name with a little Christmas warmth"
+msgstr "Ein Name mit ein wenig Weihnachtswärme"
+
+msgid "A picture story"
+msgstr "Eine Bildgeschichte"
+
+msgid "A project by David Decker – DECKERWEB · Inspiration"
+msgstr "Ein Projekt von David Decker – DECKERWEB · Inspiration"
+
+msgid "A quiet close to the day"
+msgstr "Ein ruhiger Tagesausklang"
+
+msgid "A reflection"
+msgstr "Eine Andacht"
+
+msgid "A simple idea for a quiet December afternoon."
+msgstr "Eine einfache Idee für einen ruhigen Dezembernachmittag."
+
+msgid "A small Advent website often needs only this one page, plus your legal and privacy information. If you create your daily contents under Own door content, you do not need additional blog posts or content pages. This keeps your website lean and easy to manage."
+msgstr "Für eine kleine Adventswebsite genügt oft schon diese eine Seite, ergänzt um Impressum und Datenschutz. Wenn du die Tagesinhalte unter „Eigene Türcheninhalte“ anlegst, brauchst du dafür keine zusätzlichen Blogbeiträge oder Inhaltsseiten. So bleibt die Website schlank und übersichtlich."
+
+msgid "A small act of kindness"
+msgstr "Eine kleine gute Tat"
+
+msgid "A small gesture can make someone’s day. What could you give today?"
+msgstr "Eine kleine Geste kann einen Tag heller machen. Was könntest du heute schenken?"
+
+msgid "A song"
+msgstr "Ein Lied"
+
+msgid "A story for today"
+msgstr "Eine Geschichte für heute"
+
+msgid "A taste of Advent"
+msgstr "Ein Stück Advent zum Genießen"
+
+msgid "A thoughtfully designed Advent calendar for WordPress, with 24 daily doors, your own content, and an optional Advent landing page."
+msgstr "Ein liebevoll gestalteter Adventskalender für WordPress: 24 Türchen, deine Inhalte und auf Wunsch eine eigene Adventswebsite."
+
+msgid "A verse that accompanies you today."
+msgstr "Ein Vers, der heute begleitet."
+
+msgid "About Daily Scripture"
+msgstr "Über Daily Scripture"
+
+msgid "Accent color"
+msgstr "Akzentfarbe"
+
+msgid "Action not allowed."
+msgstr "Diese Aktion ist nicht erlaubt."
+
+msgid "Activate plugin"
+msgstr "Plugin aktivieren"
+
+msgid "Add a calendar, choose its year and design, then assign content to the 24 doors."
+msgstr "Lege einen Kalender an, wähle Jahr und Design und weise den 24 Türchen Inhalte zu."
+
+msgid "Add a photo of the finished piece in the image block."
+msgstr "Ein Foto des fertigen Stücks im Bild-Block ergänzen."
+
+msgid "Add calendar"
+msgstr "Kalender hinzufügen"
+
+msgid "Add door content"
+msgstr "Türcheninhalt hinzufügen"
+
+msgid "Add editable header, footer and content patterns in the Block Editor."
+msgstr "Bearbeitbare Header-, Footer- und Inhaltsvorlagen im Block-Editor einfügen."
+
+msgid "Add the ingredients and quantities here."
+msgstr "Hier die Zutaten und Mengen eintragen."
+
+msgid "Add the next steps, baking time and temperature."
+msgstr "Weitere Schritte, Backzeit und Temperatur ergänzen."
+
+msgid "Add your YouTube link in the video block."
+msgstr "Füge deinen YouTube-Link im Video-Block ein."
+
+msgid "Add your personal message here."
+msgstr "Hier ist Platz für deine persönliche Nachricht."
+
+msgid "Adjust popup colors, buttons and notices in your calendar."
+msgstr "Popup-Farben, Buttons und Hinweise im Kalender anpassen."
+
+msgid "Administrator preview"
+msgstr "Vorschau für Administratoren"
+
+msgid "Advent means arrival. We await Jesus Christ, our Savior."
+msgstr "Advent heißt Ankunft. Wir erwarten Jesus Christus, unseren Retter."
+
+msgid "All calendars"
+msgstr "Alle Kalender"
+
+msgid "All doors are ready."
+msgstr "Alle Türchen sind fertig eingerichtet."
+
+msgid "All doors open worldwide at the same moment: midnight in the WordPress timezone %s. A visitor’s local date and time can differ."
+msgstr "Alle Türchen öffnen weltweit zum selben Zeitpunkt: um Mitternacht in der WordPress-Zeitzone %s. Das lokale Datum und die Uhrzeit eines Besuchers können davon abweichen."
+
+msgid "All public content types"
+msgstr "Alle öffentlichen Inhaltstypen"
+
+msgid "An Advent calendar for WordPress"
+msgstr "Adventskalender für WordPress"
+
+msgid "An editable standalone Advent landing page, optional header/footer patterns and local fonts."
+msgstr "Bearbeitbare eigenständige Adventswebsite, optionale Header-/Footer-Vorlagen und lokale Schriften."
+
+msgid "Arrival"
+msgstr "Ankunft"
+
+msgid "Assign all 24 doors and publish their contents."
+msgstr "Alle 24 Türchen zuweisen und ihre Inhalte veröffentlichen."
+
+msgid "Assign content"
+msgstr "Inhalt zuweisen"
+
+msgid "Assigned doors"
+msgstr "Zugeordnete Türchen"
+
+msgid "Assignment removed. Save the calendar to keep this change."
+msgstr "Zuordnung entfernt. Speichere den Kalender, um die Änderung zu übernehmen."
+
+msgid "At least two characters"
+msgstr "Mindestens zwei Zeichen"
+
+msgid "Available"
+msgstr "Verfügbar"
+
+msgid "Available JSON upload"
+msgstr "Verfügbarer JSON-Upload"
+
+msgid "Available ZIP upload"
+msgstr "Verfügbarer ZIP-Upload"
+
+msgid "Available upload: JSON up to %1$s; ZIP up to %2$s."
+msgstr "Verfügbarer Upload: JSON bis %1$s; ZIP bis %2$s."
+
+msgid "Bible reference and translation"
+msgstr "Bibelstelle und Übersetzung"
+
+msgid "Block Editor (Gutenberg)"
+msgstr "Block-Editor (Gutenberg)"
+
+msgid "Bold"
+msgstr "Fett"
+
+msgid "Brighter together"
+msgstr "Miteinander wird es heller"
+
+msgid "Button background"
+msgstr "Button-Hintergrund"
+
+msgid "Button border"
+msgstr "Button-Rahmen"
+
+msgid "Button corners"
+msgstr "Button-Ecken"
+
+msgid "Button style"
+msgstr "Button-Stil"
+
+msgid "Button text"
+msgstr "Button-Textfarbe"
+
+msgid "Calendar"
+msgstr "Kalender"
+
+msgid "Calendar diagnostics. Door readiness is shown in the calendar editor."
+msgstr "Kalenderdiagnose. Der Bereitschaftscheck steht im Kalendereditor."
+
+msgid "Calendar not published yet."
+msgstr "Kalender noch nicht veröffentlicht."
+
+msgid "Calendar published."
+msgstr "Kalender veröffentlicht."
+
+msgid "Calendar settings"
+msgstr "Kalendereinstellungen"
+
+msgid "Calendar unavailable."
+msgstr "Kalender nicht verfügbar."
+
+msgid "Calendar year"
+msgstr "Kalenderjahr"
+
+msgid "Calendars"
+msgstr "Kalender"
+
+msgid "Call someone who would enjoy hearing from you."
+msgstr "Jemanden anrufen, der sich über ein Gespräch freut."
+
+msgid "Can I create a Christian Advent calendar?"
+msgstr "Kann ich einen christlichen Adventskalender gestalten?"
+
+msgid "Can visitors find door content in the WordPress search?"
+msgstr "Können Besucher Türcheninhalte über die WordPress-Suche finden?"
+
+msgid "Changelog"
+msgstr "Änderungsverlauf"
+
+msgid "Check publication:"
+msgstr "Veröffentlichung prüfen:"
+
+msgid "Check readiness, simulate a December date, then publish the calendar and insert its shortcode or prepare a landing page."
+msgstr "Den Bereitschaftscheck durchsehen und ein Dezemberdatum simulieren. Danach den Kalender veröffentlichen und seinen Shortcode einfügen oder eine Landingseite vorbereiten."
+
+msgid "Cheerful memories and little Christmas episodes."
+msgstr "Heitere Erinnerungen und kleine Weihnachtsepisoden."
+
+msgid "Choose a JSON file up to 2 MB or a ZIP up to 20 MB."
+msgstr "Eine JSON-Datei bis 2 MB oder ein ZIP bis 20 MB auswählen."
+
+msgid "Choose a card to assign content. Search results appear directly below the search field. Assignments are saved with the calendar."
+msgstr "Wähle eine Karte, um Inhalte zuzuweisen. Die Treffer erscheinen direkt unter dem Suchfeld. Zuordnungen werden zusammen mit dem Kalender gespeichert."
+
+msgid "Choose a file. New drafts are created for review; existing contents stay as they are. A ZIP can also bring the images."
+msgstr "Wähle eine Datei. Es entstehen neue Entwürfe zum Prüfen; vorhandene Inhalte bleiben erhalten. Ein ZIP kann auch die Bilder mitbringen."
+
+msgid "Choose accent color"
+msgstr "Akzentfarbe auswählen"
+
+msgid "Choose content"
+msgstr "Inhalt auswählen"
+
+msgid "Choose content for door %d"
+msgstr "Inhalt für Türchen %d auswählen"
+
+msgid "Choose door image"
+msgstr "Türchenbild auswählen"
+
+msgid "Christmas closing message (paragraphs, bold and italic)"
+msgstr "Weihnachtlicher Abschlussgruß (Absätze, Fett und Kursiv)"
+
+msgid "Christmas songs that stay with you"
+msgstr "Weihnachtslieder, die bleiben"
+
+msgid "Classic editor"
+msgstr "Classic-Editor"
+
+msgid "Clear visited-door markers"
+msgstr "Markierungen besuchter Türchen löschen"
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "Content assigned. Save the calendar to keep this change."
+msgstr "Inhalt zugewiesen. Speichere den Kalender, um die Änderung zu übernehmen."
+
+msgid "Content editor"
+msgstr "Inhaltseditor"
+
+msgid "Content source"
+msgstr "Inhaltsquelle"
+
+msgid "Content type"
+msgstr "Inhaltstyp"
+
+msgid "Content unavailable"
+msgstr "Inhalt nicht verfügbar"
+
+msgid "Copied."
+msgstr "Kopiert."
+
+msgid "Copy shortcode"
+msgstr "Shortcode kopieren"
+
+msgid "Could not access the update filesystem."
+msgstr "Auf das Dateisystem für das Update konnte nicht zugegriffen werden."
+
+msgid "Could not create the update download file."
+msgstr "Die Download-Datei für das Update konnte nicht erstellt werden."
+
+msgid "Could not prepare the GitHub release package."
+msgstr "Das GitHub-Release-Paket konnte nicht vorbereitet werden."
+
+msgid "Countdown and opening time"
+msgstr "Countdown und Öffnungszeit"
+
+msgid "Countdown only"
+msgstr "Nur Countdown"
+
+msgid "Countdown text"
+msgstr "Countdown-Text"
+
+msgid "Craft ideas for cozy winter days."
+msgstr "Bastelideen für gemütliche Wintertage."
+
+msgid "Create and assign own content"
+msgstr "Eigenen Inhalt erstellen und zuweisen"
+
+msgid "Create and publish your own door content, or use existing published entries."
+msgstr "Erstelle und veröffentliche eigene Türcheninhalte oder verwende vorhandene veröffentlichte Einträge."
+
+msgid "Creative December hours"
+msgstr "Kreative Dezemberstunden"
+
+msgid "Current website time"
+msgstr "Aktuelle Website-Zeit"
+
+msgid "Days"
+msgstr "Tage"
+
+msgid "Dear reader,"
+msgstr "Lieber Leser,"
+
+msgid "December 24"
+msgstr "24. Dezember"
+
+msgid "December 24 popup background (optional)"
+msgstr "Popup-Hintergrund am 24. Dezember (optional)"
+
+msgid "Describe the first preparation step."
+msgstr "Den ersten Zubereitungsschritt beschreiben."
+
+msgid "Describe the first step."
+msgstr "Den ersten Schritt beschreiben."
+
+msgid "Design"
+msgstr "Design"
+
+msgid "Design & inspiration"
+msgstr "Gestaltung & Inspiration"
+
+msgid "Design default"
+msgstr "Design-Vorgabe"
+
+msgid "Display and embedding"
+msgstr "Anzeige und Einbettung"
+
+msgid "Documentation"
+msgstr "Dokumentation"
+
+msgid "Does my calendar have to look like a German Christmas scene?"
+msgstr "Muss mein Kalender einen Erzgebirgs- oder Weihnachtslook haben?"
+
+msgid "Door"
+msgstr "Türchen"
+
+msgid "Door %d"
+msgstr "Türchen %d"
+
+msgid "Door content"
+msgstr "Türcheninhalt"
+
+msgid "Door image"
+msgstr "Türchenbild"
+
+msgid "Door readiness"
+msgstr "Türchen bereit"
+
+msgid "Draft — not public yet."
+msgstr "Entwurf – noch nicht öffentlich."
+
+msgid "Draft — publish this content"
+msgstr "Entwurf – Inhalt noch veröffentlichen"
+
+msgid "Edit Advent website"
+msgstr "Adventswebsite bearbeiten"
+
+msgid "Edit assigned content"
+msgstr "Zugewiesenen Inhalt bearbeiten"
+
+msgid "Edit calendar"
+msgstr "Kalender bearbeiten"
+
+msgid "Edit door content"
+msgstr "Türcheninhalt bearbeiten"
+
+msgid "Edit prepared next edition"
+msgstr "Vorbereitete nächste Ausgabe bearbeiten"
+
+msgid "Editable Advent content made only with standard WordPress blocks."
+msgstr "Bearbeitbare Adventsinhalte ausschließlich aus WordPress-Standardblöcken."
+
+msgid "Editor for all own door content on this website"
+msgstr "Editor für alle eigenen Türcheninhalte dieser Website"
+
+msgid "Embed calendar"
+msgstr "Kalender einfügen"
+
+msgid "Enter a title for the new content."
+msgstr "Gib einen Titel für den neuen Inhalt ein."
+
+msgid "Evergreen"
+msgstr "Tannengrün"
+
+msgid "Example preview: door 4"
+msgstr "Beispielvorschau: Türchen 4"
+
+msgid "Existing entry"
+msgstr "Vorhandener Eintrag"
+
+msgid "Expecting Jesus Christ. Following the light of hope."
+msgstr "Wir erwarten Jesus Christus. Dem Licht der Hoffnung entgegen."
+
+msgid "Explain the next steps in a few clear sentences."
+msgstr "Die weiteren Schritte in wenigen klaren Sätzen erklären."
+
+msgid "Export a calendar from its editor as JSON. Import creates a new draft calendar and independent drafts for own contents. Existing originals are matched only by local URL; unresolved references stay empty. JSON reuses images already in the local media library. A ZIP can include calendar.json and raster images in media/; bundled images are added to the media library and content references are updated. SVG is not supported. Other embedded image URLs remain unchanged. Original protection starts disabled and annual switch links are not imported."
+msgstr "Kalender im Editor als JSON exportieren. Beim Import entstehen ein neuer Kalenderentwurf und unabhängige Entwürfe für eigene Türcheninhalte. Bestehende Originale werden nur über lokale URLs zugeordnet; nicht gefundene Verknüpfungen bleiben leer. JSON verwendet bereits vorhandene Bilder der Mediathek. Ein ZIP kann calendar.json und Rasterbilder in media/ enthalten; diese werden in die Mediathek übernommen und Inhaltsverweise angepasst. SVG wird nicht unterstützt. Andere eingebettete Bild-URLs bleiben bestehen. Der Originalschutz startet ausgeschaltet; Jahreswechsel-Verknüpfungen werden nicht importiert."
+
+msgid "Export and import"
+msgstr "Export und Import"
+
+msgid "Export calendar JSON"
+msgstr "Kalender als JSON exportieren"
+
+msgid "Familiar melodies and new discoveries to listen to and sing along with."
+msgstr "Vertraute Melodien und neue Entdeckungen zum Zuhören und Mitsingen."
+
+msgid "Favorite cookies and winter dishes from Grandma’s recipe books."
+msgstr "Lieblingsplätzchen und winterliche Gerichte aus Omas Back- und Kochbüchern."
+
+msgid "Featured image"
+msgstr "Beitragsbild"
+
+msgid "File formats and import details"
+msgstr "Dateiformate und Import im Detail"
+
+msgid "Fill your calendar"
+msgstr "Kalender füllen"
+
+msgid "Filled"
+msgstr "Gefüllt"
+
+msgid "Find editable header, footer and daily content patterns under Patterns → Türchenzeit. Landing pages and own content receive extra design colors while keeping the theme palette. Shared own content offers the colors of its assigned calendars."
+msgstr "Bearbeitbare Vorlagen für Header, Footer und Tagesinhalte stehen unter Vorlagen → Türchenzeit. Landingseiten und eigene Türcheninhalte erhalten zusätzliche Design-Farben; die Theme-Palette bleibt erhalten. Mehrfach zugewiesene eigene Inhalte bieten die Farben ihrer Kalender an."
+
+msgid "For other shortcodes, assign a post, page or suitable public content type and select Go to entry. The full page uses the normal WordPress output, provided the relevant plugin and template support those shortcodes. Choosing another content type alone does not change the popup rules."
+msgstr "Für weitere Shortcodes einen Beitrag, eine Seite oder einen geeigneten öffentlichen Inhaltstyp zuweisen und „Zum Eintrag wechseln“ wählen. Die vollständige Seite verwendet die normale WordPress-Ausgabe, sofern das zuständige Plugin und Template diese Shortcodes unterstützen. Ein anderer Inhaltstyp allein ändert die Popup-Regeln nicht."
+
+msgid "Full content button label"
+msgstr "Beschriftung für den Button zum vollständigen Inhalt"
+
+msgid "Gentle fade"
+msgstr "Sanftes Einblenden"
+
+msgid "Get started"
+msgstr "Erste Schritte"
+
+msgid "GitHub release does not contain the plugin main file."
+msgstr "Der GitHub-Release enthält die Plugin-Hauptdatei nicht."
+
+msgid "Go through unfinished doors"
+msgstr "Offene Türchen durchgehen"
+
+msgid "Go to entry"
+msgstr "Zum Eintrag wechseln"
+
+msgid "Go to today’s door"
+msgstr "Zum heutigen Türchen"
+
+msgid "God, thank you for the light in this day. Be close to those who feel alone. Give us peace for the night and hope for tomorrow. Amen."
+msgstr "Gott, danke für das Licht in diesem Tag. Sei den Menschen nahe, die sich allein fühlen. Schenke uns Frieden für die Nacht und Hoffnung für morgen. Amen."
+
+msgid "Headers and footers are optional. The included patterns give you a ready-made starting point for your own colors, text, and logo. You can also add navigation to the header, for example to further information or contact details."
+msgstr "Header und Footer sind optional. Die mitgelieferten Vorlagen bieten einen fertigen Ausgangspunkt, den du mit eigenen Farben, Texten und einem Logo gestalten kannst. Bei Bedarf lässt sich im Header auch eine Navigation ergänzen – beispielsweise zu weiteren Informationen oder Kontaktmöglichkeiten."
+
+msgid "Help & inspiration"
+msgstr "Hilfe & Inspiration"
+
+msgid "Hide checklist"
+msgstr "Checkliste ausblenden"
+
+msgid "Hours"
+msgstr "Stunden"
+
+msgid "Ideas for 24 meaningful moments"
+msgstr "Ideen für 24 besondere Momente"
+
+msgid "If an original is assigned more than once, the earliest opening in any published protecting calendar wins. Draft calendars do not lock anything. Removing an assignment, disabling protection, or unpublishing its last protecting calendar removes that lock. Reusing an already opened original does not lock it again."
+msgstr "Bei mehrfacher Zuordnung gilt der früheste Öffnungstermin aller veröffentlichten, schützenden Kalender. Entwürfe sperren nichts. Die Sperre entfällt, wenn die letzte schützende Zuordnung entfernt, ihr Schutz ausgeschaltet oder ihr Kalender nicht mehr veröffentlicht ist. Ein bereits geöffnetes Original wird durch eine weitere Zuordnung nicht erneut gesperrt."
+
+msgid "Images"
+msgstr "Bilder"
+
+msgid "Import a day set"
+msgstr "Einen Tagessatz importieren"
+
+msgid "Import as new drafts"
+msgstr "Als neue Entwürfe importieren"
+
+msgid "Import: %d references or images need reassignment. Review all doors before publishing."
+msgstr "Import: %d Verknüpfungen oder Bilder waren nicht zuzuordnen. Alle Türchen vor der Veröffentlichung prüfen."
+
+msgid "In a calendar popup"
+msgstr "Im Kalender-Popup"
+
+msgid "In your own door contents and standalone Advent landing pages, select a text block and open Typography → Font (font family). Choose Türchenzeit · Source Serif 4 or Türchenzeit · Inter. If the control is hidden, enable Font from the Typography options menu. Choose Default to return to the inherited theme font."
+msgstr "Wähle in eigenen Türcheninhalten oder auf einer eigenständigen Advents-Landingseite einen Textblock aus und öffne Typografie → Schrift (Schriftfamilie). Dort stehen Türchenzeit · Source Serif 4 und Türchenzeit · Inter zur Wahl. Falls das Feld fehlt, blende Schrift über das Optionsmenü der Typografie ein. Mit Standard kehrst du zur geerbten Theme-Schrift zurück."
+
+msgid "Ingredients"
+msgstr "Zutaten"
+
+msgid "Inspired by Christmas in Germany’s Ore Mountains."
+msgstr "Mit Wärme aus dem Erzgebirge."
+
+msgid "Inspired by the Ore Mountains, a region in southeastern Germany known for its Christmas woodcraft and warmly lit windows. Its candle arches and carved decorations helped shape Türchenzeit’s quiet, welcoming atmosphere."
+msgstr "Inspiriert vom Weihnachtsland Erzgebirge: von warm erleuchteten Fenstern, Schwibbögen und der Freude an sorgfältigem Handwerk."
+
+msgid "Install plugin now"
+msgstr "Plugin jetzt installieren"
+
+msgid "Introduce your chosen song and what it means to you."
+msgstr "Stelle dein ausgewähltes Lied vor und erzähle, was es dir bedeutet."
+
+msgid "Invalid GitHub repository URL."
+msgstr "Ungültige GitHub-Repository-URL."
+
+msgid "Invalid ZIP. Include calendar.json and JPEG, PNG, WebP or GIF images in media/. Maximum: 20 MB compressed, 50 MB unpacked, 100 images, 5 MB per image. SVG is not supported."
+msgstr "Ungültiges ZIP. Erforderlich sind calendar.json und JPEG-, PNG-, WebP- oder GIF-Bilder in media/. Höchstens 20 MB komprimiert, 50 MB entpackt, 100 Bilder und 5 MB je Bild. SVG wird nicht unterstützt."
+
+msgid "Invalid authentication provider."
+msgstr "Ungültiger Authentifizierungsanbieter."
+
+msgid "Invalid calendar file. Use a Türchenzeit JSON export (maximum 2 MB)."
+msgstr "Ungültige Kalenderdatei. Ein Türchenzeit-JSON-Export mit höchstens 2 MB wird benötigt."
+
+msgid "It is a German name combining Türchen, a little door, with Zeit, meaning time or season. It evokes the familiar ritual of opening a little Advent calendar door each day. We keep the German name in English, too. The calendar runs from December 1 to 24, with room for whatever you would like to share behind each door."
+msgstr "Türchenzeit verbindet die kleinen Türen eines Adventskalenders mit der besonderen Zeit vor Weihnachten. Der Name steht für Vorfreude und einen neuen kleinen Moment an jedem Tag. Der Kalender zählt die Tage vom 1. bis zum 24. Dezember."
+
+msgid "Italic"
+msgstr "Kursiv"
+
+msgid "JSON and ZIP imports for day sets, including raster images."
+msgstr "JSON- und ZIP-Import für Tagessätze einschließlich Rasterbildern."
+
+msgid "Keep admin-ajax.php calendar requests outside page/CDN caches; responses send no-store headers. The calendar shell contains no locked door content or locked door images."
+msgstr "Kalenderanfragen an admin-ajax.php von Seiten- und CDN-Caches ausnehmen; die Antworten senden no-store-Header. Das Kalendergerüst enthält weder gesperrte Türcheninhalte noch gesperrte Türchenbilder."
+
+msgid "Let Advent begin"
+msgstr "Den Advent begrüßen"
+
+msgid "List the materials here."
+msgstr "Hier die Materialien auflisten."
+
+msgid "Load YouTube video"
+msgstr "YouTube-Video laden"
+
+msgid "Loading calendar…"
+msgstr "Kalender wird geladen …"
+
+msgid "Loading the video connects to YouTube. Your IP address is transmitted to the provider."
+msgstr "Beim Laden wird eine Verbindung zu YouTube hergestellt. Deine IP-Adresse wird an den Anbieter übermittelt."
+
+msgid "Made with love for Advent."
+msgstr "Mit Liebe zum Advent."
+
+msgid "Make it your own"
+msgstr "Persönlich gestalten"
+
+msgid "Make something with love"
+msgstr "Mit Liebe selbst gemacht"
+
+msgid "Messages for closed or empty doors"
+msgstr "Hinweise für geschlossene oder leere Türchen"
+
+msgid "Minutes"
+msgstr "Minuten"
+
+msgid "Missing doors:"
+msgstr "Fehlende Türchen:"
+
+msgid "Mix the door numbers in a stable order"
+msgstr "Türchennummern einmalig mischen und die Anordnung beibehalten"
+
+msgid "More about colors and patterns"
+msgstr "Mehr über Farben und Vorlagen"
+
+msgid "Network activation lets you run independent Advent websites for different topics: recipes, music, reflections, or a local community project. Each website keeps its own calendars, contents, landing pages, settings, and WordPress timezone. Türchenzeit is also available on websites added later. Authorized administrators configure each website separately; network activation creates no pages or calendars automatically."
+msgstr "Mit einer netzwerkweiten Aktivierung kannst du eigenständige Adventswebsites zu verschiedenen Themen betreiben: etwa Rezepte, Musik, Andachten oder ein Projekt vor Ort. Jede Website behält ihre eigenen Kalender, Inhalte, Landingseiten, Einstellungen und ihre WordPress-Zeitzone. Türchenzeit steht auch später hinzugefügten Websites zur Verfügung. Berechtigte Administratoren richten jede Website separat ein; die Netzwerkaktivierung legt keine Seiten oder Kalender automatisch an."
+
+msgid "New door content"
+msgstr "Neuer Türcheninhalt"
+
+msgid "New:"
+msgstr "Neu:"
+
+msgid "No content assigned"
+msgstr "Kein Inhalt zugewiesen"
+
+msgid "No content available."
+msgstr "Kein Inhalt verfügbar."
+
+msgid "No matching content found."
+msgstr "Keine passenden Inhalte gefunden."
+
+msgid "No plugin is installed automatically. Without Daily Scripture, use the native verse-and-reflection pattern. Other shortcodes are not executed by Türchenzeit."
+msgstr "Es wird kein Plugin automatisch installiert. Ohne Daily Scripture steht die Standardblock-Vorlage für Bibelvers und Gedanken bereit. Andere Shortcodes führt Türchenzeit nicht aus."
+
+msgid "No unsaved changes."
+msgstr "Keine ungespeicherten Änderungen."
+
+msgid "No. The regional inspiration shapes the warmth of the included designs. Your content, colors, and page patterns are yours to change. Add the calendar to your current website or give it an Advent landing page of its own."
+msgstr "Nein. Die Herkunft prägt die Atmosphäre der mitgelieferten Designs. Deine Inhalte, Farben und Seitenvorlagen gestaltest du selbst. Der Kalender kann auf einer bestehenden Website stehen oder eine eigene Adventswebsite bilden."
+
+msgid "None"
+msgstr "Keine"
+
+msgid "Not assigned"
+msgstr "Nicht zugewiesen"
+
+msgid "Not available — check publication"
+msgstr "Nicht verfügbar – Veröffentlichung prüfen"
+
+msgid "Not yet unlocked"
+msgstr "Noch nicht freigeschaltet"
+
+msgid "Notice for locked or unavailable doors"
+msgstr "Hinweis bei gesperrten oder nicht verfügbaren Türchen"
+
+msgid "Offer a neighbor a little practical help."
+msgstr "Einem Nachbarn eine kleine Hilfe anbieten."
+
+msgid "Offer optional visited-door markers on this browser"
+msgstr "Optionale Markierung besuchter Türchen in diesem Browser anbieten"
+
+msgid "On the full entry page"
+msgstr "Auf der vollständigen Beitragsseite"
+
+msgid "On this page"
+msgstr "Auf dieser Seite"
+
+msgid "One network, many Advent websites"
+msgstr "Ein Netzwerk, viele Adventswebsites"
+
+msgid "One opening time for every visitor"
+msgstr "Eine Öffnungszeit für alle Besucher"
+
+msgid "One small moment each day. Choose what suits your visitors."
+msgstr "Jeden Tag ein kleiner Moment. Wähle, was zu deinen Besuchern passt."
+
+msgid "Only saved on this browser, after enabling this option. No account, tracking or transmission."
+msgstr "Erst nach dem Einschalten ausschließlich in diesem Browser gespeichert. Ohne Konto, Tracking oder Übertragung."
+
+msgid "Open Daily Scripture"
+msgstr "Daily Scripture öffnen"
+
+msgid "Open date preview"
+msgstr "Datumsvorschau öffnen"
+
+msgid "Open documentation in a new tab"
+msgstr "Dokumentation in neuem Tab öffnen"
+
+msgid "Open door"
+msgstr "Türchen öffnen"
+
+msgid "Open existing entry"
+msgstr "Vorhandenen Eintrag öffnen"
+
+msgid "Open the date preview and check your doors."
+msgstr "Die Datumsvorschau öffnen und die Türchen prüfen."
+
+msgid "Open your calendar and choose Export calendar JSON. The file contains settings, assignments and own texts."
+msgstr "Öffne deinen Kalender und wähle „Kalender als JSON exportieren“. Die Datei enthält Einstellungen, Zuordnungen und eigene Texte."
+
+msgid "Opening animation"
+msgstr "Öffnungsanimation"
+
+msgid "Opening time: midnight in the WordPress timezone (%s). Past doors remain available."
+msgstr "Öffnungszeit: Mitternacht in der WordPress-Zeitzone (%s). Vergangene Türchen bleiben zugänglich."
+
+msgid "Opening times follow the WordPress timezone worldwide."
+msgstr "Öffnungszeiten gelten weltweit nach der WordPress-Zeitzone."
+
+msgid "Optional companion"
+msgstr "Optionaler Begleiter"
+
+msgid "Optional full-width band. Replace the existing section and edit colors and text with the standard block controls."
+msgstr "Optionaler Bereich über die volle Breite. Ersetze den bisherigen Bereich und bearbeite Farben und Text mit den normalen Blockeinstellungen."
+
+msgid "Optional local fonts"
+msgstr "Optionale lokale Schriften"
+
+msgid "Optional original-content protection, click-to-load YouTube videos and Daily Scripture integration."
+msgstr "Optionaler Originalschutz, YouTube-Videos zum bewussten Laden und Daily-Scripture-Integration."
+
+msgid "Optional overrides for this calendar. Empty color and opacity fields use the design defaults. Text on popup backgrounds is adjusted automatically."
+msgstr "Optionale Anpassungen für diesen Kalender. Leere Farb- und Deckkraftfelder übernehmen die Design-Vorgaben. Die Textfarbe im Popup wird automatisch an den Hintergrund angepasst."
+
+msgid "Optional recommendation: Daily Scripture can provide local Bible passages. Its Bible Passage block or the daily_scripture_passage shortcode works inside own doors when the plugin is active. Install the desired Bible edition in Daily Scripture first. A chosen passage stays tied to that door; a daily verse would change with the current date."
+msgstr "Freiwillige Empfehlung: Daily Scripture bietet lokale Bibelstellen. Der Block „Bibelstelle“ und der Shortcode daily_scripture_passage funktionieren bei aktivem Plugin auch in eigenen Türchen. Die gewünschte Bibelausgabe vorher in Daily Scripture installieren. Eine gewählte Bibelstelle bleibt dem Türchen zugeordnet; ein Tagesvers würde sich mit dem aktuellen Datum ändern."
+
+msgid "Or create new content with the title entered above and assign it to this door."
+msgstr "Alternativ lässt sich mit dem oben eingegebenen Titel ein neuer eigener Inhalt erstellen und diesem Türchen zuweisen."
+
+msgid "Original protection affects every linked entry in this published calendar. The earliest opening across protecting calendars wins. Purge existing caches when enabling it. See Help & inspiration for cache and media boundaries."
+msgstr "Der Originalschutz betrifft alle verknüpften Einträge dieses veröffentlichten Kalenders. Kalenderübergreifend gilt der früheste Öffnungstermin. Beim Einschalten vorhandene Caches leeren. Grenzen bei Caches und Medien stehen unter Hilfe & Inspiration."
+
+msgid "Original-content protection is off by default. When enabled in a published calendar, linked originals are hidden until their opening, including direct URLs, standard searches, feeds, sitemaps and Core REST routes. Administrators with editing permission can still inspect them."
+msgstr "Der Originalschutz ist standardmäßig aus. Wird er in einem veröffentlichten Kalender eingeschaltet, bleiben verknüpfte Originale bis zur Öffnung verborgen: auch über direkte URLs, Standardsuche, Feeds, Sitemaps und WordPress-REST-Routen. Administratoren mit Bearbeitungsrecht können sie weiterhin prüfen."
+
+msgid "Outline"
+msgstr "Umriss"
+
+msgid "Overlay color"
+msgstr "Overlay-Farbe"
+
+msgid "Overlay opacity (%)"
+msgstr "Overlay-Deckkraft (%)"
+
+msgid "Own door content"
+msgstr "Eigene Türcheninhalte"
+
+msgid "Own door content is excluded from the standard WordPress search and has no public single-entry page. Visitors see it through an opened calendar door. Linked posts and pages remain searchable unless original-content protection is enabled in a published calendar; this also hides them from the standard WordPress search until their opening."
+msgstr "Eigene Türcheninhalte sind von der normalen WordPress-Suche ausgeschlossen und haben keine öffentlich aufrufbare Einzelansicht. Besucher sehen sie über ein geöffnetes Kalendertürchen. Verknüpfte Beiträge und Seiten bleiben auffindbar, sofern der Originalschutz nicht in einem veröffentlichten Kalender eingeschaltet ist; dieser blendet sie bis zum Öffnungstermin auch aus der normalen WordPress-Suche aus."
+
+msgid "Own door contents and calendar popups do not execute general shortcodes. Daily Scripture is a supported exception: its fixed Bible passage shortcode can show one verse or a longer passage when the plugin and Bible edition are available."
+msgstr "Eigene Türcheninhalte und Kalender-Popups führen keine allgemeinen Shortcodes aus. Daily Scripture ist eine unterstützte Ausnahme: Der Shortcode für eine feste Bibelstelle zeigt einen Vers oder längeren Abschnitt, wenn Plugin und Bibelausgabe verfügbar sind."
+
+msgid "PHP ZIP extension"
+msgstr "PHP-ZIP-Erweiterung"
+
+msgid "Paragraphs, bold and italic only. Placeholders use the WordPress timezone. Unknown placeholders remain unchanged."
+msgstr "Nur Absätze, Fett und Kursiv. Platzhalter verwenden die WordPress-Zeitzone. Unbekannte Platzhalter bleiben unverändert."
+
+msgid "Pill"
+msgstr "Pillenform"
+
+msgid "Please enable JavaScript to open the calendar and display the countdown."
+msgstr "Bitte aktiviere JavaScript, um den Kalender zu öffnen und den Countdown anzuzeigen."
+
+msgid "Plugin version"
+msgstr "Plugin-Version"
+
+msgid "Popup and button appearance"
+msgstr "Popup und Button gestalten"
+
+msgid "Popup background"
+msgstr "Popup-Hintergrund"
+
+msgid "Popup colors, the full-content button and notice messages are configured per calendar. Use {tuerchen}, {tag}, {datum} and {uhrzeit} in notices. Opening times always follow the WordPress timezone, even for worldwide visitors."
+msgstr "Popup-Farben, der Button zum vollständigen Inhalt und Hinweise werden je Kalender eingestellt. Die Hinweise unterstützen {tuerchen}, {tag}, {datum} und {uhrzeit}. Öffnungszeiten richten sich auch bei weltweiten Zugriffen immer nach der WordPress-Zeitzone."
+
+msgid "Practical questions"
+msgstr "Gut zu wissen"
+
+msgid "Preparation"
+msgstr "Zubereitung"
+
+msgid "Preparation checklist"
+msgstr "Start-Checkliste"
+
+msgid "Prepare a complete editable Block Editor (Gutenberg) landing page, or create next year’s edition without changing the current contents."
+msgstr "Eine vollständig bearbeitbare Landingpage im Block-Editor (Gutenberg) vorbereiten oder die nächste Jahresausgabe anlegen, ohne die laufenden Inhalte zu verändern."
+
+msgid "Prepare landing page"
+msgstr "Landingpage vorbereiten"
+
+msgid "Prepare next year"
+msgstr "Nächste Jahresausgabe vorbereiten"
+
+msgid "Prepare the contents"
+msgstr "Inhalte vorbereiten"
+
+msgid "Preview Advent website"
+msgstr "Vorschau der Adventswebsite"
+
+msgid "Preview and readiness use saved settings. Save changes first. The simulated date never changes public opening times."
+msgstr "Vorschau und Bereitschaftscheck verwenden gespeicherte Einstellungen. Änderungen vorher speichern. Das simulierte Datum ändert niemals die öffentlichen Öffnungszeiten."
+
+msgid "Preview in a dialog"
+msgstr "Vorschau im Dialog"
+
+msgid "Preview requires a logged-in administrator and includes your own drafts. Visitors always see the real opening dates and only published contents."
+msgstr "Die Vorschau erfordert einen angemeldeten Administrator und zeigt auch eigene Entwürfe. Besucher sehen immer die tatsächlichen Öffnungszeiten und nur veröffentlichte Inhalte."
+
+msgid "Preview: all assigned doors are available to administrators."
+msgstr "Vorschau: Alle zugewiesenen Türchen sind für Administratoren verfügbar."
+
+msgid "Privacy policy"
+msgstr "Datenschutz"
+
+msgid "Private date preview: %1$s (%2$s). Public opening times remain unchanged."
+msgstr "Private Datumsvorschau: %1$s (%2$s). Öffnungszeiten für Besucher bleiben unverändert."
+
+msgid "Private mode must be boolean."
+msgstr "Der private Modus muss ein boolescher Wert sein."
+
+msgid "Protect linked original content until opening"
+msgstr "Verknüpfte Originalinhalte bis zur Öffnung schützen"
+
+msgid "Protect original content deliberately"
+msgstr "Originalinhalte bewusst schützen"
+
+msgid "Public media files in uploads, already indexed copies and external caches are not access-protected. Upload confidential files through a dedicated protected-media solution. The plugin preserves original post statuses and contents."
+msgstr "Öffentliche Dateien im Upload-Verzeichnis, bereits indexierte Kopien und externe Caches sind nicht zugriffsgeschützt. Für vertrauliche Dateien ist eine gesonderte Lösung für geschützte Medien nötig. Status und Inhalte der Originalbeiträge bleiben erhalten."
+
+msgid "Publish calendar"
+msgstr "Kalender veröffentlichen"
+
+msgid "Publish the calendar and insert it into your page."
+msgstr "Den Kalender veröffentlichen und auf einer Seite einfügen."
+
+msgid "Publish the calendar and your Advent website."
+msgstr "Den Kalender und die Adventswebsite veröffentlichen."
+
+msgid "Readiness check"
+msgstr "Bereitschaftscheck"
+
+msgid "Readiness checks, a private date preview and independent annual editions."
+msgstr "Bereitschaftscheck, private Datumsvorschau und unabhängige Jahresausgaben."
+
+msgid "Ready"
+msgstr "Bereit"
+
+msgid "Recipes with memories"
+msgstr "Rezepte mit Erinnerungen"
+
+msgid "Reliable openings and page caches"
+msgstr "Zuverlässige Freigaben und Seiten-Caches"
+
+msgid "Remember opened doors on this browser"
+msgstr "Geöffnete Türchen in diesem Browser merken"
+
+msgid "Remove assignment"
+msgstr "Zuordnung entfernen"
+
+msgid "Remove image"
+msgstr "Bild entfernen"
+
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+msgid "Sample content only. Changes appear here before saving; the public calendar stays unchanged."
+msgstr "Nur Musterinhalt. Änderungen erscheinen hier vor dem Speichern; der öffentliche Kalender bleibt unverändert."
+
+msgid "Save a calendar"
+msgstr "Einen Kalender mitnehmen"
+
+msgid "Save calendar"
+msgstr "Kalender speichern"
+
+msgid "Save changes"
+msgstr "Änderungen speichern"
+
+msgid "Schematic live preview"
+msgstr "Schematische Live-Vorschau"
+
+msgid "Search by title"
+msgstr "Nach Titel suchen"
+
+msgid "Search failed. Please try again."
+msgstr "Die Suche ist fehlgeschlagen. Bitte versuche es erneut."
+
+msgid "Season, privacy and original content"
+msgstr "Saison, Datenschutz und Originalinhalte"
+
+msgid "Seconds"
+msgstr "Sekunden"
+
+msgid "See the release on GitHub."
+msgstr "Release auf GitHub ansehen."
+
+msgid "Select and copy the shortcode manually."
+msgstr "Den Shortcode bitte markieren und manuell kopieren."
+
+msgid "Selected YouTube videos with music, stories, or memorable encounters."
+msgstr "Ausgewählte YouTube-Videos mit Musik, Geschichten oder besonderen Begegnungen."
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Shortcodes: popup or full page?"
+msgstr "Shortcodes: Popup oder vollständige Seite?"
+
+msgid "Show Bible passage instructions"
+msgstr "Anleitung für Bibeltexte anzeigen"
+
+msgid "Show a button for today’s door"
+msgstr "Button zum heutigen Türchen anzeigen"
+
+msgid "Show a greeting from December 25 onward"
+msgstr "Ab dem 25. Dezember einen Gruß anzeigen"
+
+msgid "Show countdown above the calendar"
+msgstr "Countdown über dem Kalender anzeigen"
+
+msgid "Show preparation checklist"
+msgstr "Start-Checkliste anzeigen"
+
+msgid "Simulated date in the WordPress timezone"
+msgstr "Simuliertes Datum in der WordPress-Zeitzone"
+
+msgid "Single-site and Multisite support, with independent settings for each website."
+msgstr "Einzelinstallation und Multisite mit unabhängigen Einstellungen je Website."
+
+msgid "Six Advent designs, accent colors, adjustable dialogs, buttons and notices."
+msgstr "Sechs Adventsdesigns, Akzentfarben sowie anpassbare Popups, Buttons und Hinweise."
+
+msgid "Skip to content"
+msgstr "Zum Inhalt springen"
+
+msgid "Small door movement"
+msgstr "Dezente Türbewegung"
+
+msgid "Small popup"
+msgstr "Kleines Popup"
+
+msgid "Softly rounded"
+msgstr "Leicht abgerundet"
+
+msgid "Song, performer and source"
+msgstr "Lied, Interpret und Quelle"
+
+msgid "Square"
+msgstr "Eckig"
+
+msgid "Star mail"
+msgstr "Sternenpost"
+
+msgid "Star of Bethlehem"
+msgstr "Stern von Bethlehem"
+
+msgid "Start with a ready-made design, then choose your accent color."
+msgstr "Mit einem fertigen Design starten und eine Akzentfarbe wählen."
+
+msgid "Start your Advent website with a ready-made page. Make the text, colors, and images your own in the block editor (Gutenberg). Optional header and footer patterns give the page a complete setting. You can also add just the calendar to an existing page."
+msgstr "Deine Adventswebsite beginnt mit einem fertigen Entwurf. Passe Texte, Farben und Bilder im Block-Editor (Gutenberg) an. Optionale Header- und Footer-Vorlagen geben der Seite einen eigenen Rahmen. Oder füge nur den Kalender in eine bestehende Seite ein."
+
+msgid "Step by step"
+msgstr "Schritt für Schritt"
+
+msgid "Stories of kindness, volunteering, and people caring for one another."
+msgstr "Geschichten von Hilfsbereitschaft, Ehrenamt und gelebter Nächstenliebe."
+
+msgid "Stories to make you smile"
+msgstr "Geschichten zum Schmunzeln"
+
+msgid "Switch to the next edition at this WordPress local time"
+msgstr "Zu dieser Zeit in der WordPress-Zeitzone auf die nächste Ausgabe umschalten"
+
+msgid "Take a complete day set with you, or start with a prepared calendar."
+msgstr "Einen kompletten Tagessatz mitnehmen oder mit einem vorbereiteten Kalender starten."
+
+msgid "Take a moment to pause. A new surprise awaits you here every day in December."
+msgstr "Ein Moment zum Innehalten. Hier wartet im Dezember jeden Tag eine neue Überraschung."
+
+msgid "Test one locked original in a private browser window, including search and REST, then verify an opening around midnight in the WordPress timezone. Custom search indexes, headless APIs and third-party feeds need their own integration checks."
+msgstr "Ein gesperrtes Original in einem privaten Browserfenster einschließlich Suche und REST testen. Danach eine Freigabe um Mitternacht in der WordPress-Zeitzone prüfen. Eigene Suchindizes, Headless-APIs und Feeds anderer Anbieter benötigen gesonderte Integrationsprüfungen."
+
+msgid "Text above the calendar"
+msgstr "Text über dem Kalender"
+
+msgid "Thank you for sharing this Advent season. Merry Christmas!"
+msgstr "Danke für die gemeinsame Adventszeit. Frohe Weihnachten!"
+
+msgid "The 24 doors"
+msgstr "Die 24 Türchen"
+
+msgid "The Bible passage could not be loaded."
+msgstr "Die Bibelstelle konnte nicht geladen werden."
+
+msgid "The Erzgebirge, known in English as the Ore Mountains, is a mountain region along the German–Czech border. David comes from the German side, where Christmas woodcraft and illuminated window decorations are deeply rooted traditions. You do not need to know the region to enjoy the plugin; it is the source of its warm, unhurried Advent atmosphere."
+msgstr "Das Erzgebirge ist eine Mittelgebirgsregion im Südosten Deutschlands an der Grenze zu Tschechien. Seine Weihnachtstraditionen und das Holzkunsthandwerk inspirieren die warme Gestaltung von Türchenzeit. Der Name und die Gestaltung haben hier eine persönliche Heimat."
+
+msgid "The calendar could not be loaded. Check your connection and try again."
+msgstr "Der Kalender konnte nicht geladen werden. Bitte prüfe deine Verbindung und versuche es erneut."
+
+msgid "The calendar year differs from the current year. Check that this is intentional."
+msgstr "Das Kalenderjahr weicht vom aktuellen Jahr ab. Bitte prüfen, ob das beabsichtigt ist."
+
+msgid "The checklist preference could not be saved. Please try again."
+msgstr "Die Checklisten-Einstellung konnte nicht gespeichert werden. Bitte versuche es erneut."
+
+msgid "The content could not be created."
+msgstr "Der Inhalt konnte nicht erstellt werden."
+
+msgid "The editor choice applies to this website. Existing contents are preserved. Blocks can be kept together in the Classic editor, but should be edited with Block Editor (Gutenberg)."
+msgstr "Die Editor-Auswahl gilt für diese Website. Vorhandene Inhalte bleiben erhalten. Blöcke lassen sich im Classic-Editor zusammenhalten, sollten aber mit dem Block-Editor (Gutenberg) bearbeitet werden."
+
+msgid "The first door opens in"
+msgstr "Das erste Türchen öffnet sich in"
+
+msgid "The maximum calendar year has been reached."
+msgstr "Das höchste unterstützte Kalenderjahr ist erreicht."
+
+msgid "The plugin must be installed in a stable slug directory."
+msgstr "Das Plugin muss in einem festen Plugin-Verzeichnis installiert sein."
+
+msgid "The popup is intended for manageable daily contents. Other shortcodes may require complete layouts, forms, scripts or styles that cannot generally be guaranteed in a popup loaded after the page. Daily Scripture is a deliberately integrated exception."
+msgstr "Das Popup ist für überschaubare Tagesinhalte gedacht. Andere Shortcodes können vollständige Layouts, Formulare, Skripte oder Styles benötigen, deren Funktion sich im nachgeladenen Popup nicht allgemein gewährleisten lässt. Daily Scripture ist eine gezielt integrierte Ausnahme."
+
+msgid "The prepared landing page is a normal WordPress page. You can edit it in the block editor (Gutenberg) and set it as your website’s static homepage under Settings → Reading."
+msgstr "Die vorbereitete Landingseite ist eine normale WordPress-Seite. Du kannst sie im Block-Editor (Gutenberg) bearbeiten und unter Einstellungen → Lesen als statische Startseite deiner Website festlegen."
+
+msgid "The preview has expired. Please reload the page."
+msgstr "Die Vorschau ist abgelaufen. Bitte lade die Seite neu."
+
+msgid "The private update could not be authorized. Check the repository credentials and refresh updates."
+msgstr "Das private Update konnte nicht autorisiert werden. Prüfe die Repository-Zugangsdaten und aktualisiere die Update-Prüfung."
+
+msgid "The private update download failed. Check credentials and try again."
+msgstr "Der Download des privaten Updates ist fehlgeschlagen. Prüfe die Zugangsdaten und versuche es erneut."
+
+msgid "The switch only happens after the next calendar is published. An empty date disables the switch. Publish the copied own contents separately when they are ready."
+msgstr "Die Umschaltung erfolgt nur, wenn der nächste Kalender veröffentlicht ist. Ein leeres Datum deaktiviert die Umschaltung. Veröffentliche die kopierten eigenen Inhalte separat, sobald sie fertig sind."
+
+msgid "The two fonts are optional and supplied locally under the SIL Open Font License. No Font Library installation or external font service is needed. Theme typography stays unchanged until you choose a font. Browsers download font files only for text that uses them. Plugin font choices require Türchenzeit to remain active."
+msgstr "Die beiden Schriften sind optional und werden lokal unter der SIL Open Font License mitgeliefert. Eine Installation in der Schriftbibliothek oder ein externer Schriftdienst ist nicht erforderlich. Die Theme-Typografie bleibt erhalten, bis du eine Schrift auswählst. Der Browser lädt Schriftdateien erst für Text, der sie verwendet. Die Plugin-Schriften stehen zur Verfügung, solange Türchenzeit aktiv ist."
+
+msgid "The update package could not be verified. The installed version has been preserved."
+msgstr "Das Update-Paket konnte nicht geprüft werden. Die installierte Version bleibt erhalten."
+
+msgid "There is no need to do everything. One thoughtful gesture is enough."
+msgstr "Es muss nicht alles sein. Eine aufmerksame Geste genügt."
+
+msgid "These button settings apply to all linked entries opened in a popup. Check the text contrast after changing button colors."
+msgstr "Diese Button-Einstellungen gelten für alle verknüpften Inhalte, die sich im Popup öffnen. Prüfe nach Farbänderungen den Textkontrast."
+
+msgid "This Advent website is already assigned."
+msgstr "Diese Adventswebsite ist bereits zugeordnet."
+
+msgid "This checklist is a reminder, not an automatic publication check. Its visibility is saved for your user and this calendar."
+msgstr "Diese Checkliste erinnert an die letzten Schritte und ersetzt keine eigene Prüfung vor dem Veröffentlichen. Ihre Sichtbarkeit wird für deinen Nutzer und diesen Kalender gespeichert."
+
+msgid "This content is not available yet."
+msgstr "Dieser Inhalt ist noch nicht verfügbar."
+
+msgid "This door is not available yet."
+msgstr "Dieses Türchen ist noch nicht verfügbar."
+
+msgid "Tips for your Advent website"
+msgstr "Tipps für deine Adventswebsite"
+
+msgid "Today I would like to share a memory, a thank-you, or a little hope with you."
+msgstr "Heute möchte ich eine Erinnerung, ein Dankeschön oder ein wenig Hoffnung mit dir teilen."
+
+msgid "Try again"
+msgstr "Erneut versuchen"
+
+msgid "Türchenzeit brings 24 little moments of Advent to your WordPress website. Combine dedicated daily content with existing posts or pages, choose a design, and let a new door open each day. You can also create a fully editable Advent landing page, ready to return with fresh content each year. The German name evokes the season of opening little Advent calendar doors. Part of the Inspiration series, Türchenzeit draws on the Christmas warmth of Germany’s Ore Mountains."
+msgstr "Türchenzeit bringt 24 kleine Adventsmomente auf deine WordPress-Website. Kombiniere eigene Türcheninhalte mit vorhandenen Beiträgen oder Seiten, wähle ein passendes Design und lass jeden Tag ein neues Türchen öffnen. Auf Wunsch entsteht daraus eine vollständig bearbeitbare Adventswebsite – einmal eingerichtet, jedes Jahr mit neuen Inhalten. Ein Projekt aus der Serie Inspiration, mit Wärme aus dem Erzgebirge."
+
+msgid "Türchenzeit is a German name that evokes the season of opening little Advent calendar doors: one new door each day, from December 1 to 24."
+msgstr "Türchenzeit ist die Zeit der kleinen Adventsüberraschungen: vom 1. bis zum 24. Dezember jeden Tag ein neues Türchen."
+
+msgid "Türchenzeit is a personal project by David Decker, who comes from the Erzgebirge, or Ore Mountains, in southeastern Germany. The region has a rich tradition of Christmas woodcraft: carved figures, wooden Christmas pyramids, and Schwibbögen, the candle arches that light up windows during the festive season. That sense of light, craftsmanship, and welcome is the inspiration behind the plugin’s atmosphere."
+msgstr "Türchenzeit ist ein kleines Herzensprojekt von David Decker, der aus dem Erzgebirge stammt. Die Region wird liebevoll Weihnachtsland genannt: Lichter in den Fenstern, hölzerne Schwibbögen und kunstvolles Handwerk prägen dort die Adventszeit. Diese Wärme soll auch im Plugin spürbar werden – ruhig, einladend und mit Freude an den kleinen Dingen."
+
+msgid "Türchenzeit requires a newer shared deckerweb Updater. Please update the other deckerweb plugins."
+msgstr "Türchenzeit benötigt einen neueren gemeinsamen deckerweb Updater. Bitte aktualisiere die anderen deckerweb-Plugins."
+
+msgid "Türchenzeit standalone landing page"
+msgstr "Türchenzeit – eigenständige Landingpage"
+
+msgid "Türchenzeit · Accent"
+msgstr "Türchenzeit · Akzentfarbe"
+
+msgid "Türchenzeit · Bethlehem gold"
+msgstr "Türchenzeit · Bethlehem-Gold"
+
+msgid "Türchenzeit · Design background"
+msgstr "Türchenzeit · Design-Hintergrund"
+
+msgid "Türchenzeit · Forest green"
+msgstr "Türchenzeit · Tannengrün"
+
+msgid "Türchenzeit · Warm cream"
+msgstr "Türchenzeit · Warmes Creme"
+
+msgid "Türchenzeit · Winter night"
+msgstr "Türchenzeit · Winternacht"
+
+msgid "Türchenzeit: Grandma’s recipe book"
+msgstr "Türchenzeit: Aus Omas Rezeptbuch"
+
+msgid "Türchenzeit: a small act of kindness"
+msgstr "Türchenzeit: Eine kleine gute Tat"
+
+msgid "Türchenzeit: a song for today"
+msgstr "Türchenzeit: Ein Lied für heute"
+
+msgid "Türchenzeit: an Advent letter"
+msgstr "Türchenzeit: Ein Brief im Advent"
+
+msgid "Türchenzeit: create new door content"
+msgstr "Türchenzeit: Neuen Türcheninhalt erstellen"
+
+msgid "Türchenzeit: creative December hours"
+msgstr "Türchenzeit: Kreativzeit im Dezember"
+
+msgid "Türchenzeit: daily reflection"
+msgstr "Türchenzeit: Tagesimpuls"
+
+msgid "Türchenzeit: evening prayer and blessing"
+msgstr "Türchenzeit: Abendgebet oder Segen"
+
+msgid "Türchenzeit: full-width footer"
+msgstr "Türchenzeit: Footer über volle Breite"
+
+msgid "Türchenzeit: full-width header"
+msgstr "Türchenzeit: Header über volle Breite"
+
+msgid "Türchenzeit: picture story"
+msgstr "Türchenzeit: Bildgeschichte"
+
+msgid "Türchenzeit: verse and reflection"
+msgstr "Türchenzeit: Bibelvers und Gedanken"
+
+msgid "Türchenzeit: video story"
+msgstr "Türchenzeit: Videogeschichte"
+
+msgid "Unavailable: ZIP import needs this extension. JSON import and calendars remain available."
+msgstr "Nicht verfügbar: Der ZIP-Import benötigt diese Erweiterung. JSON-Import und Kalender bleiben verfügbar."
+
+msgid "Unsaved changes."
+msgstr "Ungespeicherte Änderungen."
+
+msgid "View Advent website"
+msgstr "Adventswebsite ansehen"
+
+msgid "View full entry"
+msgstr "Vollständigen Eintrag ansehen"
+
+msgid "Village lights"
+msgstr "Lichterdorf"
+
+msgid "Watch on YouTube"
+msgstr "Bei YouTube ansehen"
+
+msgid "Welcome to Türchenzeit. Create 24 little moments for the Christmas season, with a calendar on your existing website or an Advent landing page of its own. Start here for a simple setup, inspiration, and a little room to make it yours."
+msgstr "Willkommen in deiner Türchenzeit. Gestalte 24 kleine Adventsmomente – als Kalender auf deiner Website oder als eigene Adventswebsite. Hier findest du die ersten Schritte, Ideen und alles für einen entspannten Start."
+
+msgid "What am I grateful for today? Whom would I like to remember in prayer?"
+msgstr "Wofür bin ich heute dankbar? An wen möchte ich im Gebet denken?"
+
+msgid "What are the Ore Mountains?"
+msgstr "Was ist das Erzgebirge?"
+
+msgid "What does “Türchenzeit” mean?"
+msgstr "Was bedeutet „Türchenzeit“?"
+
+msgid "What you need"
+msgstr "Das wird benötigt"
+
+msgid "When enabling original-content protection, purge existing page, CDN and REST caches and exclude the affected original URLs from full-page caching. Cached responses served before WordPress runs cannot be protected by a plugin."
+msgstr "Beim Einschalten des Originalschutzes vorhandene Seiten-, CDN- und REST-Caches leeren und betroffene Original-URLs vom vollständigen Seiten-Cache ausnehmen. Bereits vor dem WordPress-Aufruf ausgelieferte Cache-Antworten kann ein Plugin nicht schützen."
+
+msgid "Winter glow"
+msgstr "Winterlicht"
+
+msgid "With warm Advent wishes,"
+msgstr "Mit herzlichen Adventsgrüßen"
+
+msgid "WordPress timezone"
+msgstr "WordPress-Zeitzone"
+
+msgid "Words to brighten your day"
+msgstr "Worte, die den Tag erhellen"
+
+msgid "Write a few kind words to someone."
+msgstr "Einem Menschen ein paar freundliche Worte schreiben."
+
+msgid "Year and appearance"
+msgstr "Jahr und Gestaltung"
+
+msgid "Year: %1$d · Timezone: %2$s · Missing assignments: %3$d · Unavailable contents: %4$d"
+msgstr "Jahr: %1$d · Zeitzone: %2$s · Fehlende Zuordnungen: %3$d · Nicht verfügbare Inhalte: %4$d"
+
+msgid "Yes. Advent means arrival. For Christians, it is a season of expectation and preparation for Christmas, the celebration of the birth of Jesus Christ, the Savior. The Star of Bethlehem and Arrival designs reflect that meaning. Share Bible passages, reflections, or daily devotions, or choose another design for a calendar with a theme of your own."
+msgstr "Ja. Advent heißt Ankunft. Für Christen ist es die Zeit der Erwartung und Vorbereitung auf Weihnachten, das Fest der Geburt Jesu Christi, des Retters. Die Designs Stern von Bethlehem und Ankunft greifen diese Bedeutung auf. Du kannst Bibelverse, Andachten und andere Impulse einsetzen – oder mit den weiteren Designs einen Kalender zu einem eigenen Thema gestalten."
+
+msgid "You are not allowed to access door content."
+msgstr "Du hast keine Berechtigung, auf Türcheninhalte zuzugreifen."
+
+msgid "You are not allowed to import images."
+msgstr "Keine Berechtigung zum Importieren von Bildern."
+
+msgid "You are not allowed to transfer this calendar."
+msgstr "Keine Berechtigung zum Übertragen dieses Kalenders."
+
+msgid "YouTube video"
+msgstr "YouTube-Video"
+
+msgid "Your Advent website"
+msgstr "Deine Adventswebsite"
+
+msgid "Your calendars at a glance."
+msgstr "Deine Kalender auf einen Blick."
+
+msgid "Your first calendar"
+msgstr "Der erste Kalender"
+
+msgid "Your name"
+msgstr "Dein Name"
+
+msgid "ZIP format and image instructions"
+msgstr "Anleitung für ZIP-Dateien und Bilder"
+
+msgid "ZIP import requires the PHP ZIP extension on your server."
+msgstr "Der ZIP-Import benötigt die PHP-ZIP-Erweiterung auf dem Server."
