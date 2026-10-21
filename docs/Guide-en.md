@@ -5,7 +5,7 @@ title: Illustrated guide
 
 # Türchenzeit: illustrated guide
 
-[Deutsch](Guide-de.md) · [FAQ](../FAQ.md)
+[Deutsch](Guide-de.md) · [FAQ](FAQ-en.md)
 
 ## Your own Advent website
 

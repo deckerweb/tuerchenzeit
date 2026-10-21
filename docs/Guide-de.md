@@ -5,7 +5,7 @@ title: Bebilderte Anleitung
 
 # Türchenzeit: bebilderte Anleitung
 
-[English](Guide-en.md) · [FAQ](../FAQ-de.md)
+[English](Guide-en.md) · [FAQ](FAQ-de.md)
 
 ## Die eigene Adventswebsite
 
