@@ -13,3 +13,4 @@ An Advent calendar for WordPress, with 24 daily doors and your own Advent websit
 | [FAQ by topic](FAQ-English) | [Fragen nach Themen](FAQ-Deutsch) |
 | [Import](Import-English) | [Import](Import-Deutsch) |
 | [Changelog](Changelog-English) | [Änderungsverlauf](Changelog-Deutsch) |
+| [Help and security](Help-English) | [Hilfe und Sicherheit](Help-Deutsch) |

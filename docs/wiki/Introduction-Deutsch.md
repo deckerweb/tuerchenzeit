@@ -142,6 +142,6 @@ Entwickelt und gepflegt von David Decker – DECKERWEB.
 
 Copyright © 2026 David Decker – DECKERWEB. [GPL-2.0-or-later](https://github.com/deckerweb/tuerchenzeit/blob/main/LICENSE).
 
-Mitgelieferte Komponenten: deckerweb Library 1.0.0 und deckerweb Updater 2.1.0 (GPL-2.0-or-later). Source Serif 4 und Inter werden lokal unter SIL Open Font License 1.1 mitgeliefert. Die freigegebenen SVG-Grafiken verwenden Vektorformen und Schriftpfade, ohne eingebettete Rasterbilder oder externe Ressourcen.
+Mitgelieferte Komponenten: deckerweb Library 1.1.0 und deckerweb Updater 2.2.0 (GPL-2.0-or-later). Source Serif 4 und Inter werden lokal unter SIL Open Font License 1.1 mitgeliefert. Die freigegebenen SVG-Grafiken verwenden Vektorformen und Schriftpfade, ohne eingebettete Rasterbilder oder externe Ressourcen.
 
 [Font licenses and provenance](https://github.com/deckerweb/tuerchenzeit/blob/main/licenses/FONTS.txt) · [Source Serif 4](https://github.com/deckerweb/tuerchenzeit/blob/main/licenses/Source-Serif-4-OFL.txt) · [Inter](https://github.com/deckerweb/tuerchenzeit/blob/main/licenses/Inter-OFL.txt)

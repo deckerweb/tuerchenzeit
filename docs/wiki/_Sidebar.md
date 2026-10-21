@@ -1,15 +1,17 @@
-**[Türchenzeit](Home)**
+## English
 
-### English
-- [Introduction](Introduction-English)
+- [Getting started](Introduction-English)
 - [Illustrated guide](Guide-English)
 - [FAQ by topic](FAQ-English)
-- [Import](Import-English)
+- [Importing day sets](Import-English)
 - [Changelog](Changelog-English)
+- [Help and security](Help-English)
 
-### Deutsch
-- [Kurzvorstellung](Introduction-Deutsch)
+## Deutsch
+
+- [Erste Schritte](Introduction-Deutsch)
 - [Bebilderte Anleitung](Guide-Deutsch)
 - [Fragen nach Themen](FAQ-Deutsch)
-- [Import](Import-Deutsch)
+- [Tagessätze importieren](Import-Deutsch)
 - [Änderungsverlauf](Changelog-Deutsch)
+- [Hilfe und Sicherheit](Help-Deutsch)
