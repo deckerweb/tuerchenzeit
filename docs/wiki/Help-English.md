@@ -16,4 +16,4 @@ Report suspected vulnerabilities through [GitHub’s private reporting form](htt
 
 ## Downloads
 
-The [Downloads & Releases page](https://github.com/deckerweb/tuerchenzeit/releases) lists published releases when available. This documentation does not itself indicate that a release has been published.
+Download the installable plugin ZIP from [Downloads & Releases](https://github.com/deckerweb/tuerchenzeit/releases). Use the attached plugin ZIP rather than GitHub’s automatically generated source archives.

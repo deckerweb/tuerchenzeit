@@ -51,7 +51,7 @@ final class Preparation {
 	 * @return void Sends a bounded JSON response and ends execution.
 	 */
 	public static function preference(): void {
-		if ( 'POST' !== ( $_SERVER['REQUEST_METHOD'] ?? '' ) || ! current_user_can( 'manage_options' ) ) { wp_send_json_error( array(), 403 ); }
+		if ( 'POST' !== ( isset( $_SERVER['REQUEST_METHOD'] ) && is_string( $_SERVER['REQUEST_METHOD'] ) ? sanitize_text_field( wp_unslash( $_SERVER['REQUEST_METHOD'] ) ) : '' ) || ! current_user_can( 'manage_options' ) ) { wp_send_json_error( array(), 403 ); }
 		check_ajax_referer( 'ttz_checklist', 'nonce' );
 		$id = absint( $_POST['calendar'] ?? 0 );
 		if ( ! Calendar::get( $id, true ) || ! current_user_can( 'edit_post', $id ) || ! in_array( $_POST['hidden'] ?? '', array( '0', '1' ), true ) ) { wp_send_json_error( array(), 403 ); }

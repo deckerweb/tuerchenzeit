@@ -44,7 +44,7 @@ final class Presentation {
 	 */
 	public static function notice( array $settings, int $day, bool $open ): string {
 		$time = Calendar::opens( (int) $settings['year'], $day );
-		$values = array( '{tuerchen}' => sprintf( __( 'Door %d', 'tuerchenzeit' ), $day ), '{tag}' => (string) $day, '{datum}' => wp_date( 'j. F', $time, wp_timezone() ), '{uhrzeit}' => wp_date( 'H:i', $time, wp_timezone() ) );
+		$values = array( '{tuerchen}' => sprintf( /* translators: %d: Advent calendar day number. */ __( 'Door %d', 'tuerchenzeit' ), $day ), '{tag}' => (string) $day, '{datum}' => wp_date( 'j. F', $time, wp_timezone() ), '{uhrzeit}' => wp_date( 'H:i', $time, wp_timezone() ) );
 		return wpautop( self::clean_notice( strtr( (string) $settings[ $open ? 'notice_missing' : 'notice_locked' ], array_map( 'esc_html', $values ) ) ) );
 	}
 }

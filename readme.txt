@@ -1,6 +1,7 @@
 === Türchenzeit ===
 Contributors: daveshine
 Tags: advent, christmas, calendar, countdown
+Tested up to: 7.1
 Requires at least: 6.9
 Requires PHP: 8.3
 Stable tag: 1.0.0
@@ -13,7 +14,7 @@ A new door every day. An Advent calendar with six designs, own content, linked e
 
 Türchenzeit brings 24 little moments of Advent to your WordPress website. Combine dedicated daily content with existing posts or pages, choose a design, and let a new door open each day. You can also create a fully editable Advent landing page, ready to return with fresh content each year. The German name evokes the season of opening little Advent calendar doors. Part of the Inspiration series, Türchenzeit draws on the Christmas warmth of Germany’s Ore Mountains.
 
-Version 1.0.0 validation build. PHP 8.3 or later; WordPress 6.9 or later.
+Version 1.0.0. PHP 8.3 or later; WordPress 6.9 or later.
 
 * Your own Advent website – an editable landing page with optional header and footer patterns.
 * 24 doors, your contents – combine your own daily contents with existing posts or pages.

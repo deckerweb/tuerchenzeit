@@ -379,6 +379,9 @@ msgstr ""
 msgid "Design default"
 msgstr ""
 
+msgid "Dismiss this notice"
+msgstr ""
+
 msgid "Display and embedding"
 msgstr ""
 
@@ -493,6 +496,9 @@ msgstr ""
 msgid "Get started"
 msgstr ""
 
+msgid "Git Updater is active. If a deckerweb installation or update fails, temporarily deactivate Git Updater and retry. Reactivate it afterwards if other plugins or themes need it. Only leave it disabled when those extensions have another reliable update provider."
+msgstr ""
+
 msgid "GitHub release does not contain the plugin main file."
 msgstr ""
 
@@ -605,6 +611,9 @@ msgid "Make it your own"
 msgstr ""
 
 msgid "Make something with love"
+msgstr ""
+
+msgid "Manage installed plugins"
 msgstr ""
 
 msgid "Messages for closed or empty doors"
@@ -769,6 +778,9 @@ msgstr ""
 msgid "Paragraphs, bold and italic only. Placeholders use the WordPress timezone. Unknown placeholders remain unchanged."
 msgstr ""
 
+msgid "Permission denied."
+msgstr ""
+
 msgid "Pill"
 msgstr ""
 
@@ -836,6 +848,9 @@ msgid "Protect linked original content until opening"
 msgstr ""
 
 msgid "Protect original content deliberately"
+msgstr ""
+
+msgid "Public catalog callbacks require both providers and cannot be used in private mode."
 msgstr ""
 
 msgid "Public media files in uploads, already indexed copies and external caches are not access-protected. Upload confidential files through a dedicated protected-media solution. The plugin preserves original post statuses and contents."
@@ -1007,6 +1022,12 @@ msgid "The Bible passage could not be loaded."
 msgstr ""
 
 msgid "The Erzgebirge, known in English as the Ore Mountains, is a mountain region along the German–Czech border. David comes from the German side, where Christmas woodcraft and illuminated window decorations are deeply rooted traditions. You do not need to know the region to enjoy the plugin; it is the source of its warm, unhurried Advent atmosphere."
+msgstr ""
+
+msgid "The approved release changed. Refresh updates first."
+msgstr ""
+
+msgid "The approved release could not be verified."
 msgstr ""
 
 msgid "The calendar could not be loaded. Check your connection and try again."

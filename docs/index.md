@@ -11,7 +11,7 @@ title: Türchenzeit
 
 Türchenzeit brings 24 little moments of Advent to your WordPress website. Combine dedicated daily content with existing posts or pages, choose a design, and let a new door open each day. You can also create a fully editable Advent landing page, ready to return with fresh content each year. The German name evokes the season of opening little Advent calendar doors. Part of the Inspiration series, Türchenzeit draws on the Christmas warmth of Germany’s Ore Mountains.
 
-**1.0.0 validation build · WordPress 6.9+ · PHP 8.3+**
+**1.0.0 · WordPress 6.9+ · PHP 8.3+**
 
 ## At a glance
 

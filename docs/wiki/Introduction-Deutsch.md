@@ -8,7 +8,7 @@
 
 Türchenzeit bringt 24 kleine Adventsmomente auf deine WordPress-Website. Kombiniere eigene Türcheninhalte mit vorhandenen Beiträgen oder Seiten, wähle ein passendes Design und lass jeden Tag ein neues Türchen öffnen. Auf Wunsch entsteht daraus eine vollständig bearbeitbare Adventswebsite – einmal eingerichtet, jedes Jahr mit neuen Inhalten. Ein Projekt aus der Serie Inspiration, mit Wärme aus dem Erzgebirge.
 
-**Version 1.0.0 · Teststand** · WordPress ab 6.9 · PHP ab 8.3 · GPL-2.0-or-later. Es wurde noch kein GitHub-Release veröffentlicht.
+**Version 1.0.0** · WordPress ab 6.9 · PHP ab 8.3 · GPL-2.0-or-later.
 
 [Auf einen Blick](#auf-einen-blick) · [Erste Schritte](#erste-schritte) · [Funktionen](#funktionen) · [FAQ](#faq) · [Datenschutz](#datenschutz-und-verbindungen)
 

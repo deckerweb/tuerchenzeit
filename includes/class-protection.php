@@ -112,7 +112,7 @@ final class Protection {
 		// Resolve the original slug without a public query already excluding protected rows.
 		if ( ! $id ) { $slug = get_query_var( 'pagename' ) ?: get_query_var( 'name' ); if ( $slug ) { $post = get_page_by_path( $slug, OBJECT, get_post_types( array( 'public' => true ) ) ); $id = $post ? $post->ID : 0; } }
 		// Pretty permalinks can already resolve to a 404 after SQL exclusion.
-		if ( ! $id && is_404() ) { $id = url_to_postid( home_url( wp_unslash( $_SERVER['REQUEST_URI'] ?? '/' ) ) ); }
+		if ( ! $id && is_404() ) { $id = url_to_postid( home_url( ( isset( $_SERVER['REQUEST_URI'] ) && is_string( $_SERVER['REQUEST_URI'] ) ? sanitize_url( wp_unslash( $_SERVER['REQUEST_URI'] ) ) : '/' ) ) ); }
 		if ( ! $id || ! self::locked( $id ) ) { return; }
 		if ( ! defined( 'DONOTCACHEPAGE' ) ) { define( 'DONOTCACHEPAGE', true ); }
 		nocache_headers(); header( 'Cache-Control: no-store, private, max-age=0' ); header( 'X-Robots-Tag: noindex, noarchive', true );

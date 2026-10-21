@@ -16,4 +16,4 @@ Hinweise auf Sicherheitslücken gehören in [GitHubs privates Meldeformular](htt
 
 ## Downloads
 
-Die Seite [Downloads & Releases](https://github.com/deckerweb/tuerchenzeit/releases) führt veröffentlichte Versionen auf, sofern vorhanden. Diese Dokumentation allein bedeutet keine erfolgte Release-Veröffentlichung.
+Das installierbare Plugin-ZIP steht unter [Downloads & Releases](https://github.com/deckerweb/tuerchenzeit/releases) bereit. Zur Installation das angehängte Plugin-ZIP verwenden, nicht die automatisch erzeugten Quellarchive von GitHub.

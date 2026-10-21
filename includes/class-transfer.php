@@ -97,10 +97,15 @@ final class Transfer {
 	/** Read a bounded temporary upload without moving or fetching any media. @return void */
 	public static function import_action(): void {
 		if ( ! current_user_can( 'manage_options' ) ) { wp_die( '', '', array( 'response' => 403 ) ); } check_admin_referer( 'ttz_import' );
-		$f = $_FILES['calendar'] ?? array();
+		$f = array(
+			'tmp_name' => isset( $_FILES['calendar']['tmp_name'] ) && is_string( $_FILES['calendar']['tmp_name'] ) ? sanitize_text_field( $_FILES['calendar']['tmp_name'] ) : '',
+			'name' => isset( $_FILES['calendar']['name'] ) && is_string( $_FILES['calendar']['name'] ) ? sanitize_file_name( $_FILES['calendar']['name'] ) : '',
+			'error' => isset( $_FILES['calendar']['error'] ) && is_scalar( $_FILES['calendar']['error'] ) ? absint( $_FILES['calendar']['error'] ) : UPLOAD_ERR_NO_FILE,
+		);
 		if ( ! is_string( $f['tmp_name'] ?? null ) || ! is_uploaded_file( $f['tmp_name'] ) || ( $f['error'] ?? 1 ) !== UPLOAD_ERR_OK || filesize( $f['tmp_name'] ) > 20 * 1024 * 1024 ) { wp_die( esc_html__( 'Choose a JSON file up to 2 MB or a ZIP up to 20 MB.', 'tuerchenzeit' ) ); }
 		$is_zip = 'zip' === strtolower( pathinfo( (string) ( $f['name'] ?? '' ), PATHINFO_EXTENSION ) );
-		$result = $is_zip ? Media_Import::run( $f['tmp_name'] ) : self::import( file_get_contents( $f['tmp_name'] ) ); if ( is_wp_error( $result ) ) { wp_die( esc_html( $result->get_error_message() ) ); }
+		if ( ! $is_zip && filesize( $f['tmp_name'] ) > 2 * MB_IN_BYTES ) { wp_die( esc_html__( 'Choose a JSON file up to 2 MB or a ZIP up to 20 MB.', 'tuerchenzeit' ) ); }
+		$result = $is_zip ? Media_Import::run( $f['tmp_name'] ) : self::import( file_get_contents( $f['tmp_name'], false, null, 0, 2 * MB_IN_BYTES + 1 ) ); if ( is_wp_error( $result ) ) { wp_die( esc_html( $result->get_error_message() ) ); }
 		wp_safe_redirect( get_edit_post_link( $result['id'], 'raw' ) ); exit;
 	}
 }
