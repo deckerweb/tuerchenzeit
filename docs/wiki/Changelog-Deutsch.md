@@ -2,6 +2,12 @@
 
 [English](Changelog-English)
 
+## 1.0.1 · 2026-10-23
+
+**Behoben:**
+
+- Mitgelieferten Updater auf 2.2.1 aktualisiert, damit Türchenzeit neben Plugins mit älteren Kopien seinen eigenen Updater verwendet.
+
 ## 1.0.0 · 2026-10-21
 
 **Neu:**

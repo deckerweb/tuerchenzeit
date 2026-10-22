@@ -4,7 +4,7 @@ Tags: advent, christmas, calendar, countdown
 Tested up to: 7.1
 Requires at least: 6.9
 Requires PHP: 8.3
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -14,7 +14,7 @@ A new door every day. An Advent calendar with six designs, own content, linked e
 
 Türchenzeit brings 24 little moments of Advent to your WordPress website. Combine dedicated daily content with existing posts or pages, choose a design, and let a new door open each day. You can also create a fully editable Advent landing page, ready to return with fresh content each year. The German name evokes the season of opening little Advent calendar doors. Part of the Inspiration series, Türchenzeit draws on the Christmas warmth of Germany’s Ore Mountains.
 
-Version 1.0.0. PHP 8.3 or later; WordPress 6.9 or later.
+Version 1.0.1. PHP 8.3 or later; WordPress 6.9 or later.
 
 * Your own Advent website – an editable landing page with optional header and footer patterns.
 * 24 doors, your contents – combine your own daily contents with existing posts or pages.
@@ -77,6 +77,9 @@ Frontend calendar requests go only to your own WordPress website. No telemetry o
 Optional local fonts: Source Serif 4 and Inter, SIL Open Font License 1.1. License texts and source information are included in licenses/. No external font service is used.
 
 == Changelog ==
+
+= 1.0.1 =
+* Fixed: Updated the bundled updater to 2.2.1 so Türchenzeit uses its own updater alongside plugins with older copies.
 
 = 1.0.0 =
 

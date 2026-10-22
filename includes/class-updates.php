@@ -13,17 +13,17 @@ final class Updates {
 		add_filter( 'upgrader_source_selection', array( self::class, 'validate' ), 30, 4 );
 	}
 
-	/** Start one updater for this plugin, preserving another embedded V2 engine.
+	/** Start this host’s pinned updater alongside other embedded versions.
 	 * @return void
 	 */
 	public static function register(): void {
-		if ( ! class_exists( '\Deckerweb\GitHubReleaseUpdater\V2\Updater' ) ) { require_once __DIR__ . '/deckerweb-github-release-updater-v2.php'; }
-		if ( ! defined( '\Deckerweb\GitHubReleaseUpdater\V2\Updater::SUPPORTS_HOST_TRANSLATIONS' ) ) {
+		$updater_class = require __DIR__ . '/deckerweb-github-release-updater-v2.php';
+		if ( ! is_string( $updater_class ) || ! class_exists( $updater_class, false ) || ! defined( $updater_class . '::SUPPORTS_HOST_TRANSLATIONS' ) || ! constant( $updater_class . '::SUPPORTS_HOST_TRANSLATIONS' ) ) {
 			add_action( 'admin_notices', array( self::class, 'notice' ) );
 			return;
 		}
 		try {
-		$updater = new \Deckerweb\GitHubReleaseUpdater\V2\Updater( FILE, 'https://github.com/deckerweb/tuerchenzeit', 'Türchenzeit', Branding::text( 'short' ), array(), array( 'translate' => require __DIR__ . '/updater-translations.php' ) );
+		$updater = new $updater_class( FILE, 'https://github.com/deckerweb/tuerchenzeit', 'Türchenzeit', Branding::text( 'short' ), array(), array( 'translate' => require __DIR__ . '/updater-translations.php' ) );
 		$updater->register();
 		} catch ( \InvalidArgumentException $error ) {
 			add_action( 'admin_notices', array( self::class, 'notice' ) );

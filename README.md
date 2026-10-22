@@ -8,7 +8,7 @@
 
 Türchenzeit brings 24 little moments of Advent to your WordPress website. Combine dedicated daily content with existing posts or pages, choose a design, and let a new door open each day. You can also create a fully editable Advent landing page, ready to return with fresh content each year. The German name evokes the season of opening little Advent calendar doors. Part of the Inspiration series, Türchenzeit draws on the Christmas warmth of Germany’s Ore Mountains.
 
-**Version 1.0.0** · WordPress 6.9+ · PHP 8.3+ · GPL-2.0-or-later.
+**Version 1.0.1** · WordPress 6.9+ · PHP 8.3+ · GPL-2.0-or-later.
 
 [At a glance](#at-a-glance) · [Getting started](#getting-started) · [Features](#features) · [FAQ](#faq) · [Privacy](#privacy-and-connections)
 
@@ -116,6 +116,12 @@ Of course, a door can also reveal a voucher, an offer, or a product idea. Türch
 
 ## Changelog
 
+### 1.0.1 · 2026-10-23
+
+**Fixed:**
+
+- Updated the bundled updater to 2.2.1 so Türchenzeit uses its own updater alongside plugins with older copies.
+
 ### 1.0.0 · 2026-10-21
 
 **New:**
@@ -142,6 +148,6 @@ Developed and maintained by David Decker – DECKERWEB.
 
 Copyright © 2026 David Decker – DECKERWEB. [GPL-2.0-or-later](LICENSE).
 
-Bundled components: deckerweb Library 1.1.0 and deckerweb Updater 2.2.0 (GPL-2.0-or-later). Source Serif 4 and Inter are supplied locally under SIL Open Font License 1.1. Original approved SVG artwork uses vector forms and outlined lettering, without embedded raster images or external resources.
+Bundled components: deckerweb Library 1.1.0 and deckerweb Updater 2.2.1 (GPL-2.0-or-later). Source Serif 4 and Inter are supplied locally under SIL Open Font License 1.1. Original approved SVG artwork uses vector forms and outlined lettering, without embedded raster images or external resources.
 
 [Font licenses and provenance](licenses/FONTS.txt) · [Source Serif 4](licenses/Source-Serif-4-OFL.txt) · [Inter](licenses/Inter-OFL.txt)

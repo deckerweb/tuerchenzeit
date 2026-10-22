@@ -3,7 +3,7 @@
  * Plugin Name: Türchenzeit
  * Plugin URI: https://github.com/deckerweb/tuerchenzeit
  * Description: A thoughtfully designed Advent calendar for WordPress, with 24 daily doors, your own content, and an optional Advent landing page.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Requires at least: 6.9
  * Requires PHP: 8.3
  * Author: David Decker – DECKERWEB
@@ -25,7 +25,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-const VERSION = '1.0.0';
+const VERSION = '1.0.1';
 const FILE = __FILE__;
 
 require_once __DIR__ . '/includes/deckerweb-plugin-library/bootstrap.php';

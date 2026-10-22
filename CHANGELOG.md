@@ -2,6 +2,12 @@
 
 [Deutsch](CHANGELOG-de.md)
 
+## 1.0.1 · 2026-10-23
+
+**Fixed:**
+
+- Updated the bundled updater to 2.2.1 so Türchenzeit uses its own updater alongside plugins with older copies.
+
 ## 1.0.0 · 2026-10-21
 
 **New:**
