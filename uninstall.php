@@ -2,4 +2,4 @@
 /** Preserve calendar content and settings; clean only final-host component caches. */
 if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) { exit; }
 require_once __DIR__ . '/includes/deckerweb-plugin-library/lifecycle.php';
-deckerweb_library_uninstall_v3( __DIR__ . '/tuerchenzeit.php' );
+deckerweb_library_uninstall_v4( __DIR__ . '/tuerchenzeit.php' );

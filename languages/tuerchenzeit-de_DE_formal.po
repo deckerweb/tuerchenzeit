@@ -1,11 +1,18 @@
 msgid ""
-msgstr "Project-Id-Version: Türchenzeit 1.0.0\nLanguage: de_DE_formal\nContent-Type: text/plain; charset=UTF-8\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+msgstr ""
+"Project-Id-Version: Türchenzeit 1.0.0\n"
+"Language: de_DE_formal\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "%d of 24 doors ready"
 msgstr "%d von 24 Türchen bereit"
 
-msgid "24 daily doors with dedicated private content or linked posts and pages."
-msgstr "24 tägliche Türchen mit eigenen geschützten Inhalten oder verknüpften Beiträgen und Seiten."
+msgid ""
+"24 daily doors with dedicated private content or linked posts and pages."
+msgstr ""
+"24 tägliche Türchen mit eigenen geschützten Inhalten oder verknüpften "
+"Beiträgen und Seiten."
 
 msgid "24 small moments begin with your contents."
 msgstr "24 kleine Momente beginnen mit Ihren Inhalten."
@@ -26,7 +33,8 @@ msgid "A line or a thought to carry into the day."
 msgstr "Eine Zeile oder ein Gedanke, der durch den Tag begleitet."
 
 msgid "A little anticipation: {tuerchen} opens on {datum} at {uhrzeit}."
-msgstr "Vorfreude gehört dazu: {tuerchen} öffnet sich am {datum} um {uhrzeit} Uhr."
+msgstr ""
+"Vorfreude gehört dazu: {tuerchen} öffnet sich am {datum} um {uhrzeit} Uhr."
 
 msgid "A little film for Advent"
 msgstr "Ein kleiner Film zum Advent"
@@ -70,14 +78,24 @@ msgstr "Eine Andacht"
 msgid "A simple idea for a quiet December afternoon."
 msgstr "Eine einfache Idee für einen ruhigen Dezembernachmittag."
 
-msgid "A small Advent website often needs only this one page, plus your legal and privacy information. If you create your daily contents under Own door content, you do not need additional blog posts or content pages. This keeps your website lean and easy to manage."
-msgstr "Für eine kleine Adventswebsite genügt oft schon diese eine Seite, ergänzt um Impressum und Datenschutz. Wenn Sie die Tagesinhalte unter „Eigene Türcheninhalte“ anlegen, brauchen Sie dafür keine zusätzlichen Blogbeiträge oder Inhaltsseiten. So bleibt die Website schlank und übersichtlich."
+msgid ""
+"A small Advent website often needs only this one page, plus your legal and "
+"privacy information. If you create your daily contents under Own door "
+"content, you do not need additional blog posts or content pages. This keeps "
+"your website lean and easy to manage."
+msgstr ""
+"Für eine kleine Adventswebsite genügt oft schon diese eine Seite, ergänzt um "
+"Impressum und Datenschutz. Wenn Sie die Tagesinhalte unter „Eigene "
+"Türcheninhalte“ anlegen, brauchen Sie dafür keine zusätzlichen Blogbeiträge "
+"oder Inhaltsseiten. So bleibt die Website schlank und übersichtlich."
 
 msgid "A small act of kindness"
 msgstr "Eine kleine gute Tat"
 
 msgid "A small gesture can make someone’s day. What could you give today?"
-msgstr "Eine kleine Geste kann einen Tag heller machen. Was könnten Sie heute schenken?"
+msgstr ""
+"Eine kleine Geste kann einen Tag heller machen. Was könnten Sie heute "
+"schenken?"
 
 msgid "A song"
 msgstr "Ein Lied"
@@ -88,8 +106,12 @@ msgstr "Eine Geschichte für heute"
 msgid "A taste of Advent"
 msgstr "Ein Stück Advent zum Genießen"
 
-msgid "A thoughtfully designed Advent calendar for WordPress, with 24 daily doors, your own content, and an optional Advent landing page."
-msgstr "Ein liebevoll gestalteter Adventskalender für WordPress: 24 Türchen, deine Inhalte und auf Wunsch eine eigene Adventswebsite."
+msgid ""
+"A thoughtfully designed Advent calendar for WordPress, with 24 daily doors, "
+"your own content, and an optional Advent landing page."
+msgstr ""
+"Ein liebevoll gestalteter Adventskalender für WordPress: 24 Türchen, deine "
+"Inhalte und auf Wunsch eine eigene Adventswebsite."
 
 msgid "A verse that accompanies you today."
 msgstr "Ein Vers, der heute begleitet."
@@ -106,8 +128,12 @@ msgstr "Diese Aktion ist nicht erlaubt."
 msgid "Activate plugin"
 msgstr "Plugin aktivieren"
 
-msgid "Add a calendar, choose its year and design, then assign content to the 24 doors."
-msgstr "Legen Sie einen Kalender an, wählen Sie Jahr und Design und weisen Sie den 24 Türchen Inhalte zu."
+msgid ""
+"Add a calendar, choose its year and design, then assign content to the 24 "
+"doors."
+msgstr ""
+"Legen Sie einen Kalender an, wählen Sie Jahr und Design und weisen Sie den "
+"24 Türchen Inhalte zu."
 
 msgid "Add a photo of the finished piece in the image block."
 msgstr "Ein Foto des fertigen Stücks im Bild-Block ergänzen."
@@ -119,7 +145,8 @@ msgid "Add door content"
 msgstr "Türcheninhalt hinzufügen"
 
 msgid "Add editable header, footer and content patterns in the Block Editor."
-msgstr "Bearbeitbare Header-, Footer- und Inhaltsvorlagen im Block-Editor einfügen."
+msgstr ""
+"Bearbeitbare Header-, Footer- und Inhaltsvorlagen im Block-Editor einfügen."
 
 msgid "Add the ingredients and quantities here."
 msgstr "Hier die Zutaten und Mengen eintragen."
@@ -148,8 +175,13 @@ msgstr "Alle Kalender"
 msgid "All doors are ready."
 msgstr "Alle Türchen sind fertig eingerichtet."
 
-msgid "All doors open worldwide at the same moment: midnight in the WordPress timezone %s. A visitor’s local date and time can differ."
-msgstr "Alle Türchen öffnen weltweit zum selben Zeitpunkt: um Mitternacht in der WordPress-Zeitzone %s. Das lokale Datum und die Uhrzeit eines Besuchers können davon abweichen."
+msgid ""
+"All doors open worldwide at the same moment: midnight in the WordPress "
+"timezone %s. A visitor’s local date and time can differ."
+msgstr ""
+"Alle Türchen öffnen weltweit zum selben Zeitpunkt: um Mitternacht in der "
+"WordPress-Zeitzone %s. Das lokale Datum und die Uhrzeit eines Besuchers "
+"können davon abweichen."
 
 msgid "All public content types"
 msgstr "Alle öffentlichen Inhaltstypen"
@@ -157,8 +189,12 @@ msgstr "Alle öffentlichen Inhaltstypen"
 msgid "An Advent calendar for WordPress"
 msgstr "Adventskalender für WordPress"
 
-msgid "An editable standalone Advent landing page, optional header/footer patterns and local fonts."
-msgstr "Bearbeitbare eigenständige Adventswebsite, optionale Header-/Footer-Vorlagen und lokale Schriften."
+msgid ""
+"An editable standalone Advent landing page, optional header/footer patterns "
+"and local fonts."
+msgstr ""
+"Bearbeitbare eigenständige Adventswebsite, optionale Header-/Footer-Vorlagen "
+"und lokale Schriften."
 
 msgid "Arrival"
 msgstr "Ankunft"
@@ -173,7 +209,9 @@ msgid "Assigned doors"
 msgstr "Zugeordnete Türchen"
 
 msgid "Assignment removed. Save the calendar to keep this change."
-msgstr "Zuordnung entfernt. Speichern Sie den Kalender, um die Änderung zu übernehmen."
+msgstr ""
+"Zuordnung entfernt. Speichern Sie den Kalender, um die Änderung zu "
+"übernehmen."
 
 msgid "At least two characters"
 msgstr "Mindestens zwei Zeichen"
@@ -256,8 +294,13 @@ msgstr "Änderungsverlauf"
 msgid "Check publication:"
 msgstr "Veröffentlichung prüfen:"
 
-msgid "Check readiness, simulate a December date, then publish the calendar and insert its shortcode or prepare a landing page."
-msgstr "Den Bereitschaftscheck durchsehen und ein Dezemberdatum simulieren. Danach den Kalender veröffentlichen und seinen Shortcode einfügen oder eine Landingseite vorbereiten."
+msgid ""
+"Check readiness, simulate a December date, then publish the calendar and "
+"insert its shortcode or prepare a landing page."
+msgstr ""
+"Den Bereitschaftscheck durchsehen und ein Dezemberdatum simulieren. Danach "
+"den Kalender veröffentlichen und seinen Shortcode einfügen oder eine "
+"Landingseite vorbereiten."
 
 msgid "Cheerful memories and little Christmas episodes."
 msgstr "Heitere Erinnerungen und kleine Weihnachtsepisoden."
@@ -265,11 +308,19 @@ msgstr "Heitere Erinnerungen und kleine Weihnachtsepisoden."
 msgid "Choose a JSON file up to 2 MB or a ZIP up to 20 MB."
 msgstr "Eine JSON-Datei bis 2 MB oder ein ZIP bis 20 MB auswählen Sien."
 
-msgid "Choose a card to assign content. Search results appear directly below the search field. Assignments are saved with the calendar."
-msgstr "Wählen Sie eine Karte, um Inhalte zuzuweisen. Die Treffer erscheinen direkt unter dem Suchfeld. Zuordnungen werden zusammen mit dem Kalender gespeichert."
+msgid ""
+"Choose a card to assign content. Search results appear directly below the "
+"search field. Assignments are saved with the calendar."
+msgstr ""
+"Wählen Sie eine Karte, um Inhalte zuzuweisen. Die Treffer erscheinen direkt "
+"unter dem Suchfeld. Zuordnungen werden zusammen mit dem Kalender gespeichert."
 
-msgid "Choose a file. New drafts are created for review; existing contents stay as they are. A ZIP can also bring the images."
-msgstr "Wählen Sie eine Datei. Es entstehen neue Entwürfe zum Prüfen; vorhandene Inhalte bleiben erhalten. Ein ZIP kann auch die Bilder mitbringen."
+msgid ""
+"Choose a file. New drafts are created for review; existing contents stay as "
+"they are. A ZIP can also bring the images."
+msgstr ""
+"Wählen Sie eine Datei. Es entstehen neue Entwürfe zum Prüfen; vorhandene "
+"Inhalte bleiben erhalten. Ein ZIP kann auch die Bilder mitbringen."
 
 msgid "Choose accent color"
 msgstr "Akzentfarbe auswählen Sien"
@@ -299,7 +350,8 @@ msgid "Close"
 msgstr "Schließen"
 
 msgid "Content assigned. Save the calendar to keep this change."
-msgstr "Inhalt zugewiesen. Speichern Sie den Kalender, um die Änderung zu übernehmen."
+msgstr ""
+"Inhalt zugewiesen. Speichern Sie den Kalender, um die Änderung zu übernehmen."
 
 msgid "Content editor"
 msgstr "Inhaltseditor"
@@ -343,8 +395,11 @@ msgstr "Bastelideen für gemütliche Wintertage."
 msgid "Create and assign own content"
 msgstr "Eigenen Inhalt erstellen und zuweisen"
 
-msgid "Create and publish your own door content, or use existing published entries."
-msgstr "Erstellen Sie und veröffentliche eigene Türcheninhalte oder verwende vorhandene veröffentlichte Einträge."
+msgid ""
+"Create and publish your own door content, or use existing published entries."
+msgstr ""
+"Erstellen Sie und veröffentliche eigene Türcheninhalte oder verwende "
+"vorhandene veröffentlichte Einträge."
 
 msgid "Creative December hours"
 msgstr "Kreative Dezemberstunden"
@@ -428,7 +483,8 @@ msgid "Edit prepared next edition"
 msgstr "Vorbereitete nächste Ausgabe bearbeiten"
 
 msgid "Editable Advent content made only with standard WordPress blocks."
-msgstr "Bearbeitbare Adventsinhalte ausschließlich aus WordPress-Standardblöcken."
+msgstr ""
+"Bearbeitbare Adventsinhalte ausschließlich aus WordPress-Standardblöcken."
 
 msgid "Editor for all own door content on this website"
 msgstr "Editor für alle eigenen Türcheninhalte dieser Website"
@@ -454,8 +510,25 @@ msgstr "Wir erwarten Jesus Christus. Dem Licht der Hoffnung entgegen."
 msgid "Explain the next steps in a few clear sentences."
 msgstr "Die weiteren Schritte in wenigen klaren Sätzen erklären."
 
-msgid "Export a calendar from its editor as JSON. Import creates a new draft calendar and independent drafts for own contents. Existing originals are matched only by local URL; unresolved references stay empty. JSON reuses images already in the local media library. A ZIP can include calendar.json and raster images in media/; bundled images are added to the media library and content references are updated. SVG is not supported. Other embedded image URLs remain unchanged. Original protection starts disabled and annual switch links are not imported."
-msgstr "Kalender im Editor als JSON exportieren. Beim Import entstehen ein neuer Kalenderentwurf und unabhängige Entwürfe für eigene Türcheninhalte. Bestehende Originale werden nur über lokale URLs zugeordnet; nicht gefundene Verknüpfungen bleiben leer. JSON verwendet bereits vorhandene Bilder der Mediathek. Ein ZIP kann calendar.json und Rasterbilder in media/ enthalten; diese werden in die Mediathek übernommen und Inhaltsverweise angepasst. SVG wird nicht unterstützt. Andere eingebettete Bild-URLs bleiben bestehen. Der Originalschutz startet ausgeschaltet; Jahreswechsel-Verknüpfungen werden nicht importiert."
+msgid ""
+"Export a calendar from its editor as JSON. Import creates a new draft "
+"calendar and independent drafts for own contents. Existing originals are "
+"matched only by local URL; unresolved references stay empty. JSON reuses "
+"images already in the local media library. A ZIP can include calendar.json "
+"and raster images in media/; bundled images are added to the media library "
+"and content references are updated. SVG is not supported. Other embedded "
+"image URLs remain unchanged. Original protection starts disabled and annual "
+"switch links are not imported."
+msgstr ""
+"Kalender im Editor als JSON exportieren. Beim Import entstehen ein neuer "
+"Kalenderentwurf und unabhängige Entwürfe für eigene Türcheninhalte. "
+"Bestehende Originale werden nur über lokale URLs zugeordnet; nicht gefundene "
+"Verknüpfungen bleiben leer. JSON verwendet bereits vorhandene Bilder der "
+"Mediathek. Ein ZIP kann calendar.json und Rasterbilder in media/ enthalten; "
+"diese werden in die Mediathek übernommen und Inhaltsverweise angepasst. SVG "
+"wird nicht unterstützt. Andere eingebettete Bild-URLs bleiben bestehen. Der "
+"Originalschutz startet ausgeschaltet; Jahreswechsel-Verknüpfungen werden "
+"nicht importiert."
 
 msgid "Export and import"
 msgstr "Export und Import"
@@ -467,7 +540,8 @@ msgid "Familiar melodies and new discoveries to listen to and sing along with."
 msgstr "Vertraute Melodien und neue Entdeckungen zum Zuhören und Mitsingen."
 
 msgid "Favorite cookies and winter dishes from Grandma’s recipe books."
-msgstr "Lieblingsplätzchen und winterliche Gerichte aus Omas Back- und Kochbüchern."
+msgstr ""
+"Lieblingsplätzchen und winterliche Gerichte aus Omas Back- und Kochbüchern."
 
 msgid "Featured image"
 msgstr "Beitragsbild"
@@ -481,11 +555,28 @@ msgstr "Kalender füllen"
 msgid "Filled"
 msgstr "Gefüllt"
 
-msgid "Find editable header, footer and daily content patterns under Patterns → Türchenzeit. Landing pages and own content receive extra design colors while keeping the theme palette. Shared own content offers the colors of its assigned calendars."
-msgstr "Bearbeitbare Vorlagen für Header, Footer und Tagesinhalte stehen unter Vorlagen → Türchenzeit. Landingseiten und eigene Türcheninhalte erhalten zusätzliche Design-Farben; die Theme-Palette bleibt erhalten. Mehrfach zugewiesene eigene Inhalte bieten die Farben ihrer Kalender an."
+msgid ""
+"Find editable header, footer and daily content patterns under Patterns → "
+"Türchenzeit. Landing pages and own content receive extra design colors while "
+"keeping the theme palette. Shared own content offers the colors of its "
+"assigned calendars."
+msgstr ""
+"Bearbeitbare Vorlagen für Header, Footer und Tagesinhalte stehen unter "
+"Vorlagen → Türchenzeit. Landingseiten und eigene Türcheninhalte erhalten "
+"zusätzliche Design-Farben; die Theme-Palette bleibt erhalten. Mehrfach "
+"zugewiesene eigene Inhalte bieten die Farben ihrer Kalender an."
 
-msgid "For other shortcodes, assign a post, page or suitable public content type and select Go to entry. The full page uses the normal WordPress output, provided the relevant plugin and template support those shortcodes. Choosing another content type alone does not change the popup rules."
-msgstr "Für weitere Shortcodes einen Beitrag, eine Seite oder einen geeigneten öffentlichen Inhaltstyp zuweisen und „Zum Eintrag wechseln“ wählen Sien. Die vollständige Seite verwendet die normale WordPress-Ausgabe, sofern das zuständige Plugin und Template diese Shortcodes unterstützen. Ein anderer Inhaltstyp allein ändert die Popup-Regeln nicht."
+msgid ""
+"For other shortcodes, assign a post, page or suitable public content type "
+"and select Go to entry. The full page uses the normal WordPress output, "
+"provided the relevant plugin and template support those shortcodes. Choosing "
+"another content type alone does not change the popup rules."
+msgstr ""
+"Für weitere Shortcodes einen Beitrag, eine Seite oder einen geeigneten "
+"öffentlichen Inhaltstyp zuweisen und „Zum Eintrag wechseln“ wählen Sien. Die "
+"vollständige Seite verwendet die normale WordPress-Ausgabe, sofern das "
+"zuständige Plugin und Template diese Shortcodes unterstützen. Ein anderer "
+"Inhaltstyp allein ändert die Popup-Regeln nicht."
 
 msgid "Full content button label"
 msgstr "Beschriftung für den Button zum vollständigen Inhalt"
@@ -496,8 +587,17 @@ msgstr "Sanftes Einblenden"
 msgid "Get started"
 msgstr "Erste Schritte"
 
-msgid "Git Updater is active. If a deckerweb installation or update fails, temporarily deactivate Git Updater and retry. Reactivate it afterwards if other plugins or themes need it. Only leave it disabled when those extensions have another reliable update provider."
-msgstr "Git Updater ist aktiv. Wenn eine deckerweb-Installation oder ein Update fehlschlägt, deaktivieren Sie Git Updater vorübergehend und versuchen Sie es erneut. Aktivieren Sie ihn danach wieder, wenn andere Plugins oder Themes ihn benötigen. Lassen Sie ihn nur dauerhaft deaktiviert, wenn diese Erweiterungen einen anderen zuverlässigen Updateweg besitzen."
+msgid ""
+"Git Updater is active. If a deckerweb installation or update fails, "
+"temporarily deactivate Git Updater and retry. Reactivate it afterwards if "
+"other plugins or themes need it. Only leave it disabled when those "
+"extensions have another reliable update provider."
+msgstr ""
+"Git Updater ist aktiv. Wenn eine deckerweb-Installation oder ein Update "
+"fehlschlägt, deaktivieren Sie Git Updater vorübergehend und versuchen Sie es "
+"erneut. Aktivieren Sie ihn danach wieder, wenn andere Plugins oder Themes "
+"ihn benötigen. Lassen Sie ihn nur dauerhaft deaktiviert, wenn diese "
+"Erweiterungen einen anderen zuverlässigen Updateweg besitzen."
 
 msgid "GitHub release does not contain the plugin main file."
 msgstr "Der GitHub-Release enthält nicht die Hauptdatei des Plugins."
@@ -511,11 +611,25 @@ msgstr "Zum Eintrag wechseln"
 msgid "Go to today’s door"
 msgstr "Zum heutigen Türchen"
 
-msgid "God, thank you for the light in this day. Be close to those who feel alone. Give us peace for the night and hope for tomorrow. Amen."
-msgstr "Gott, danke für das Licht in diesem Tag. Sei den Menschen nahe, die sich allein fühlen. Schenke uns Frieden für die Nacht und Hoffnung für morgen. Amen."
+msgid ""
+"God, thank you for the light in this day. Be close to those who feel alone. "
+"Give us peace for the night and hope for tomorrow. Amen."
+msgstr ""
+"Gott, danke für das Licht in diesem Tag. Sei den Menschen nahe, die sich "
+"allein fühlen. Schenke uns Frieden für die Nacht und Hoffnung für morgen. "
+"Amen."
 
-msgid "Headers and footers are optional. The included patterns give you a ready-made starting point for your own colors, text, and logo. You can also add navigation to the header, for example to further information or contact details."
-msgstr "Header und Footer sind optional. Die mitgelieferten Vorlagen bieten einen fertigen Ausgangspunkt, den Sie mit eigenen Farben, Texten und einem Logo gestalten können. Bei Bedarf lässt sich im Header auch eine Navigation ergänzen – beispielsweise zu weiteren Informationen oder Kontaktmöglichkeiten."
+msgid ""
+"Headers and footers are optional. The included patterns give you a ready-"
+"made starting point for your own colors, text, and logo. You can also add "
+"navigation to the header, for example to further information or contact "
+"details."
+msgstr ""
+"Header und Footer sind optional. Die mitgelieferten Vorlagen bieten einen "
+"fertigen Ausgangspunkt, den Sie mit eigenen Farben, Texten und einem Logo "
+"gestalten können. Bei Bedarf lässt sich im Header auch eine Navigation "
+"ergänzen – beispielsweise zu weiteren Informationen oder "
+"Kontaktmöglichkeiten."
 
 msgid "Help & inspiration"
 msgstr "Hilfe & Inspiration"
@@ -529,8 +643,18 @@ msgstr "Stunden"
 msgid "Ideas for 24 meaningful moments"
 msgstr "Ideen für 24 besondere Momente"
 
-msgid "If an original is assigned more than once, the earliest opening in any published protecting calendar wins. Draft calendars do not lock anything. Removing an assignment, disabling protection, or unpublishing its last protecting calendar removes that lock. Reusing an already opened original does not lock it again."
-msgstr "Bei mehrfacher Zuordnung gilt der früheste Öffnungstermin aller veröffentlichten, schützenden Kalender. Entwürfe sperren nichts. Die Sperre entfällt, wenn die letzte schützende Zuordnung entfernt, ihr Schutz ausgeschaltet oder ihr Kalender nicht mehr veröffentlicht ist. Ein bereits geöffnetes Original wird durch eine weitere Zuordnung nicht erneut gesperrt."
+msgid ""
+"If an original is assigned more than once, the earliest opening in any "
+"published protecting calendar wins. Draft calendars do not lock anything. "
+"Removing an assignment, disabling protection, or unpublishing its last "
+"protecting calendar removes that lock. Reusing an already opened original "
+"does not lock it again."
+msgstr ""
+"Bei mehrfacher Zuordnung gilt der früheste Öffnungstermin aller "
+"veröffentlichten, schützenden Kalender. Entwürfe sperren nichts. Die Sperre "
+"entfällt, wenn die letzte schützende Zuordnung entfernt, ihr Schutz "
+"ausgeschaltet oder ihr Kalender nicht mehr veröffentlicht ist. Ein bereits "
+"geöffnetes Original wird durch eine weitere Zuordnung nicht erneut gesperrt."
 
 msgid "Images"
 msgstr "Bilder"
@@ -541,14 +665,29 @@ msgstr "Einen Tagessatz importieren"
 msgid "Import as new drafts"
 msgstr "Als neue Entwürfe importieren"
 
-msgid "Import: %d references or images need reassignment. Review all doors before publishing."
-msgstr "Import: %d Verknüpfungen oder Bilder waren nicht zuzuordnen. Alle Türchen vor der Veröffentlichung prüfen."
+msgid ""
+"Import: %d references or images need reassignment. Review all doors before "
+"publishing."
+msgstr ""
+"Import: %d Verknüpfungen oder Bilder waren nicht zuzuordnen. Alle Türchen "
+"vor der Veröffentlichung prüfen."
 
 msgid "In a calendar popup"
 msgstr "Im Kalender-Popup"
 
-msgid "In your own door contents and standalone Advent landing pages, select a text block and open Typography → Font (font family). Choose Türchenzeit · Source Serif 4 or Türchenzeit · Inter. If the control is hidden, enable Font from the Typography options menu. Choose Default to return to the inherited theme font."
-msgstr "Wählen Sie in eigenen Türcheninhalten oder auf einer eigenständigen Advents-Landingseite einen Textblock aus und öffnen Sie Typografie → Schrift (Schriftfamilie). Dort stehen Türchenzeit · Source Serif 4 und Türchenzeit · Inter zur Wahl. Falls das Feld fehlt, blenden Sie Schrift über das Optionsmenü der Typografie ein. Mit Standard kehren Sie zur geerbten Theme-Schrift zurück."
+msgid ""
+"In your own door contents and standalone Advent landing pages, select a text "
+"block and open Typography → Font (font family). Choose Türchenzeit · Source "
+"Serif 4 or Türchenzeit · Inter. If the control is hidden, enable Font from "
+"the Typography options menu. Choose Default to return to the inherited theme "
+"font."
+msgstr ""
+"Wählen Sie in eigenen Türcheninhalten oder auf einer eigenständigen Advents-"
+"Landingseite einen Textblock aus und öffnen Sie Typografie → Schrift "
+"(Schriftfamilie). Dort stehen Türchenzeit · Source Serif 4 und Türchenzeit · "
+"Inter zur Wahl. Falls das Feld fehlt, blenden Sie Schrift über das "
+"Optionsmenü der Typografie ein. Mit Standard kehren Sie zur geerbten Theme-"
+"Schrift zurück."
 
 msgid "Ingredients"
 msgstr "Zutaten"
@@ -556,29 +695,53 @@ msgstr "Zutaten"
 msgid "Inspired by Christmas in Germany’s Ore Mountains."
 msgstr "Mit Wärme aus dem Erzgebirge."
 
-msgid "Inspired by the Ore Mountains, a region in southeastern Germany known for its Christmas woodcraft and warmly lit windows. Its candle arches and carved decorations helped shape Türchenzeit’s quiet, welcoming atmosphere."
-msgstr "Inspiriert vom Weihnachtsland Erzgebirge: von warm erleuchteten Fenstern, Schwibbögen und der Freude an sorgfältigem Handwerk."
+msgid ""
+"Inspired by the Ore Mountains, a region in southeastern Germany known for "
+"its Christmas woodcraft and warmly lit windows. Its candle arches and carved "
+"decorations helped shape Türchenzeit’s quiet, welcoming atmosphere."
+msgstr ""
+"Inspiriert vom Weihnachtsland Erzgebirge: von warm erleuchteten Fenstern, "
+"Schwibbögen und der Freude an sorgfältigem Handwerk."
 
 msgid "Install plugin now"
 msgstr "Plugin jetzt installieren"
 
 msgid "Introduce your chosen song and what it means to you."
-msgstr "Stellen Sie Ihr ausgewähltes Lied vor und erzählen Sie, was es Ihnen bedeutet."
+msgstr ""
+"Stellen Sie Ihr ausgewähltes Lied vor und erzählen Sie, was es Ihnen "
+"bedeutet."
 
 msgid "Invalid GitHub repository URL."
 msgstr "Ungültige GitHub-Repository-URL."
 
-msgid "Invalid ZIP. Include calendar.json and JPEG, PNG, WebP or GIF images in media/. Maximum: 20 MB compressed, 50 MB unpacked, 100 images, 5 MB per image. SVG is not supported."
-msgstr "Ungültiges ZIP. Erforderlich sind calendar.json und JPEG-, PNG-, WebP- oder GIF-Bilder in media/. Höchstens 20 MB komprimiert, 50 MB entpackt, 100 Bilder und 5 MB je Bild. SVG wird nicht unterstützt."
+msgid ""
+"Invalid ZIP. Include calendar.json and JPEG, PNG, WebP or GIF images in "
+"media/. Maximum: 20 MB compressed, 50 MB unpacked, 100 images, 5 MB per "
+"image. SVG is not supported."
+msgstr ""
+"Ungültiges ZIP. Erforderlich sind calendar.json und JPEG-, PNG-, WebP- oder "
+"GIF-Bilder in media/. Höchstens 20 MB komprimiert, 50 MB entpackt, 100 "
+"Bilder und 5 MB je Bild. SVG wird nicht unterstützt."
 
 msgid "Invalid authentication provider."
 msgstr "Ungültiger Authentifizierungsanbieter."
 
 msgid "Invalid calendar file. Use a Türchenzeit JSON export (maximum 2 MB)."
-msgstr "Ungültige Kalenderdatei. Ein Türchenzeit-JSON-Export mit höchstens 2 MB wird benötigt."
+msgstr ""
+"Ungültige Kalenderdatei. Ein Türchenzeit-JSON-Export mit höchstens 2 MB wird "
+"benötigt."
 
-msgid "It is a German name combining Türchen, a little door, with Zeit, meaning time or season. It evokes the familiar ritual of opening a little Advent calendar door each day. We keep the German name in English, too. The calendar runs from December 1 to 24, with room for whatever you would like to share behind each door."
-msgstr "Türchenzeit verbindet die kleinen Türen eines Adventskalenders mit der besonderen Zeit vor Weihnachten. Der Name steht für Vorfreude und einen neuen kleinen Moment an jedem Tag. Der Kalender zählt die Tage vom 1. bis zum 24. Dezember."
+msgid ""
+"It is a German name combining Türchen, a little door, with Zeit, meaning "
+"time or season. It evokes the familiar ritual of opening a little Advent "
+"calendar door each day. We keep the German name in English, too. The "
+"calendar runs from December 1 to 24, with room for whatever you would like "
+"to share behind each door."
+msgstr ""
+"Türchenzeit verbindet die kleinen Türen eines Adventskalenders mit der "
+"besonderen Zeit vor Weihnachten. Der Name steht für Vorfreude und einen "
+"neuen kleinen Moment an jedem Tag. Der Kalender zählt die Tage vom 1. bis "
+"zum 24. Dezember."
 
 msgid "Italic"
 msgstr "Kursiv"
@@ -586,8 +749,14 @@ msgstr "Kursiv"
 msgid "JSON and ZIP imports for day sets, including raster images."
 msgstr "JSON- und ZIP-Import für Tagessätze einschließlich Rasterbildern."
 
-msgid "Keep admin-ajax.php calendar requests outside page/CDN caches; responses send no-store headers. The calendar shell contains no locked door content or locked door images."
-msgstr "Kalenderanfragen an admin-ajax.php von Seiten- und CDN-Caches ausnehmen; die Antworten senden no-store-Header. Das Kalendergerüst enthält weder gesperrte Türcheninhalte noch gesperrte Türchenbilder."
+msgid ""
+"Keep admin-ajax.php calendar requests outside page/CDN caches; responses "
+"send no-store headers. The calendar shell contains no locked door content or "
+"locked door images."
+msgstr ""
+"Kalenderanfragen an admin-ajax.php von Seiten- und CDN-Caches ausnehmen; die "
+"Antworten senden no-store-Header. Das Kalendergerüst enthält weder gesperrte "
+"Türcheninhalte noch gesperrte Türchenbilder."
 
 msgid "Let Advent begin"
 msgstr "Den Advent begrüßen"
@@ -601,8 +770,12 @@ msgstr "YouTube-Video laden"
 msgid "Loading calendar…"
 msgstr "Kalender wird geladen …"
 
-msgid "Loading the video connects to YouTube. Your IP address is transmitted to the provider."
-msgstr "Beim Laden wird eine Verbindung zu YouTube hergestellt. Ihre IP-Adresse wird an den Anbieter übermittelt."
+msgid ""
+"Loading the video connects to YouTube. Your IP address is transmitted to the "
+"provider."
+msgstr ""
+"Beim Laden wird eine Verbindung zu YouTube hergestellt. Ihre IP-Adresse wird "
+"an den Anbieter übermittelt."
 
 msgid "Made with love for Advent."
 msgstr "Mit Liebe zum Advent."
@@ -631,8 +804,21 @@ msgstr "Türchennummern einmalig mischen und die Anordnung beibehalten"
 msgid "More about colors and patterns"
 msgstr "Mehr über Farben und Vorlagen"
 
-msgid "Network activation lets you run independent Advent websites for different topics: recipes, music, reflections, or a local community project. Each website keeps its own calendars, contents, landing pages, settings, and WordPress timezone. Türchenzeit is also available on websites added later. Authorized administrators configure each website separately; network activation creates no pages or calendars automatically."
-msgstr "Mit einer netzwerkweiten Aktivierung können Sie eigenständige Adventswebsites zu verschiedenen Themen betreiben: etwa Rezepte, Musik, Andachten oder ein Projekt vor Ort. Jede Website behält ihre eigenen Kalender, Inhalte, Landingseiten, Einstellungen und ihre WordPress-Zeitzone. Türchenzeit steht auch später hinzugefügten Websites zur Verfügung. Berechtigte Administratoren richten jede Website separat ein; die Netzwerkaktivierung legt keine Seiten oder Kalender automatisch an."
+msgid ""
+"Network activation lets you run independent Advent websites for different "
+"topics: recipes, music, reflections, or a local community project. Each "
+"website keeps its own calendars, contents, landing pages, settings, and "
+"WordPress timezone. Türchenzeit is also available on websites added later. "
+"Authorized administrators configure each website separately; network "
+"activation creates no pages or calendars automatically."
+msgstr ""
+"Mit einer netzwerkweiten Aktivierung können Sie eigenständige "
+"Adventswebsites zu verschiedenen Themen betreiben: etwa Rezepte, Musik, "
+"Andachten oder ein Projekt vor Ort. Jede Website behält ihre eigenen "
+"Kalender, Inhalte, Landingseiten, Einstellungen und ihre WordPress-Zeitzone. "
+"Türchenzeit steht auch später hinzugefügten Websites zur Verfügung. "
+"Berechtigte Administratoren richten jede Website separat ein; die "
+"Netzwerkaktivierung legt keine Seiten oder Kalender automatisch an."
 
 msgid "New door content"
 msgstr "Neuer Türcheninhalt"
@@ -649,14 +835,26 @@ msgstr "Kein Inhalt verfügbar."
 msgid "No matching content found."
 msgstr "Keine passenden Inhalte gefunden."
 
-msgid "No plugin is installed automatically. Without Daily Scripture, use the native verse-and-reflection pattern. Other shortcodes are not executed by Türchenzeit."
-msgstr "Es wird kein Plugin automatisch installiert. Ohne Daily Scripture steht die Standardblock-Vorlage für Bibelvers und Gedanken bereit. Andere Shortcodes führt Türchenzeit nicht aus."
+msgid ""
+"No plugin is installed automatically. Without Daily Scripture, use the "
+"native verse-and-reflection pattern. Other shortcodes are not executed by "
+"Türchenzeit."
+msgstr ""
+"Es wird kein Plugin automatisch installiert. Ohne Daily Scripture steht die "
+"Standardblock-Vorlage für Bibelvers und Gedanken bereit. Andere Shortcodes "
+"führt Türchenzeit nicht aus."
 
 msgid "No unsaved changes."
 msgstr "Keine ungespeicherten Änderungen."
 
-msgid "No. The regional inspiration shapes the warmth of the included designs. Your content, colors, and page patterns are yours to change. Add the calendar to your current website or give it an Advent landing page of its own."
-msgstr "Nein. Die Herkunft prägt die Atmosphäre der mitgelieferten Designs. Ihre Inhalte, Farben und Seitenvorlagen gestalten Sie selbst. Der Kalender kann auf einer bestehenden Website stehen oder eine eigene Adventswebsite bilden."
+msgid ""
+"No. The regional inspiration shapes the warmth of the included designs. Your "
+"content, colors, and page patterns are yours to change. Add the calendar to "
+"your current website or give it an Advent landing page of its own."
+msgstr ""
+"Nein. Die Herkunft prägt die Atmosphäre der mitgelieferten Designs. Ihre "
+"Inhalte, Farben und Seitenvorlagen gestalten Sie selbst. Der Kalender kann "
+"auf einer bestehenden Website stehen oder eine eigene Adventswebsite bilden."
 
 msgid "None"
 msgstr "Keine"
@@ -692,10 +890,15 @@ msgid "One opening time for every visitor"
 msgstr "Eine Öffnungszeit für alle Besucher"
 
 msgid "One small moment each day. Choose what suits your visitors."
-msgstr "Jeden Tag ein kleiner Moment. Wählen Sien Sie, was zu Ihren Besuchern passt."
+msgstr ""
+"Jeden Tag ein kleiner Moment. Wählen Sien Sie, was zu Ihren Besuchern passt."
 
-msgid "Only saved on this browser, after enabling this option. No account, tracking or transmission."
-msgstr "Erst nach dem Einschalten ausschließlich in diesem Browser gespeichert. Ohne Konto, Tracking oder Übertragung."
+msgid ""
+"Only saved on this browser, after enabling this option. No account, tracking "
+"or transmission."
+msgstr ""
+"Erst nach dem Einschalten ausschließlich in diesem Browser gespeichert. Ohne "
+"Konto, Tracking oder Übertragung."
 
 msgid "Open Daily Scripture"
 msgstr "Daily Scripture öffnen"
@@ -715,14 +918,22 @@ msgstr "Vorhandenen Eintrag öffnen"
 msgid "Open the date preview and check your doors."
 msgstr "Die Datumsvorschau öffnen und die Türchen prüfen."
 
-msgid "Open your calendar and choose Export calendar JSON. The file contains settings, assignments and own texts."
-msgstr "Öffnen Sie Ihren Kalender und wählen Sien Sie „Kalender als JSON exportieren“. Die Datei enthält Einstellungen, Zuordnungen und eigene Texte."
+msgid ""
+"Open your calendar and choose Export calendar JSON. The file contains "
+"settings, assignments and own texts."
+msgstr ""
+"Öffnen Sie Ihren Kalender und wählen Sien Sie „Kalender als JSON "
+"exportieren“. Die Datei enthält Einstellungen, Zuordnungen und eigene Texte."
 
 msgid "Opening animation"
 msgstr "Öffnungsanimation"
 
-msgid "Opening time: midnight in the WordPress timezone (%s). Past doors remain available."
-msgstr "Öffnungszeit: Mitternacht in der WordPress-Zeitzone (%s). Vergangene Türchen bleiben zugänglich."
+msgid ""
+"Opening time: midnight in the WordPress timezone (%s). Past doors remain "
+"available."
+msgstr ""
+"Öffnungszeit: Mitternacht in der WordPress-Zeitzone (%s). Vergangene Türchen "
+"bleiben zugänglich."
 
 msgid "Opening times follow the WordPress timezone worldwide."
 msgstr "Öffnungszeiten gelten weltweit nach der WordPress-Zeitzone."
@@ -730,29 +941,73 @@ msgstr "Öffnungszeiten gelten weltweit nach der WordPress-Zeitzone."
 msgid "Optional companion"
 msgstr "Optionaler Begleiter"
 
-msgid "Optional full-width band. Replace the existing section and edit colors and text with the standard block controls."
-msgstr "Optionaler Bereich über die volle Breite. Ersetzen Sie den bisherigen Bereich und bearbeiten Sie Farben und Text mit den normalen Blockeinstellungen."
+msgid ""
+"Optional full-width band. Replace the existing section and edit colors and "
+"text with the standard block controls."
+msgstr ""
+"Optionaler Bereich über die volle Breite. Ersetzen Sie den bisherigen "
+"Bereich und bearbeiten Sie Farben und Text mit den normalen "
+"Blockeinstellungen."
 
 msgid "Optional local fonts"
 msgstr "Optionale lokale Schriften"
 
-msgid "Optional original-content protection, click-to-load YouTube videos and Daily Scripture integration."
-msgstr "Optionaler Originalschutz, YouTube-Videos zum bewussten Laden und Daily-Scripture-Integration."
+msgid ""
+"Optional original-content protection, click-to-load YouTube videos and Daily "
+"Scripture integration."
+msgstr ""
+"Optionaler Originalschutz, YouTube-Videos zum bewussten Laden und Daily-"
+"Scripture-Integration."
 
-msgid "Optional overrides for this calendar. Empty color and opacity fields use the design defaults. Text on popup backgrounds is adjusted automatically."
-msgstr "Optionale Anpassungen für diesen Kalender. Leere Farb- und Deckkraftfelder übernehmen die Design-Vorgaben. Die Textfarbe im Popup wird automatisch an den Hintergrund angepasst."
+msgid ""
+"Optional overrides for this calendar. Empty color and opacity fields use the "
+"design defaults. Text on popup backgrounds is adjusted automatically."
+msgstr ""
+"Optionale Anpassungen für diesen Kalender. Leere Farb- und Deckkraftfelder "
+"übernehmen die Design-Vorgaben. Die Textfarbe im Popup wird automatisch an "
+"den Hintergrund angepasst."
 
-msgid "Optional recommendation: Daily Scripture can provide local Bible passages. Its Bible Passage block or the daily_scripture_passage shortcode works inside own doors when the plugin is active. Install the desired Bible edition in Daily Scripture first. A chosen passage stays tied to that door; a daily verse would change with the current date."
-msgstr "Freiwillige Empfehlung: Daily Scripture bietet lokale Bibelstellen. Der Block „Bibelstelle“ und der Shortcode daily_scripture_passage funktionieren bei aktivem Plugin auch in eigenen Türchen. Die gewünschte Bibelausgabe vorher in Daily Scripture installieren. Eine gewählte Bibelstelle bleibt dem Türchen zugeordnet; ein Tagesvers würde sich mit dem aktuellen Datum ändern."
+msgid ""
+"Optional recommendation: Daily Scripture can provide local Bible passages. "
+"Its Bible Passage block or the daily_scripture_passage shortcode works "
+"inside own doors when the plugin is active. Install the desired Bible "
+"edition in Daily Scripture first. A chosen passage stays tied to that door; "
+"a daily verse would change with the current date."
+msgstr ""
+"Freiwillige Empfehlung: Daily Scripture bietet lokale Bibelstellen. Der "
+"Block „Bibelstelle“ und der Shortcode daily_scripture_passage funktionieren "
+"bei aktivem Plugin auch in eigenen Türchen. Die gewünschte Bibelausgabe "
+"vorher in Daily Scripture installieren. Eine gewählte Bibelstelle bleibt dem "
+"Türchen zugeordnet; ein Tagesvers würde sich mit dem aktuellen Datum ändern."
 
-msgid "Or create new content with the title entered above and assign it to this door."
-msgstr "Alternativ lässt sich mit dem oben eingegebenen Titel ein neuer eigener Inhalt erstellen und diesem Türchen zuweisen."
+msgid ""
+"Or create new content with the title entered above and assign it to this "
+"door."
+msgstr ""
+"Alternativ lässt sich mit dem oben eingegebenen Titel ein neuer eigener "
+"Inhalt erstellen und diesem Türchen zuweisen."
 
-msgid "Original protection affects every linked entry in this published calendar. The earliest opening across protecting calendars wins. Purge existing caches when enabling it. See Help & inspiration for cache and media boundaries."
-msgstr "Der Originalschutz betrifft alle verknüpften Einträge dieses veröffentlichten Kalenders. Kalenderübergreifend gilt der früheste Öffnungstermin. Beim Einschalten vorhandene Caches leeren. Grenzen bei Caches und Medien stehen unter Hilfe & Inspiration."
+msgid ""
+"Original protection affects every linked entry in this published calendar. "
+"The earliest opening across protecting calendars wins. Purge existing caches "
+"when enabling it. See Help & inspiration for cache and media boundaries."
+msgstr ""
+"Der Originalschutz betrifft alle verknüpften Einträge dieses "
+"veröffentlichten Kalenders. Kalenderübergreifend gilt der früheste "
+"Öffnungstermin. Beim Einschalten vorhandene Caches leeren. Grenzen bei "
+"Caches und Medien stehen unter Hilfe & Inspiration."
 
-msgid "Original-content protection is off by default. When enabled in a published calendar, linked originals are hidden until their opening, including direct URLs, standard searches, feeds, sitemaps and Core REST routes. Administrators with editing permission can still inspect them."
-msgstr "Der Originalschutz ist standardmäßig aus. Wird er in einem veröffentlichten Kalender eingeschaltet, bleiben verknüpfte Originale bis zur Öffnung verborgen: auch über direkte URLs, Standardsuche, Feeds, Sitemaps und WordPress-REST-Routen. Administratoren mit Bearbeitungsrecht können sie weiterhin prüfen."
+msgid ""
+"Original-content protection is off by default. When enabled in a published "
+"calendar, linked originals are hidden until their opening, including direct "
+"URLs, standard searches, feeds, sitemaps and Core REST routes. "
+"Administrators with editing permission can still inspect them."
+msgstr ""
+"Der Originalschutz ist standardmäßig aus. Wird er in einem veröffentlichten "
+"Kalender eingeschaltet, bleiben verknüpfte Originale bis zur Öffnung "
+"verborgen: auch über direkte URLs, Standardsuche, Feeds, Sitemaps und "
+"WordPress-REST-Routen. Administratoren mit Bearbeitungsrecht können sie "
+"weiterhin prüfen."
 
 msgid "Outline"
 msgstr "Umriss"
@@ -766,17 +1021,40 @@ msgstr "Overlay-Deckkraft (%)"
 msgid "Own door content"
 msgstr "Eigene Türcheninhalte"
 
-msgid "Own door content is excluded from the standard WordPress search and has no public single-entry page. Visitors see it through an opened calendar door. Linked posts and pages remain searchable unless original-content protection is enabled in a published calendar; this also hides them from the standard WordPress search until their opening."
-msgstr "Eigene Türcheninhalte sind von der normalen WordPress-Suche ausgeschlossen und haben keine öffentlich aufrufbare Einzelansicht. Besucher sehen sie über ein geöffnetes Kalendertürchen. Verknüpfte Beiträge und Seiten bleiben auffindbar, sofern der Originalschutz nicht in einem veröffentlichten Kalender eingeschaltet ist; dieser blendet sie bis zum Öffnungstermin auch aus der normalen WordPress-Suche aus."
+msgid ""
+"Own door content is excluded from the standard WordPress search and has no "
+"public single-entry page. Visitors see it through an opened calendar door. "
+"Linked posts and pages remain searchable unless original-content protection "
+"is enabled in a published calendar; this also hides them from the standard "
+"WordPress search until their opening."
+msgstr ""
+"Eigene Türcheninhalte sind von der normalen WordPress-Suche ausgeschlossen "
+"und haben keine öffentlich aufrufbare Einzelansicht. Besucher sehen sie über "
+"ein geöffnetes Kalendertürchen. Verknüpfte Beiträge und Seiten bleiben "
+"auffindbar, sofern der Originalschutz nicht in einem veröffentlichten "
+"Kalender eingeschaltet ist; dieser blendet sie bis zum Öffnungstermin auch "
+"aus der normalen WordPress-Suche aus."
 
-msgid "Own door contents and calendar popups do not execute general shortcodes. Daily Scripture is a supported exception: its fixed Bible passage shortcode can show one verse or a longer passage when the plugin and Bible edition are available."
-msgstr "Eigene Türcheninhalte und Kalender-Popups führen keine allgemeinen Shortcodes aus. Daily Scripture ist eine unterstützte Ausnahme: Der Shortcode für eine feste Bibelstelle zeigt einen Vers oder längeren Abschnitt, wenn Plugin und Bibelausgabe verfügbar sind."
+msgid ""
+"Own door contents and calendar popups do not execute general shortcodes. "
+"Daily Scripture is a supported exception: its fixed Bible passage shortcode "
+"can show one verse or a longer passage when the plugin and Bible edition are "
+"available."
+msgstr ""
+"Eigene Türcheninhalte und Kalender-Popups führen keine allgemeinen "
+"Shortcodes aus. Daily Scripture ist eine unterstützte Ausnahme: Der "
+"Shortcode für eine feste Bibelstelle zeigt einen Vers oder längeren "
+"Abschnitt, wenn Plugin und Bibelausgabe verfügbar sind."
 
 msgid "PHP ZIP extension"
 msgstr "PHP-ZIP-Erweiterung"
 
-msgid "Paragraphs, bold and italic only. Placeholders use the WordPress timezone. Unknown placeholders remain unchanged."
-msgstr "Nur Absätze, Fett und Kursiv. Platzhalter verwenden die WordPress-Zeitzone. Unbekannte Platzhalter bleiben unverändert."
+msgid ""
+"Paragraphs, bold and italic only. Placeholders use the WordPress timezone. "
+"Unknown placeholders remain unchanged."
+msgstr ""
+"Nur Absätze, Fett und Kursiv. Platzhalter verwenden die WordPress-Zeitzone. "
+"Unbekannte Platzhalter bleiben unverändert."
 
 msgid "Permission denied."
 msgstr "Zugriff verweigert."
@@ -784,8 +1062,11 @@ msgstr "Zugriff verweigert."
 msgid "Pill"
 msgstr "Pillenform"
 
-msgid "Please enable JavaScript to open the calendar and display the countdown."
-msgstr "Bitte aktivieren Sie JavaScript, um den Kalender zu öffnen und den Countdown anzuzeigen."
+msgid ""
+"Please enable JavaScript to open the calendar and display the countdown."
+msgstr ""
+"Bitte aktivieren Sie JavaScript, um den Kalender zu öffnen und den Countdown "
+"anzuzeigen."
 
 msgid "Plugin version"
 msgstr "Plugin-Version"
@@ -796,8 +1077,15 @@ msgstr "Popup und Button gestalten"
 msgid "Popup background"
 msgstr "Popup-Hintergrund"
 
-msgid "Popup colors, the full-content button and notice messages are configured per calendar. Use {tuerchen}, {tag}, {datum} and {uhrzeit} in notices. Opening times always follow the WordPress timezone, even for worldwide visitors."
-msgstr "Popup-Farben, der Button zum vollständigen Inhalt und Hinweise werden je Kalender eingestellt. Die Hinweise unterstützen {tuerchen}, {tag}, {datum} und {uhrzeit}. Öffnungszeiten richten sich auch bei weltweiten Zugriffen immer nach der WordPress-Zeitzone."
+msgid ""
+"Popup colors, the full-content button and notice messages are configured per "
+"calendar. Use {tuerchen}, {tag}, {datum} and {uhrzeit} in notices. Opening "
+"times always follow the WordPress timezone, even for worldwide visitors."
+msgstr ""
+"Popup-Farben, der Button zum vollständigen Inhalt und Hinweise werden je "
+"Kalender eingestellt. Die Hinweise unterstützen {tuerchen}, {tag}, {datum} "
+"und {uhrzeit}. Öffnungszeiten richten sich auch bei weltweiten Zugriffen "
+"immer nach der WordPress-Zeitzone."
 
 msgid "Practical questions"
 msgstr "Gut zu wissen"
@@ -808,8 +1096,13 @@ msgstr "Zubereitung"
 msgid "Preparation checklist"
 msgstr "Start-Checkliste"
 
-msgid "Prepare a complete editable Block Editor (Gutenberg) landing page, or create next year’s edition without changing the current contents."
-msgstr "Eine vollständig bearbeitbare Landingpage im Block-Editor (Gutenberg) vorbereiten oder die nächste Jahresausgabe anlegen, ohne die laufenden Inhalte zu verändern."
+msgid ""
+"Prepare a complete editable Block Editor (Gutenberg) landing page, or create "
+"next year’s edition without changing the current contents."
+msgstr ""
+"Eine vollständig bearbeitbare Landingpage im Block-Editor (Gutenberg) "
+"vorbereiten oder die nächste Jahresausgabe anlegen, ohne die laufenden "
+"Inhalte zu verändern."
 
 msgid "Prepare landing page"
 msgstr "Landingpage vorbereiten"
@@ -823,23 +1116,37 @@ msgstr "Inhalte vorbereiten"
 msgid "Preview Advent website"
 msgstr "Vorschau der Adventswebsite"
 
-msgid "Preview and readiness use saved settings. Save changes first. The simulated date never changes public opening times."
-msgstr "Vorschau und Bereitschaftscheck verwenden gespeicherte Einstellungen. Änderungen vorher speichern. Das simulierte Datum ändert niemals die öffentlichen Öffnungszeiten."
+msgid ""
+"Preview and readiness use saved settings. Save changes first. The simulated "
+"date never changes public opening times."
+msgstr ""
+"Vorschau und Bereitschaftscheck verwenden gespeicherte Einstellungen. "
+"Änderungen vorher speichern. Das simulierte Datum ändert niemals die "
+"öffentlichen Öffnungszeiten."
 
 msgid "Preview in a dialog"
 msgstr "Vorschau im Dialog"
 
-msgid "Preview requires a logged-in administrator and includes your own drafts. Visitors always see the real opening dates and only published contents."
-msgstr "Die Vorschau erfordert einen angemeldeten Administrator und zeigt auch eigene Entwürfe. Besucher sehen immer die tatsächlichen Öffnungszeiten und nur veröffentlichte Inhalte."
+msgid ""
+"Preview requires a logged-in administrator and includes your own drafts. "
+"Visitors always see the real opening dates and only published contents."
+msgstr ""
+"Die Vorschau erfordert einen angemeldeten Administrator und zeigt auch "
+"eigene Entwürfe. Besucher sehen immer die tatsächlichen Öffnungszeiten und "
+"nur veröffentlichte Inhalte."
 
 msgid "Preview: all assigned doors are available to administrators."
-msgstr "Vorschau: Alle zugewiesenen Türchen sind für Administratoren verfügbar."
+msgstr ""
+"Vorschau: Alle zugewiesenen Türchen sind für Administratoren verfügbar."
 
 msgid "Privacy policy"
 msgstr "Datenschutz"
 
-msgid "Private date preview: %1$s (%2$s). Public opening times remain unchanged."
-msgstr "Private Datumsvorschau: %1$s (%2$s). Öffnungszeiten für Besucher bleiben unverändert."
+msgid ""
+"Private date preview: %1$s (%2$s). Public opening times remain unchanged."
+msgstr ""
+"Private Datumsvorschau: %1$s (%2$s). Öffnungszeiten für Besucher bleiben "
+"unverändert."
 
 msgid "Private mode must be boolean."
 msgstr "Der Private-Modus muss ein boolescher Wert sein."
@@ -850,11 +1157,23 @@ msgstr "Verknüpfte Originalinhalte bis zur Öffnung schützen"
 msgid "Protect original content deliberately"
 msgstr "Originalinhalte bewusst schützen"
 
-msgid "Public catalog callbacks require both providers and cannot be used in private mode."
-msgstr "Öffentliche Katalog-Callbacks benötigen beide Anbieter und können nicht im Private-Modus verwendet werden."
+msgid ""
+"Public catalog callbacks require both providers and cannot be used in "
+"private mode."
+msgstr ""
+"Öffentliche Katalog-Callbacks benötigen beide Anbieter und können nicht im "
+"Private-Modus verwendet werden."
 
-msgid "Public media files in uploads, already indexed copies and external caches are not access-protected. Upload confidential files through a dedicated protected-media solution. The plugin preserves original post statuses and contents."
-msgstr "Öffentliche Dateien im Upload-Verzeichnis, bereits indexierte Kopien und externe Caches sind nicht zugriffsgeschützt. Für vertrauliche Dateien ist eine gesonderte Lösung für geschützte Medien nötig. Status und Inhalte der Originalbeiträge bleiben erhalten."
+msgid ""
+"Public media files in uploads, already indexed copies and external caches "
+"are not access-protected. Upload confidential files through a dedicated "
+"protected-media solution. The plugin preserves original post statuses and "
+"contents."
+msgstr ""
+"Öffentliche Dateien im Upload-Verzeichnis, bereits indexierte Kopien und "
+"externe Caches sind nicht zugriffsgeschützt. Für vertrauliche Dateien ist "
+"eine gesonderte Lösung für geschützte Medien nötig. Status und Inhalte der "
+"Originalbeiträge bleiben erhalten."
 
 msgid "Publish calendar"
 msgstr "Kalender veröffentlichen"
@@ -868,8 +1187,10 @@ msgstr "Den Kalender und die Adventswebsite veröffentlichen."
 msgid "Readiness check"
 msgstr "Bereitschaftscheck"
 
-msgid "Readiness checks, a private date preview and independent annual editions."
-msgstr "Bereitschaftscheck, private Datumsvorschau und unabhängige Jahresausgaben."
+msgid ""
+"Readiness checks, a private date preview and independent annual editions."
+msgstr ""
+"Bereitschaftscheck, private Datumsvorschau und unabhängige Jahresausgaben."
 
 msgid "Ready"
 msgstr "Bereit"
@@ -892,8 +1213,12 @@ msgstr "Bild entfernen"
 msgid "Reset"
 msgstr "Zurücksetzen"
 
-msgid "Sample content only. Changes appear here before saving; the public calendar stays unchanged."
-msgstr "Nur Musterinhalt. Änderungen erscheinen hier vor dem Speichern; der öffentliche Kalender bleibt unverändert."
+msgid ""
+"Sample content only. Changes appear here before saving; the public calendar "
+"stays unchanged."
+msgstr ""
+"Nur Musterinhalt. Änderungen erscheinen hier vor dem Speichern; der "
+"öffentliche Kalender bleibt unverändert."
 
 msgid "Save a calendar"
 msgstr "Einen Kalender mitnehmen"
@@ -926,7 +1251,9 @@ msgid "Select and copy the shortcode manually."
 msgstr "Den Shortcode bitte markieren und manuell kopieren."
 
 msgid "Selected YouTube videos with music, stories, or memorable encounters."
-msgstr "Ausgewählte YouTube-Videos mit Musik, Geschichten oder besonderen Begegnungen."
+msgstr ""
+"Ausgewählte YouTube-Videos mit Musik, Geschichten oder besonderen "
+"Begegnungen."
 
 msgid "Settings"
 msgstr "Einstellungen"
@@ -952,11 +1279,17 @@ msgstr "Start-Checkliste anzeigen"
 msgid "Simulated date in the WordPress timezone"
 msgstr "Simuliertes Datum in der WordPress-Zeitzone"
 
-msgid "Single-site and Multisite support, with independent settings for each website."
-msgstr "Einzelinstallation und Multisite mit unabhängigen Einstellungen je Website."
+msgid ""
+"Single-site and Multisite support, with independent settings for each "
+"website."
+msgstr ""
+"Einzelinstallation und Multisite mit unabhängigen Einstellungen je Website."
 
-msgid "Six Advent designs, accent colors, adjustable dialogs, buttons and notices."
-msgstr "Sechs Adventsdesigns, Akzentfarben sowie anpassbare Popups, Buttons und Hinweise."
+msgid ""
+"Six Advent designs, accent colors, adjustable dialogs, buttons and notices."
+msgstr ""
+"Sechs Adventsdesigns, Akzentfarben sowie anpassbare Popups, Buttons und "
+"Hinweise."
 
 msgid "Skip to content"
 msgstr "Zum Inhalt springen"
@@ -985,29 +1318,52 @@ msgstr "Stern von Bethlehem"
 msgid "Start with a ready-made design, then choose your accent color."
 msgstr "Mit einem fertigen Design starten und eine Akzentfarbe wählen Sien."
 
-msgid "Start your Advent website with a ready-made page. Make the text, colors, and images your own in the block editor (Gutenberg). Optional header and footer patterns give the page a complete setting. You can also add just the calendar to an existing page."
-msgstr "Ihre Adventswebsite beginnt mit einem fertigen Entwurf. Passen Sie Texte, Farben und Bilder im Block-Editor (Gutenberg) an. Optionale Header- und Footer-Vorlagen geben der Seite einen eigenen Rahmen. Oder fügen Sie nur den Kalender in eine bestehende Seite ein."
+msgid ""
+"Start your Advent website with a ready-made page. Make the text, colors, and "
+"images your own in the block editor (Gutenberg). Optional header and footer "
+"patterns give the page a complete setting. You can also add just the "
+"calendar to an existing page."
+msgstr ""
+"Ihre Adventswebsite beginnt mit einem fertigen Entwurf. Passen Sie Texte, "
+"Farben und Bilder im Block-Editor (Gutenberg) an. Optionale Header- und "
+"Footer-Vorlagen geben der Seite einen eigenen Rahmen. Oder fügen Sie nur den "
+"Kalender in eine bestehende Seite ein."
 
 msgid "Step by step"
 msgstr "Schritt für Schritt"
 
 msgid "Stories of kindness, volunteering, and people caring for one another."
-msgstr "Geschichten von Hilfsbereitschaft, Ehrenamt und gelebter Nächstenliebe."
+msgstr ""
+"Geschichten von Hilfsbereitschaft, Ehrenamt und gelebter Nächstenliebe."
 
 msgid "Stories to make you smile"
 msgstr "Geschichten zum Schmunzeln"
 
 msgid "Switch to the next edition at this WordPress local time"
-msgstr "Zu dieser Zeit in der WordPress-Zeitzone auf die nächste Ausgabe umschalten"
+msgstr ""
+"Zu dieser Zeit in der WordPress-Zeitzone auf die nächste Ausgabe umschalten"
 
 msgid "Take a complete day set with you, or start with a prepared calendar."
-msgstr "Einen kompletten Tagessatz mitnehmen oder mit einem vorbereiteten Kalender starten."
+msgstr ""
+"Einen kompletten Tagessatz mitnehmen oder mit einem vorbereiteten Kalender "
+"starten."
 
-msgid "Take a moment to pause. A new surprise awaits you here every day in December."
-msgstr "Ein Moment zum Innehalten. Hier wartet im Dezember jeden Tag eine neue Überraschung."
+msgid ""
+"Take a moment to pause. A new surprise awaits you here every day in December."
+msgstr ""
+"Ein Moment zum Innehalten. Hier wartet im Dezember jeden Tag eine neue "
+"Überraschung."
 
-msgid "Test one locked original in a private browser window, including search and REST, then verify an opening around midnight in the WordPress timezone. Custom search indexes, headless APIs and third-party feeds need their own integration checks."
-msgstr "Ein gesperrtes Original in einem privaten Browserfenster einschließlich Suche und REST testen. Danach eine Freigabe um Mitternacht in der WordPress-Zeitzone prüfen. Eigene Suchindizes, Headless-APIs und Feeds anderer Anbieter benötigen gesonderte Integrationsprüfungen."
+msgid ""
+"Test one locked original in a private browser window, including search and "
+"REST, then verify an opening around midnight in the WordPress timezone. "
+"Custom search indexes, headless APIs and third-party feeds need their own "
+"integration checks."
+msgstr ""
+"Ein gesperrtes Original in einem privaten Browserfenster einschließlich "
+"Suche und REST testen. Danach eine Freigabe um Mitternacht in der WordPress-"
+"Zeitzone prüfen. Eigene Suchindizes, Headless-APIs und Feeds anderer "
+"Anbieter benötigen gesonderte Integrationsprüfungen."
 
 msgid "Text above the calendar"
 msgstr "Text über dem Kalender"
@@ -1021,29 +1377,54 @@ msgstr "Die 24 Türchen"
 msgid "The Bible passage could not be loaded."
 msgstr "Die Bibelstelle konnte nicht geladen werden."
 
-msgid "The Erzgebirge, known in English as the Ore Mountains, is a mountain region along the German–Czech border. David comes from the German side, where Christmas woodcraft and illuminated window decorations are deeply rooted traditions. You do not need to know the region to enjoy the plugin; it is the source of its warm, unhurried Advent atmosphere."
-msgstr "Das Erzgebirge ist eine Mittelgebirgsregion im Südosten Deutschlands an der Grenze zu Tschechien. Seine Weihnachtstraditionen und das Holzkunsthandwerk inspirieren die warme Gestaltung von Türchenzeit. Der Name und die Gestaltung haben hier eine persönliche Heimat."
+msgid ""
+"The Erzgebirge, known in English as the Ore Mountains, is a mountain region "
+"along the German–Czech border. David comes from the German side, where "
+"Christmas woodcraft and illuminated window decorations are deeply rooted "
+"traditions. You do not need to know the region to enjoy the plugin; it is "
+"the source of its warm, unhurried Advent atmosphere."
+msgstr ""
+"Das Erzgebirge ist eine Mittelgebirgsregion im Südosten Deutschlands an der "
+"Grenze zu Tschechien. Seine Weihnachtstraditionen und das Holzkunsthandwerk "
+"inspirieren die warme Gestaltung von Türchenzeit. Der Name und die "
+"Gestaltung haben hier eine persönliche Heimat."
 
 msgid "The approved release changed. Refresh updates first."
-msgstr "Die freigegebene Version hat sich geändert. Suchen Sie zuerst erneut nach Updates."
+msgstr ""
+"Die freigegebene Version hat sich geändert. Suchen Sie zuerst erneut nach "
+"Updates."
 
 msgid "The approved release could not be verified."
 msgstr "Die freigegebene Version konnte nicht geprüft werden."
 
 msgid "The calendar could not be loaded. Check your connection and try again."
-msgstr "Der Kalender konnte nicht geladen werden. Bitte prüfe deine Verbindung und versuchen Sie es erneut."
+msgstr ""
+"Der Kalender konnte nicht geladen werden. Bitte prüfe deine Verbindung und "
+"versuchen Sie es erneut."
 
-msgid "The calendar year differs from the current year. Check that this is intentional."
-msgstr "Das Kalenderjahr weicht vom aktuellen Jahr ab. Bitte prüfen, ob das beabsichtigt ist."
+msgid ""
+"The calendar year differs from the current year. Check that this is "
+"intentional."
+msgstr ""
+"Das Kalenderjahr weicht vom aktuellen Jahr ab. Bitte prüfen, ob das "
+"beabsichtigt ist."
 
 msgid "The checklist preference could not be saved. Please try again."
-msgstr "Die Checklisten-Einstellung konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
+msgstr ""
+"Die Checklisten-Einstellung konnte nicht gespeichert werden. Bitte versuchen "
+"Sie es erneut."
 
 msgid "The content could not be created."
 msgstr "Der Inhalt konnte nicht erstellt werden."
 
-msgid "The editor choice applies to this website. Existing contents are preserved. Blocks can be kept together in the Classic editor, but should be edited with Block Editor (Gutenberg)."
-msgstr "Die Editor-Auswahl gilt für diese Website. Vorhandene Inhalte bleiben erhalten. Blöcke lassen sich im Classic-Editor zusammenhalten, sollten aber mit dem Block-Editor (Gutenberg) bearbeitet werden."
+msgid ""
+"The editor choice applies to this website. Existing contents are preserved. "
+"Blocks can be kept together in the Classic editor, but should be edited with "
+"Block Editor (Gutenberg)."
+msgstr ""
+"Die Editor-Auswahl gilt für diese Website. Vorhandene Inhalte bleiben "
+"erhalten. Blöcke lassen sich im Classic-Editor zusammenhalten, sollten aber "
+"mit dem Block-Editor (Gutenberg) bearbeitet werden."
 
 msgid "The first door opens in"
 msgstr "Das erste Türchen öffnet sich in"
@@ -1052,43 +1433,94 @@ msgid "The maximum calendar year has been reached."
 msgstr "Das höchste unterstützte Kalenderjahr ist erreicht."
 
 msgid "The plugin must be installed in a stable slug directory."
-msgstr "Das Plugin muss in einem Verzeichnis mit einem festen Slug installiert sein."
+msgstr ""
+"Das Plugin muss in einem Verzeichnis mit einem festen Slug installiert sein."
 
-msgid "The popup is intended for manageable daily contents. Other shortcodes may require complete layouts, forms, scripts or styles that cannot generally be guaranteed in a popup loaded after the page. Daily Scripture is a deliberately integrated exception."
-msgstr "Das Popup ist für überschaubare Tagesinhalte gedacht. Andere Shortcodes können vollständige Layouts, Formulare, Skripte oder Styles benötigen, deren Funktion sich im nachgeladenen Popup nicht allgemein gewährleisten lässt. Daily Scripture ist eine gezielt integrierte Ausnahme."
+msgid ""
+"The popup is intended for manageable daily contents. Other shortcodes may "
+"require complete layouts, forms, scripts or styles that cannot generally be "
+"guaranteed in a popup loaded after the page. Daily Scripture is a "
+"deliberately integrated exception."
+msgstr ""
+"Das Popup ist für überschaubare Tagesinhalte gedacht. Andere Shortcodes "
+"können vollständige Layouts, Formulare, Skripte oder Styles benötigen, deren "
+"Funktion sich im nachgeladenen Popup nicht allgemein gewährleisten lässt. "
+"Daily Scripture ist eine gezielt integrierte Ausnahme."
 
-msgid "The prepared landing page is a normal WordPress page. You can edit it in the block editor (Gutenberg) and set it as your website’s static homepage under Settings → Reading."
-msgstr "Die vorbereitete Landingseite ist eine normale WordPress-Seite. Sie können sie im Block-Editor (Gutenberg) bearbeiten und unter Einstellungen → Lesen als statische Startseite Ihrer Website festlegen."
+msgid ""
+"The prepared landing page is a normal WordPress page. You can edit it in the "
+"block editor (Gutenberg) and set it as your website’s static homepage under "
+"Settings → Reading."
+msgstr ""
+"Die vorbereitete Landingseite ist eine normale WordPress-Seite. Sie können "
+"sie im Block-Editor (Gutenberg) bearbeiten und unter Einstellungen → Lesen "
+"als statische Startseite Ihrer Website festlegen."
 
 msgid "The preview has expired. Please reload the page."
 msgstr "Die Vorschau ist abgelaufen. Bitte laden Sie die Seite neu."
 
-msgid "The private update could not be authorized. Check the repository credentials and refresh updates."
-msgstr "Das private Update konnte nicht autorisiert werden. Prüfen Sie die Repository-Zugangsdaten und suchen Sie erneut nach Updates."
+msgid ""
+"The private update could not be authorized. Check the repository credentials "
+"and refresh updates."
+msgstr ""
+"Das private Update konnte nicht autorisiert werden. Prüfen Sie die "
+"Repository-Zugangsdaten und suchen Sie erneut nach Updates."
 
 msgid "The private update download failed. Check credentials and try again."
-msgstr "Der Download des privaten Updates ist fehlgeschlagen. Prüfen Sie die Zugangsdaten und versuchen Sie es erneut."
+msgstr ""
+"Der Download des privaten Updates ist fehlgeschlagen. Prüfen Sie die "
+"Zugangsdaten und versuchen Sie es erneut."
 
-msgid "The switch only happens after the next calendar is published. An empty date disables the switch. Publish the copied own contents separately when they are ready."
-msgstr "Die Umschaltung erfolgt nur, wenn der nächste Kalender veröffentlicht ist. Ein leeres Datum deaktiviert die Umschaltung. Veröffentlichen Sie die kopierten eigenen Inhalte separat, sobald sie fertig sind."
+msgid ""
+"The switch only happens after the next calendar is published. An empty date "
+"disables the switch. Publish the copied own contents separately when they "
+"are ready."
+msgstr ""
+"Die Umschaltung erfolgt nur, wenn der nächste Kalender veröffentlicht ist. "
+"Ein leeres Datum deaktiviert die Umschaltung. Veröffentlichen Sie die "
+"kopierten eigenen Inhalte separat, sobald sie fertig sind."
 
-msgid "The two fonts are optional and supplied locally under the SIL Open Font License. No Font Library installation or external font service is needed. Theme typography stays unchanged until you choose a font. Browsers download font files only for text that uses them. Plugin font choices require Türchenzeit to remain active."
-msgstr "Die beiden Schriften sind optional und werden lokal unter der SIL Open Font License mitgeliefert. Eine Installation in der Schriftbibliothek oder ein externer Schriftdienst ist nicht erforderlich. Die Theme-Typografie bleibt erhalten, bis Sie eine Schrift auswählen. Der Browser lädt Schriftdateien erst für Text, der sie verwendet. Die Plugin-Schriften stehen zur Verfügung, solange Türchenzeit aktiv ist."
+msgid ""
+"The two fonts are optional and supplied locally under the SIL Open Font "
+"License. No Font Library installation or external font service is needed. "
+"Theme typography stays unchanged until you choose a font. Browsers download "
+"font files only for text that uses them. Plugin font choices require "
+"Türchenzeit to remain active."
+msgstr ""
+"Die beiden Schriften sind optional und werden lokal unter der SIL Open Font "
+"License mitgeliefert. Eine Installation in der Schriftbibliothek oder ein "
+"externer Schriftdienst ist nicht erforderlich. Die Theme-Typografie bleibt "
+"erhalten, bis Sie eine Schrift auswählen. Der Browser lädt Schriftdateien "
+"erst für Text, der sie verwendet. Die Plugin-Schriften stehen zur Verfügung, "
+"solange Türchenzeit aktiv ist."
 
-msgid "The update package could not be verified. The installed version has been preserved."
-msgstr "Das Update-Paket konnte nicht geprüft werden. Die installierte Version bleibt erhalten."
+msgid ""
+"The update package could not be verified. The installed version has been "
+"preserved."
+msgstr ""
+"Das Update-Paket konnte nicht geprüft werden. Die installierte Version "
+"bleibt erhalten."
 
 msgid "There is no need to do everything. One thoughtful gesture is enough."
 msgstr "Es muss nicht alles sein. Eine aufmerksame Geste genügt."
 
-msgid "These button settings apply to all linked entries opened in a popup. Check the text contrast after changing button colors."
-msgstr "Diese Button-Einstellungen gelten für alle verknüpften Inhalte, die sich im Popup öffnen. Prüfen Sie nach Farbänderungen den Textkontrast."
+msgid ""
+"These button settings apply to all linked entries opened in a popup. Check "
+"the text contrast after changing button colors."
+msgstr ""
+"Diese Button-Einstellungen gelten für alle verknüpften Inhalte, die sich im "
+"Popup öffnen. Prüfen Sie nach Farbänderungen den Textkontrast."
 
 msgid "This Advent website is already assigned."
 msgstr "Diese Adventswebsite ist bereits zugeordnet."
 
-msgid "This checklist is a reminder, not an automatic publication check. Its visibility is saved for your user and this calendar."
-msgstr "Diese Checkliste erinnert an die letzten Schritte und ersetzt keine eigene Prüfung vor dem Veröffentlichen. Ihre Sichtbarkeit wird für Ihren Nutzer und diesen Kalender gespeichert."
+msgid ""
+"This checklist is a reminder, not an automatic publication check. Its "
+"visibility is saved for your user and this calendar."
+msgstr ""
+"Diese Checkliste erinnert an die letzten Schritte und ersetzt keine eigene "
+"Prüfung vor dem Veröffentlichen. Ihre Sichtbarkeit wird für Ihren Nutzer und "
+"diesen Kalender gespeichert."
 
 msgid "This content is not available yet."
 msgstr "Dieser Inhalt ist noch nicht verfügbar."
@@ -1099,23 +1531,58 @@ msgstr "Dieses Türchen ist noch nicht verfügbar."
 msgid "Tips for your Advent website"
 msgstr "Tipps für Ihre Adventswebsite"
 
-msgid "Today I would like to share a memory, a thank-you, or a little hope with you."
-msgstr "Heute möchte ich eine Erinnerung, ein Dankeschön oder ein wenig Hoffnung mit Ihnen teilen."
+msgid ""
+"Today I would like to share a memory, a thank-you, or a little hope with you."
+msgstr ""
+"Heute möchte ich eine Erinnerung, ein Dankeschön oder ein wenig Hoffnung mit "
+"Ihnen teilen."
 
 msgid "Try again"
 msgstr "Erneut versuchen"
 
-msgid "Türchenzeit brings 24 little moments of Advent to your WordPress website. Combine dedicated daily content with existing posts or pages, choose a design, and let a new door open each day. You can also create a fully editable Advent landing page, ready to return with fresh content each year. The German name evokes the season of opening little Advent calendar doors. Part of the Inspiration series, Türchenzeit draws on the Christmas warmth of Germany’s Ore Mountains."
-msgstr "Türchenzeit bringt 24 kleine Adventsmomente auf Ihre WordPress-Website. Kombinieren Sie eigene Türcheninhalte mit vorhandenen Beiträgen oder Seiten, wählen Sie ein passendes Design und lassen Sie jeden Tag ein neues Türchen öffnen. Auf Wunsch entsteht daraus eine vollständig bearbeitbare Adventswebsite – einmal eingerichtet, jedes Jahr mit neuen Inhalten. Ein Projekt aus der Serie Inspiration, mit Wärme aus dem Erzgebirge."
+msgid ""
+"Türchenzeit brings 24 little moments of Advent to your WordPress website. "
+"Combine dedicated daily content with existing posts or pages, choose a "
+"design, and let a new door open each day. You can also create a fully "
+"editable Advent landing page, ready to return with fresh content each year. "
+"The German name evokes the season of opening little Advent calendar doors. "
+"Part of the Inspiration series, Türchenzeit draws on the Christmas warmth of "
+"Germany’s Ore Mountains."
+msgstr ""
+"Türchenzeit bringt 24 kleine Adventsmomente auf Ihre WordPress-Website. "
+"Kombinieren Sie eigene Türcheninhalte mit vorhandenen Beiträgen oder Seiten, "
+"wählen Sie ein passendes Design und lassen Sie jeden Tag ein neues Türchen "
+"öffnen. Auf Wunsch entsteht daraus eine vollständig bearbeitbare "
+"Adventswebsite – einmal eingerichtet, jedes Jahr mit neuen Inhalten. Ein "
+"Projekt aus der Serie Inspiration, mit Wärme aus dem Erzgebirge."
 
-msgid "Türchenzeit is a German name that evokes the season of opening little Advent calendar doors: one new door each day, from December 1 to 24."
-msgstr "Türchenzeit ist die Zeit der kleinen Adventsüberraschungen: vom 1. bis zum 24. Dezember jeden Tag ein neues Türchen."
+msgid ""
+"Türchenzeit is a German name that evokes the season of opening little Advent "
+"calendar doors: one new door each day, from December 1 to 24."
+msgstr ""
+"Türchenzeit ist die Zeit der kleinen Adventsüberraschungen: vom 1. bis zum "
+"24. Dezember jeden Tag ein neues Türchen."
 
-msgid "Türchenzeit is a personal project by David Decker, who comes from the Erzgebirge, or Ore Mountains, in southeastern Germany. The region has a rich tradition of Christmas woodcraft: carved figures, wooden Christmas pyramids, and Schwibbögen, the candle arches that light up windows during the festive season. That sense of light, craftsmanship, and welcome is the inspiration behind the plugin’s atmosphere."
-msgstr "Türchenzeit ist ein kleines Herzensprojekt von David Decker, der aus dem Erzgebirge stammt. Die Region wird liebevoll Weihnachtsland genannt: Lichter in den Fenstern, hölzerne Schwibbögen und kunstvolles Handwerk prägen dort die Adventszeit. Diese Wärme soll auch im Plugin spürbar werden – ruhig, einladend und mit Freude an den kleinen Dingen."
+msgid ""
+"Türchenzeit is a personal project by David Decker, who comes from the "
+"Erzgebirge, or Ore Mountains, in southeastern Germany. The region has a rich "
+"tradition of Christmas woodcraft: carved figures, wooden Christmas pyramids, "
+"and Schwibbögen, the candle arches that light up windows during the festive "
+"season. That sense of light, craftsmanship, and welcome is the inspiration "
+"behind the plugin’s atmosphere."
+msgstr ""
+"Türchenzeit ist ein kleines Herzensprojekt von David Decker, der aus dem "
+"Erzgebirge stammt. Die Region wird liebevoll Weihnachtsland genannt: Lichter "
+"in den Fenstern, hölzerne Schwibbögen und kunstvolles Handwerk prägen dort "
+"die Adventszeit. Diese Wärme soll auch im Plugin spürbar werden – ruhig, "
+"einladend und mit Freude an den kleinen Dingen."
 
-msgid "Türchenzeit requires a newer shared deckerweb Updater. Please update the other deckerweb plugins."
-msgstr "Türchenzeit benötigt einen neueren gemeinsamen deckerweb Updater. Bitte aktualisieren Sie die anderen deckerweb-Plugins."
+msgid ""
+"Türchenzeit requires a newer shared deckerweb Updater. Please update the "
+"other deckerweb plugins."
+msgstr ""
+"Türchenzeit benötigt einen neueren gemeinsamen deckerweb Updater. Bitte "
+"aktualisieren Sie die anderen deckerweb-Plugins."
 
 msgid "Türchenzeit standalone landing page"
 msgstr "Türchenzeit – eigenständige Landingpage"
@@ -1177,8 +1644,12 @@ msgstr "Türchenzeit: Bibelvers und Gedanken"
 msgid "Türchenzeit: video story"
 msgstr "Türchenzeit: Videogeschichte"
 
-msgid "Unavailable: ZIP import needs this extension. JSON import and calendars remain available."
-msgstr "Nicht verfügbar: Der ZIP-Import benötigt diese Erweiterung. JSON-Import und Kalender bleiben verfügbar."
+msgid ""
+"Unavailable: ZIP import needs this extension. JSON import and calendars "
+"remain available."
+msgstr ""
+"Nicht verfügbar: Der ZIP-Import benötigt diese Erweiterung. JSON-Import und "
+"Kalender bleiben verfügbar."
 
 msgid "Unsaved changes."
 msgstr "Ungespeicherte Änderungen."
@@ -1195,8 +1666,15 @@ msgstr "Lichterdorf"
 msgid "Watch on YouTube"
 msgstr "Bei YouTube ansehen"
 
-msgid "Welcome to Türchenzeit. Create 24 little moments for the Christmas season, with a calendar on your existing website or an Advent landing page of its own. Start here for a simple setup, inspiration, and a little room to make it yours."
-msgstr "Willkommen in Ihrer Türchenzeit. Gestalten Sie 24 kleine Adventsmomente – als Kalender auf Ihrer Website oder als eigene Adventswebsite. Hier finden Sie die ersten Schritte, Ideen und alles für einen entspannten Start."
+msgid ""
+"Welcome to Türchenzeit. Create 24 little moments for the Christmas season, "
+"with a calendar on your existing website or an Advent landing page of its "
+"own. Start here for a simple setup, inspiration, and a little room to make "
+"it yours."
+msgstr ""
+"Willkommen in Ihrer Türchenzeit. Gestalten Sie 24 kleine Adventsmomente – "
+"als Kalender auf Ihrer Website oder als eigene Adventswebsite. Hier finden "
+"Sie die ersten Schritte, Ideen und alles für einen entspannten Start."
 
 msgid "What am I grateful for today? Whom would I like to remember in prayer?"
 msgstr "Wofür bin ich heute dankbar? An wen möchte ich im Gebet denken?"
@@ -1210,8 +1688,15 @@ msgstr "Was bedeutet „Türchenzeit“?"
 msgid "What you need"
 msgstr "Das wird benötigt"
 
-msgid "When enabling original-content protection, purge existing page, CDN and REST caches and exclude the affected original URLs from full-page caching. Cached responses served before WordPress runs cannot be protected by a plugin."
-msgstr "Beim Einschalten des Originalschutzes vorhandene Seiten-, CDN- und REST-Caches leeren und betroffene Original-URLs vom vollständigen Seiten-Cache ausnehmen. Bereits vor dem WordPress-Aufruf ausgelieferte Cache-Antworten kann ein Plugin nicht schützen."
+msgid ""
+"When enabling original-content protection, purge existing page, CDN and REST "
+"caches and exclude the affected original URLs from full-page caching. Cached "
+"responses served before WordPress runs cannot be protected by a plugin."
+msgstr ""
+"Beim Einschalten des Originalschutzes vorhandene Seiten-, CDN- und REST-"
+"Caches leeren und betroffene Original-URLs vom vollständigen Seiten-Cache "
+"ausnehmen. Bereits vor dem WordPress-Aufruf ausgelieferte Cache-Antworten "
+"kann ein Plugin nicht schützen."
 
 msgid "Winter glow"
 msgstr "Winterlicht"
@@ -1231,11 +1716,25 @@ msgstr "Einem Menschen ein paar freundliche Worte schreiben."
 msgid "Year and appearance"
 msgstr "Jahr und Gestaltung"
 
-msgid "Year: %1$d · Timezone: %2$s · Missing assignments: %3$d · Unavailable contents: %4$d"
-msgstr "Jahr: %1$d · Zeitzone: %2$s · Fehlende Zuordnungen: %3$d · Nicht verfügbare Inhalte: %4$d"
+msgid ""
+"Year: %1$d · Timezone: %2$s · Missing assignments: %3$d · Unavailable "
+"contents: %4$d"
+msgstr ""
+"Jahr: %1$d · Zeitzone: %2$s · Fehlende Zuordnungen: %3$d · Nicht verfügbare "
+"Inhalte: %4$d"
 
-msgid "Yes. Advent means arrival. For Christians, it is a season of expectation and preparation for Christmas, the celebration of the birth of Jesus Christ, the Savior. The Star of Bethlehem and Arrival designs reflect that meaning. Share Bible passages, reflections, or daily devotions, or choose another design for a calendar with a theme of your own."
-msgstr "Ja. Advent heißt Ankunft. Für Christen ist es die Zeit der Erwartung und Vorbereitung auf Weihnachten, das Fest der Geburt Jesu Christi, des Retters. Die Designs Stern von Bethlehem und Ankunft greifen diese Bedeutung auf. Sie können Bibelverse, Andachten und andere Impulse einsetzen – oder mit den weiteren Designs einen Kalender zu einem eigenen Thema gestalten."
+msgid ""
+"Yes. Advent means arrival. For Christians, it is a season of expectation and "
+"preparation for Christmas, the celebration of the birth of Jesus Christ, the "
+"Savior. The Star of Bethlehem and Arrival designs reflect that meaning. "
+"Share Bible passages, reflections, or daily devotions, or choose another "
+"design for a calendar with a theme of your own."
+msgstr ""
+"Ja. Advent heißt Ankunft. Für Christen ist es die Zeit der Erwartung und "
+"Vorbereitung auf Weihnachten, das Fest der Geburt Jesu Christi, des Retters. "
+"Die Designs Stern von Bethlehem und Ankunft greifen diese Bedeutung auf. Sie "
+"können Bibelverse, Andachten und andere Impulse einsetzen – oder mit den "
+"weiteren Designs einen Kalender zu einem eigenen Thema gestalten."
 
 msgid "You are not allowed to access door content."
 msgstr "Sie haben keine Berechtigung, auf Türcheninhalte zuzugreifen."
@@ -1266,3 +1765,792 @@ msgstr "Anleitung für ZIP-Dateien und Bilder"
 
 msgid "ZIP import requires the PHP ZIP extension on your server."
 msgstr "Der ZIP-Import benötigt die PHP-ZIP-Erweiterung auf dem Server."
+
+msgid "Archive verification"
+msgstr "Archivprüfung"
+
+msgid "Catalog approval"
+msgstr "Katalogfreigabe"
+
+msgid "Catalog diagnostics require a public catalog provider."
+msgstr "Die Katalogdiagnose benötigt einen öffentlichen Kataloganbieter."
+
+msgid "Checksum verification"
+msgstr "Prüfsummenprüfung"
+
+msgid "HTTP status: %d."
+msgstr "HTTP-Status: %d."
+
+msgid "Invalid package cleanup provider."
+msgstr "Ungültiger Anbieter für die Paketbereinigung."
+
+msgid "Invalid private download limits."
+msgstr "Ungültige Grenzen für private Downloads."
+
+msgid "Package download"
+msgstr "Paketdownload"
+
+msgid "Safe package cleanup is unavailable for this update provider."
+msgstr "Für diesen Updateanbieter ist keine sichere Paketbereinigung verfügbar."
+
+msgid "The archive or plugin identity could not be verified. Installation was stopped."
+msgstr "Das Archiv oder die Pluginidentität konnte nicht geprüft werden. Die Installation wurde gestoppt."
+
+msgid "The package does not match the approved checksum. Installation was stopped."
+msgstr "Das Paket entspricht nicht der freigegebenen Prüfsumme. Die Installation wurde gestoppt."
+
+msgid "The secure connection to the update server failed."
+msgstr "Die sichere Verbindung zum Updateserver ist fehlgeschlagen."
+
+msgid "The update package identity, version or requirements could not be verified."
+msgstr "Identität, Version oder Anforderungen des Updatepakets konnten nicht bestätigt werden."
+
+msgid "The update provider did not return valid update data."
+msgstr "Der Updateanbieter hat keine gültigen Updatedaten geliefert."
+
+msgid "The update request timed out. Try again later."
+msgstr "Die Updateanfrage hat zu lange gedauert. Versuchen Sie es später erneut."
+
+msgid "The update server address could not be resolved."
+msgstr "Die Adresse des Updateservers konnte nicht aufgelöst werden."
+
+msgid "The update server could not be reached. Try again later."
+msgstr "Der Updateserver ist nicht erreichbar. Versuchen Sie es später erneut."
+
+msgid "The update server returned an unsuccessful HTTP response."
+msgstr "Der Updateserver hat eine HTTP-Fehlerantwort zurückgegeben."
+
+msgid "Update stopped at %1$s: %2$s"
+msgstr "Update gestoppt bei %1$s: %2$s"
+
+msgid "%1$s of %2$s plugins"
+msgstr "%1$s von %2$s Plugins"
+
+msgid "%s is installed but inactive. Activate it first."
+msgstr "%s ist installiert, aber inaktiv. Bitte zuerst aktivieren."
+
+msgid "%s is missing. Install and activate it first."
+msgstr "%s fehlt. Bitte zuerst installieren und aktivieren."
+
+msgid "%s must be network activated first."
+msgstr "%s muss zuerst netzwerkweit aktiviert werden."
+
+msgid "%s supports activation per site only."
+msgstr "%s unterstützt nur die Aktivierung je Website."
+
+msgid "Action cancelled."
+msgstr "Vorgang abgebrochen."
+
+msgid "Activate"
+msgstr "Aktivieren"
+
+msgid "Activate Bricks QuickNav per site after selecting the Bricks parent or child theme."
+msgstr "Bricks QuickNav bitte je Website aktivieren, nachdem das Bricks-Theme oder ein Child-Theme ausgewählt wurde."
+
+msgid "Activating…"
+msgstr "Wird aktiviert…"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Active filters: "
+msgstr "Aktive Filter: "
+
+msgid "Admin"
+msgstr "Administration"
+
+msgid "Affected features remain paused until their requirements are met."
+msgstr "Betroffene Funktionen pausieren, bis ihre Voraussetzungen erfüllt sind."
+
+msgid "All"
+msgstr "Alle"
+
+msgid "Already active"
+msgstr "Bereits aktiv"
+
+msgid "Already up to date."
+msgstr "Bereits aktuell."
+
+msgid "Another action for this plugin is running. Please wait."
+msgstr "Für dieses Plugin läuft bereits eine Aktion. Bitte warten."
+
+msgid "Another component interrupted the request. If Git Updater is active, temporarily deactivate it and retry."
+msgstr "Eine andere Komponente hat die Anfrage unterbrochen. Falls Git Updater aktiv ist, deaktivieren Sie ihn vorübergehend und wiederholen Sie den Vorgang."
+
+msgid "Another updater provides a different release. Refresh updates before continuing."
+msgstr "Ein anderer Updater bietet einen abweichenden Release an. Bitte die Updateinformationen vor dem Fortfahren aktualisieren."
+
+msgid "Apr"
+msgstr "Apr"
+
+msgid "April"
+msgstr "April"
+
+msgid "Archive contains too many files."
+msgstr "Das Archiv enthält zu viele Dateien."
+
+msgid "Archive symlinks are not permitted."
+msgstr "Symbolische Verknüpfungen sind im Archiv nicht erlaubt."
+
+msgid "As of "
+msgstr "Stand: "
+
+msgid "Aug"
+msgstr "Aug"
+
+msgid "August"
+msgstr "August"
+
+msgid "Back to deckerweb"
+msgstr "Zurück zu deckerweb"
+
+msgid "Builder"
+msgstr "Builder"
+
+msgid "Bundled catalog"
+msgstr "Mitgelieferter Katalog"
+
+msgid "Cached or bundled catalog"
+msgstr "Gespeicherter oder mitgelieferter Katalog"
+
+msgid "Cannot create temporary file."
+msgstr "Temporäre Datei konnte nicht erstellt werden."
+
+msgid "Cannot create verified archive."
+msgstr "Geprüftes Archiv konnte nicht erstellt werden."
+
+msgid "Cannot finalize archive."
+msgstr "Archiv konnte nicht abgeschlossen werden."
+
+msgid "Cannot normalize archive."
+msgstr "Archiv konnte nicht aufbereitet werden."
+
+msgid "Cannot read archive entry."
+msgstr "Archiveintrag konnte nicht gelesen werden."
+
+msgid "Catalog URL"
+msgstr "Katalog-URL"
+
+msgid "Catalog refreshed."
+msgstr "Katalog aktualisiert."
+
+msgid "Catalog retrieval does not limit updates of installed plugins. Those use their normal WordPress update provider."
+msgstr "Der Katalogabruf begrenzt keine Updates installierter Plugins. Diese verwenden ihren normalen WordPress-Updater."
+
+msgid "Catalog verification"
+msgstr "Katalogprüfung"
+
+msgid "Check status"
+msgstr "Status prüfen"
+
+msgid "Checking status…"
+msgstr "Status wird geprüft…"
+
+msgid "Commerce"
+msgstr "Commerce"
+
+msgid "Compatible additions only"
+msgstr "Nur passende Ergänzungen"
+
+msgid "Connection failed. Please try again later."
+msgstr "Die Verbindung ist fehlgeschlagen. Bitte später erneut versuchen."
+
+msgid "Content"
+msgstr "Inhalte"
+
+msgid "Copy diagnostic information"
+msgstr "Diagnoseinformationen kopieren"
+
+msgid "Dec"
+msgstr "Dez"
+
+msgid "December"
+msgstr "Dezember"
+
+msgid "Delete Library settings when removing the last host plugin"
+msgstr "Library-Einstellungen beim Entfernen des letzten Host-Plugins ebenfalls löschen"
+
+msgid "Details & requirements"
+msgstr "Details & Voraussetzungen"
+
+msgid "Discover more plugins by deckerweb"
+msgstr "Weitere Plugins von deckerweb entdecken"
+
+msgid "Discover randomly"
+msgstr "Zufällig entdecken"
+
+msgid "Dismiss permanently"
+msgstr "Dauerhaft schließen"
+
+msgid "Done. The plugin is active."
+msgstr "Erledigt. Das Plugin ist aktiv."
+
+msgid "Enter a catalog URL first."
+msgstr "Bitte zuerst eine Katalog-URL eintragen."
+
+msgid "Expanded archive is too large."
+msgstr "Das entpackte Archiv ist zu groß."
+
+msgid "F j, Y"
+msgstr "j. F Y"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "February"
+msgstr "Februar"
+
+msgid "Filesystem credentials are required."
+msgstr "Zugangsdaten für das Dateisystem werden benötigt."
+
+msgid "Filesystem credentials are required. Use the catalog with JavaScript enabled or the native Plugins screen."
+msgstr "Dateisystem-Zugangsdaten sind erforderlich. Bitte den Katalog mit aktiviertem JavaScript oder die WordPress-Pluginverwaltung verwenden."
+
+msgid "Filter"
+msgstr "Filtern"
+
+msgid "Fits my installation"
+msgstr "Passt zu meiner Installation"
+
+msgid "Fixed"
+msgstr "Behoben"
+
+msgid "Fri"
+msgstr "Fr"
+
+msgid "Friday"
+msgstr "Freitag"
+
+msgid "GitHub Stars"
+msgstr "GitHub-Sterne"
+
+msgid "Hide catalog"
+msgstr "Katalog ausblenden"
+
+msgid "Improved"
+msgstr "Verbessert"
+
+msgid "Inactive"
+msgstr "Inaktiv"
+
+msgid "Install and activate this plugin in the network admin."
+msgstr "Dieses Plugin bitte im Netzwerk-Admin installieren und aktivieren."
+
+msgid "Install deckerweb plugin"
+msgstr "deckerweb-Plugin installieren"
+
+msgid "Install now"
+msgstr "Jetzt installieren"
+
+msgid "Installation cancelled."
+msgstr "Installation abgebrochen."
+
+msgid "Installation failed."
+msgstr "Installation fehlgeschlagen."
+
+msgid "Installed"
+msgstr "Installiert"
+
+msgid "Installed plugin identity does not match the approved release."
+msgstr "Die Identität des installierten Plugins stimmt nicht mit dem freigegebenen Release überein."
+
+msgid "Installed plugins use their normal update provider. Reload the update information and try again."
+msgstr "Installierte Plugins verwenden ihren normalen Updater. Aktualisieren Sie die Updateinformationen und versuchen Sie es erneut."
+
+msgid "Installed · inactive"
+msgstr "Installiert · inaktiv"
+
+msgid "Installed: "
+msgstr "Installiert: "
+
+msgid "Installing…"
+msgstr "Wird installiert…"
+
+msgid "Invalid ZIP archive."
+msgstr "Ungültiges ZIP-Archiv."
+
+msgid "Invalid approval flag."
+msgstr "Ungültige Freigabeangabe."
+
+msgid "Invalid catalog field: "
+msgstr "Ungültiges Katalogfeld: "
+
+msgid "Invalid catalog revision."
+msgstr "Ungültiger Katalogstand."
+
+msgid "Invalid catalog schema."
+msgstr "Ungültiges Katalogformat."
+
+msgid "Invalid catalog timestamp."
+msgstr "Ungültiger Katalogzeitpunkt."
+
+msgid "Invalid dependencies."
+msgstr "Ungültige Abhängigkeiten."
+
+msgid "Invalid dependency URL."
+msgstr "Ungültige URL einer Abhängigkeit."
+
+msgid "Invalid dependency metadata."
+msgstr "Ungültige Angaben zu Abhängigkeiten."
+
+msgid "Invalid display field."
+msgstr "Ungültiges Anzeigefeld."
+
+msgid "Invalid icon color."
+msgstr "Ungültige Icon-Farbe."
+
+msgid "Invalid icon label."
+msgstr "Ungültiges Icon-Kürzel."
+
+msgid "Invalid identity or release metadata."
+msgstr "Ungültige Plugin- oder Release-Angaben."
+
+msgid "Invalid local icon."
+msgstr "Ungültiges lokales Icon."
+
+msgid "Invalid network policy."
+msgstr "Ungültige Netzwerkregel."
+
+msgid "Invalid network requirement."
+msgstr "Ungültige Netzwerkanforderung."
+
+msgid "Invalid platform version."
+msgstr "Ungültige Plattformversion."
+
+msgid "Invalid plugin series."
+msgstr "Ungültige Plugin-Serie."
+
+msgid "Invalid sort order."
+msgstr "Ungültige Sortierung."
+
+msgid "Invalid star count."
+msgstr "Ungültige Anzahl der GitHub-Sterne."
+
+msgid "Invalid stars date."
+msgstr "Ungültiges Datum der GitHub-Sterne."
+
+msgid "Invalid status filter."
+msgstr "Ungültiger Statusfilter."
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "January"
+msgstr "Januar"
+
+msgid "Jul"
+msgstr "Jul"
+
+msgid "July"
+msgstr "Juli"
+
+msgid "Jun"
+msgstr "Jun"
+
+msgid "June"
+msgstr "Juni"
+
+msgid "Last successful check: "
+msgstr "Zuletzt erfolgreich geprüft: "
+
+msgid "Library"
+msgstr "Library"
+
+msgid "Library changelog"
+msgstr "Library-Änderungsverlauf"
+
+msgid "Library settings"
+msgstr "Library-Einstellungen"
+
+msgid "Library settings saved."
+msgstr "Library-Einstellungen gespeichert."
+
+msgid "Manage Content"
+msgstr "Inhalte verwalten"
+
+msgid "Mar"
+msgstr "Mär"
+
+msgid "March"
+msgstr "März"
+
+msgid "May"
+msgstr "Mai"
+
+msgid "Misc"
+msgstr "Sonstiges"
+
+msgid "Missing display text."
+msgstr "Anzeigetext fehlt."
+
+msgid "Missing plugin header."
+msgstr "Plugin-Header fehlt."
+
+msgid "Mon"
+msgstr "Mo"
+
+msgid "Monday"
+msgstr "Montag"
+
+msgid "More by deckerweb"
+msgstr "Mehr von deckerweb"
+
+msgid "Multisite"
+msgstr "Multisite"
+
+msgid "Name A–Z"
+msgstr "Name A–Z"
+
+msgid "Name Z–A"
+msgstr "Name Z–A"
+
+msgid "Network activate"
+msgstr "Netzwerkweit aktivieren"
+
+msgid "Network active"
+msgstr "Netzwerkweit aktiv"
+
+msgid "Network permission denied."
+msgstr "Keine Berechtigung für das Netzwerk."
+
+msgid "New"
+msgstr "Neu"
+
+msgid "No approved plugins match this selection."
+msgstr "Keine freigegebenen Plugins passen zu dieser Auswahl."
+
+msgid "No update reported."
+msgstr "Kein Update gemeldet."
+
+msgid "Not installed"
+msgstr "Nicht installiert"
+
+msgid "Not installed. You can try again."
+msgstr "Nicht installiert. Ein erneuter Versuch ist möglich."
+
+msgid "Nov"
+msgstr "Nov"
+
+msgid "November"
+msgstr "November"
+
+msgid "Oct"
+msgstr "Okt"
+
+msgid "October"
+msgstr "Oktober"
+
+msgid "Off by default. Applies only when no other host is installed, including inactive hosts. Removes Library settings, installation records and introduction status. Installed plugins, their content and other plugin settings remain unchanged. Network data is shared across sites."
+msgstr "Standardmäßig ausgeschaltet. Gilt nur, wenn kein weiterer Host installiert ist, auch kein deaktivierter. Entfernt Library-Einstellungen, Installationszuordnung und den Status des Einführungshinweises. Installierte Plugins, deren Inhalte und Einstellungen anderer Plugins bleiben erhalten. Netzwerkdaten werden gemeinsam von den Websites genutzt."
+
+msgid "Online catalog"
+msgstr "Online-Katalog"
+
+msgid "Only HTTPS on raw.githubusercontent.com/deckerweb. The server receives the requesting IP address. GitHub is contacted when installing a release."
+msgstr "Nur HTTPS auf raw.githubusercontent.com/deckerweb. Der Server sieht die anfragende IP-Adresse. Beim Installieren eines Releases wird GitHub kontaktiert."
+
+msgid "Only approved releases"
+msgstr "Nur freigegebene Releases"
+
+msgid "Open catalog"
+msgstr "Katalog öffnen"
+
+msgid "Optional. The bundled catalog works immediately. Catalog requests are cached for 24 hours. No site URL, plugin list or usage data is sent."
+msgstr "Optional. Der mitgelieferte Katalog funktioniert sofort. Katalogabfragen werden 24 Stunden zwischengespeichert. Keine Website-URL, Plugin-Liste oder Nutzungsdaten werden übertragen."
+
+msgid "PHP ZIP support is required."
+msgstr "PHP-ZIP-Unterstützung wird benötigt."
+
+msgid "POST required."
+msgstr "Eine POST-Anfrage ist erforderlich."
+
+msgid "Permission denied. Reload the page and check your permissions."
+msgstr "Zugriff verweigert. Laden Sie die Seite neu und prüfen Sie Ihre Berechtigungen."
+
+msgid "Planned: "
+msgstr "Geplant: "
+
+msgid "Plugin identity or version does not match the catalog."
+msgstr "Plugin oder Version stimmt nicht mit dem Katalog überein."
+
+msgid "Plugin is not installed."
+msgstr "Das Plugin ist nicht installiert."
+
+msgid "Plugin series"
+msgstr "Plugin-Serien"
+
+msgid "Plugin status"
+msgstr "Plugin-Status"
+
+msgid "Product website"
+msgstr "Produktwebsite"
+
+msgid "Recently updated"
+msgstr "Zuletzt aktualisiert"
+
+msgid "Refresh catalog"
+msgstr "Katalog aktualisieren"
+
+msgid "Release 1.0.0 is being prepared. Installation will be available after package verification."
+msgstr "Release 1.0.0 wird vorbereitet. Die Installation ist nach Prüfung des Pakets verfügbar."
+
+msgid "Release checksum is verified before installation. Activation is a separate step."
+msgstr "Vor der Installation wird die Release-Prüfsumme geprüft. Die Aktivierung erfolgt separat."
+
+msgid "Release in preparation"
+msgstr "Release in Vorbereitung"
+
+msgid "Release must contain exactly the approved plugin directory."
+msgstr "Das Release muss genau das freigegebene Plugin-Verzeichnis enthalten."
+
+msgid "Remove filter: "
+msgstr "Filter entfernen: "
+
+msgid "Repository & documentation"
+msgstr "Repository & Dokumentation"
+
+msgid "Requirements shown are preliminary until the stable release is verified."
+msgstr "Die gezeigten Voraussetzungen sind bis zur Prüfung des stabilen Releases vorläufig."
+
+msgid "Requires PHP %s or newer."
+msgstr "Benötigt PHP %s oder neuer."
+
+msgid "Requires WordPress %s or newer."
+msgstr "Benötigt WordPress %s oder neuer."
+
+msgid "Requires a WordPress Multisite network."
+msgstr "Benötigt ein WordPress-Multisite-Netzwerk."
+
+msgid "Reset filters"
+msgstr "Filter zurücksetzen"
+
+msgid "Reset view"
+msgstr "Ansicht zurücksetzen"
+
+msgid "Retrieve approved catalog updates online"
+msgstr "Katalogfreigaben online aktualisieren"
+
+msgid "Sat"
+msgstr "Sa"
+
+msgid "Saturday"
+msgstr "Samstag"
+
+msgid "Save settings"
+msgstr "Einstellungen speichern"
+
+msgid "Scripts"
+msgstr "Scripte"
+
+msgid "Search this catalog"
+msgstr "Diesen Katalog durchsuchen"
+
+msgid "Select and copy the text."
+msgstr "Text markieren und kopieren."
+
+msgid "Selected by deckerweb · Installed from GitHub releases"
+msgstr "Von deckerweb ausgewählt · Installation aus GitHub-Releases"
+
+msgid "Sep"
+msgstr "Sep"
+
+msgid "September"
+msgstr "September"
+
+msgid "Settings saved."
+msgstr "Einstellungen gespeichert."
+
+msgid "Shop"
+msgstr "Shop"
+
+msgid "Show deckerweb under Add Plugins"
+msgstr "deckerweb unter „Plugins hinzufügen“ anzeigen"
+
+msgid "Shows plugins whose platform and dependency requirements are met in this site or network. Without this filter, plugins with missing requirements remain visible."
+msgstr "Zeigt Plugins, deren Plattform- und Abhängigkeitsanforderungen auf dieser Website oder im Netzwerk erfüllt sind. Ohne diesen Filter bleiben Plugins mit fehlenden Voraussetzungen sichtbar."
+
+msgid "Shuffle again"
+msgstr "Neu mischen"
+
+msgid "Small plugins. Practical improvements."
+msgstr "Kleine Plugins. Konkrete Verbesserungen."
+
+msgid "Sort by"
+msgstr "Sortieren nach"
+
+msgid "Source: GitHub"
+msgstr "Quelle: GitHub"
+
+msgid "Stage: %1$s. %2$s"
+msgstr "Fehlerstufe: %1$s. %2$s"
+
+msgid "Standard"
+msgstr "Standard"
+
+msgid "Sun"
+msgstr "So"
+
+msgid "Sunday"
+msgstr "Sonntag"
+
+msgid "Technical information"
+msgstr "Technische Informationen"
+
+msgid "The GitHub release could not be downloaded."
+msgstr "Das GitHub-Release konnte nicht heruntergeladen werden."
+
+msgid "The action is still running. Check its status again."
+msgstr "Die Aktion läuft noch. Bitte den Status erneut prüfen."
+
+msgid "The approved package could not be verified."
+msgstr "Das freigegebene Paket konnte nicht geprüft werden."
+
+msgid "The catalog URL is not an allowed first-party HTTPS endpoint."
+msgstr "Die Katalog-URL ist keine erlaubte eigene HTTPS-Quelle."
+
+msgid "The catalog could not be verified. Please try again later."
+msgstr "Der Katalog konnte nicht geprüft werden. Bitte später erneut versuchen."
+
+msgid "The catalog is disabled."
+msgstr "Der Katalog ist deaktiviert."
+
+msgid "The catalog is hidden."
+msgstr "Der Katalog ist ausgeblendet."
+
+msgid "The catalog response is invalid, incompatible or too large."
+msgstr "Die Katalogantwort ist ungültig, inkompatibel oder zu groß."
+
+msgid "The connection timed out. Please try again later."
+msgstr "Die Zeit für die Verbindung wurde überschritten. Bitte später erneut versuchen."
+
+msgid "The deckerweb catalog could not load. Check platform requirements and the complete Library integration in the host plugin."
+msgstr "Der deckerweb-Katalog konnte nicht geladen werden. Bitte PHP-/WordPress-Anforderungen und die vollständige Library-Einbindung im Host-Plugin prüfen."
+
+msgid "The installed plugin identity could not be verified for this catalog update."
+msgstr "Die Identität des installierten Plugins konnte für dieses Katalogupdate nicht bestätigt werden."
+
+msgid "The installed plugin identity could not be verified. Use the Plugins screen to review it."
+msgstr "Die Identität des installierten Plugins konnte nicht geprüft werden. Prüfen Sie es auf der Plugins-Seite."
+
+msgid "The online catalog is unavailable. Showing cached or bundled entries; online approval is checked again before installation."
+msgstr "Der Online-Katalog ist nicht erreichbar. Angezeigt wird der gespeicherte oder mitgelieferte Katalog; vor der Installation wird die Online-Freigabe erneut geprüft."
+
+msgid "The online catalog source is not trusted."
+msgstr "Die Online-Katalogquelle ist nicht vertrauenswürdig."
+
+msgid "The package checksum does not match the approved release. Installation was stopped."
+msgstr "Die Paketprüfsumme stimmt nicht mit der freigegebenen Version überein. Die Installation wurde gestoppt."
+
+msgid "The package did not pass the archive or plugin identity checks. Installation was stopped."
+msgstr "Das Paket hat die Archiv- oder Plugin-Identitätsprüfung nicht bestanden. Die Installation wurde gestoppt."
+
+msgid "The release checksum does not match. Installation stopped."
+msgstr "Die Prüfsumme des Releases stimmt nicht überein. Installation gestoppt."
+
+msgid "The request could not be completed. Check the plugin status before trying again."
+msgstr "Die Anfrage konnte nicht abgeschlossen werden. Vor einem erneuten Versuch den Plugin-Status prüfen."
+
+msgid "The requirements below describe the catalog version for first installation, not an installed-plugin update."
+msgstr "Die folgenden Voraussetzungen beschreiben die Katalogversion für die Erstinstallation, nicht ein Bestandsupdate."
+
+msgid "The requirements below describe the offered release."
+msgstr "Die folgenden Voraussetzungen beziehen sich auf den angebotenen Release."
+
+msgid "The secure connection could not be verified."
+msgstr "Die sichere Verbindung konnte nicht bestätigt werden."
+
+msgid "The server address could not be resolved."
+msgstr "Die Serveradresse konnte nicht aufgelöst werden."
+
+msgid "The server returned HTTP %d. Please try again later."
+msgstr "Der Server hat HTTP %d zurückgegeben. Bitte später erneut versuchen."
+
+msgid "The update has not been confirmed. You can try again."
+msgstr "Die Aktualisierung wurde nicht bestätigt. Sie können es erneut versuchen."
+
+msgid "These details contain component versions and catalog status, without credentials or site content."
+msgstr "Diese Angaben enthalten Komponentenversionen und den Katalogstatus, keine Zugangsdaten oder Website-Inhalte."
+
+msgid "This catalog requires a newer Library."
+msgstr "Dieser Katalog benötigt eine neuere Library."
+
+msgid "This plugin directory already exists. Use the installed plugin; it will not be overwritten."
+msgstr "Dieses Plugin-Verzeichnis existiert bereits. Bitte das installierte Plugin verwenden; es wird nicht überschrieben."
+
+msgid "This release is no longer approved."
+msgstr "Dieses Release ist nicht mehr freigegeben."
+
+msgid "This release is not approved."
+msgstr "Dieses Release ist nicht freigegeben."
+
+msgid "Thu"
+msgstr "Do"
+
+msgid "Thursday"
+msgstr "Donnerstag"
+
+msgid "Tools"
+msgstr "Werkzeuge"
+
+msgid "Tue"
+msgstr "Di"
+
+msgid "Tuesday"
+msgstr "Dienstag"
+
+msgid "Unsafe archive path."
+msgstr "Unsicherer Archivpfad."
+
+msgid "Untrusted release URL."
+msgstr "Nicht vertrauenswürdige Release-URL."
+
+msgid "Update %1$s to version %2$s or newer."
+msgstr "%1$s bitte auf Version %2$s oder neuer aktualisieren."
+
+msgid "Update available"
+msgstr "Update verfügbar"
+
+msgid "Update available: %s"
+msgstr "Update verfügbar: %s"
+
+msgid "Update failed."
+msgstr "Aktualisierung fehlgeschlagen."
+
+msgid "Update information changed. Reload the page and try again."
+msgstr "Die Updateinformationen haben sich geändert. Laden Sie die Seite neu und versuchen Sie es erneut."
+
+msgid "Update to %s"
+msgstr "Auf %s aktualisieren"
+
+msgid "Updated"
+msgstr "Aktualisiert"
+
+msgid "Updating…"
+msgstr "Wird aktualisiert…"
+
+msgid "Use the Plugins screen to manage this installed plugin."
+msgstr "Verwalten Sie dieses installierte Plugin auf der Plugins-Seite."
+
+msgid "Verified first installations · Independent plugin updates"
+msgstr "Geprüfte Erstinstallationen · Unabhängige Pluginupdates"
+
+msgid "View plugins"
+msgstr "Plugins ansehen"
+
+msgid "Visibility"
+msgstr "Sichtbarkeit"
+
+msgid "Wed"
+msgstr "Mi"
+
+msgid "Wednesday"
+msgstr "Mittwoch"
+
+msgid "WordPress"
+msgstr "WordPress"
+
+msgid "You already use one of my plugins. Find selected additions in the deckerweb tab."
+msgstr "Sie nutzen bereits ein Plugin von mir. Ausgewählte Ergänzungen finden Sie im deckerweb-Tab."
+
+msgid "Updated deckerweb Library to 1.3.0 and Updater to 2.4.0: normal updates are independent of the catalog, with bounded downloads and stricter package checks."
+msgstr "deckerweb Library auf 1.3.0 und Updater auf 2.4.0 aktualisiert: normale Updates unabhängig vom Katalog, begrenzte Downloads und strengere Paketprüfung."

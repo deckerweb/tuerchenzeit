@@ -8,7 +8,7 @@
 
 Türchenzeit bringt 24 kleine Adventsmomente auf deine WordPress-Website. Kombiniere eigene Türcheninhalte mit vorhandenen Beiträgen oder Seiten, wähle ein passendes Design und lass jeden Tag ein neues Türchen öffnen. Auf Wunsch entsteht daraus eine vollständig bearbeitbare Adventswebsite – einmal eingerichtet, jedes Jahr mit neuen Inhalten. Ein Projekt aus der Serie Inspiration, mit Wärme aus dem Erzgebirge.
 
-**Version 1.0.1** · WordPress ab 6.9 · PHP ab 8.3 · GPL-2.0-or-later.
+**Version 1.0.2** · WordPress ab 6.9 · PHP ab 8.3 · GPL-2.0-or-later.
 
 [Auf einen Blick](#auf-einen-blick) · [Erste Schritte](#erste-schritte) · [Funktionen](#funktionen) · [FAQ](#faq) · [Datenschutz](#datenschutz-und-verbindungen)
 
@@ -116,6 +116,10 @@ Natürlich dürfen hinter den Türchen auch Gutscheine, Angebote oder Produktide
 
 ## Änderungsverlauf
 
+### 1.0.2 · 2026-11-09
+
+- **Behoben:** deckerweb Library auf 1.3.0 und Updater auf 2.4.0 aktualisiert: normale Updates unabhängig vom Katalog, begrenzte Downloads und strengere Paketprüfung.
+
 ### 1.0.1 · 2026-10-23
 
 **Behoben:**
@@ -148,6 +152,6 @@ Entwickelt und gepflegt von David Decker – DECKERWEB.
 
 Copyright © 2026 David Decker – DECKERWEB. [GPL-2.0-or-later](https://github.com/deckerweb/tuerchenzeit/blob/main/LICENSE).
 
-Mitgelieferte Komponenten: deckerweb Library 1.1.0 und deckerweb Updater 2.2.1 (GPL-2.0-or-later). Source Serif 4 und Inter werden lokal unter SIL Open Font License 1.1 mitgeliefert. Die freigegebenen SVG-Grafiken verwenden Vektorformen und Schriftpfade, ohne eingebettete Rasterbilder oder externe Ressourcen.
+Mitgelieferte Komponenten: deckerweb Library 1.3.0 und deckerweb Updater 2.4.0 (GPL-2.0-or-later). Source Serif 4 und Inter werden lokal unter SIL Open Font License 1.1 mitgeliefert. Die freigegebenen SVG-Grafiken verwenden Vektorformen und Schriftpfade, ohne eingebettete Rasterbilder oder externe Ressourcen.
 
 [Font licenses and provenance](https://github.com/deckerweb/tuerchenzeit/blob/main/licenses/FONTS.txt) · [Source Serif 4](https://github.com/deckerweb/tuerchenzeit/blob/main/licenses/Source-Serif-4-OFL.txt) · [Inter](https://github.com/deckerweb/tuerchenzeit/blob/main/licenses/Inter-OFL.txt)
